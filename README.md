@@ -17,8 +17,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 2. Clone the repository and install the required packages.
 ```bash
-git clone https://github.com/your_username/EverythingOfThought.git  
-cd EverythingOfThought  
+git clone https://github.com/microsoft/Everything-of-Thoughts-XoT-.git 
+cd Everything-of-Thoughts-XoT-  
 conda create -n xot python=3.8
 conda activate xot
 pip install -r requirements.txt  
