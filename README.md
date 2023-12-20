@@ -102,7 +102,7 @@ task:
   task_end_index: 1  # The end data indices for the tasks.
   
 gpt:  # gpt: Configuration for the GPT model:
-  backend: gpt-35-turbo-20220309 # The specific GPT model to use.
+  backend: gpt-4 # The specific GPT model to use.
   temperature: 0.0  
   stop: None    
   
