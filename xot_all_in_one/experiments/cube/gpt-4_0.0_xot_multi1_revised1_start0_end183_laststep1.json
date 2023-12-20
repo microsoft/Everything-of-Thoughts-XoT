@@ -1,0 +1,4699 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "1. Restoration Moves: U F R' F' U2\n2. Restoration Moves: F' U2 F2 R' U2\n3. Restoration Moves: F R' U2 R' U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 440,
+        "model_call_phase1": 35,
+        "model_call_phase2": 405
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "1. Restoration Moves: U' R2 R' U U\n2. Restoration Moves: R2 R' U U\n3. Restoration Moves: R2 R' U U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 124,
+        "model_call_phase1": 31,
+        "model_call_phase2": 93
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "1. Restoration Moves: F2 R2\n2. Restoration Moves: F2 R2\n3. Restoration Moves: F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 12,
+        "model_call_phase1": 12,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "1. Restoration Moves: R2 F'\n2. Restoration Moves: R2 F'\n3. Restoration Moves: R' R' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "1. Restoration Moves: F R2\n2. Restoration Moves: F' R2\n3. Restoration Moves: F2 F R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 8,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "1. Restoration Moves: U' R' F'\n2. Restoration Moves: U' R' F'\n3. Restoration Moves: U' R' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 35,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "1. Restoration Moves: R' U U R2\n2. Restoration Moves: F' U U U R' R2\n3. Restoration Moves: F' U U U R' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 87,
+        "model_call_phase1": 36,
+        "model_call_phase2": 51
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "1. Restoration Moves: R' R' R' U F\n2. Restoration Moves: R2 R' U F\n3. Restoration Moves: R2 R' U F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 313,
+        "model_call_phase1": 30,
+        "model_call_phase2": 283
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "1. Restoration Moves: U R' U R2 U R'\n2. Restoration Moves: U R' U2 F R\n3. Restoration Moves: F R U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 573,
+        "model_call_phase1": 31,
+        "model_call_phase2": 542
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "1. Restoration Moves: F2 R U2\n2. Restoration Moves: F F R U U\n3. Restoration Moves: F F R U U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 115,
+        "model_call_phase1": 33,
+        "model_call_phase2": 82
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "1. Restoration Moves: R' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "1. Restoration Moves: F2 U\n2. Restoration Moves: F2 U\n3. Restoration Moves: F2 U\n\nSince the cube state is very close to the restored state, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 31,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "1. Restoration Moves: R' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "1. Restoration Moves: U2 F2\n2. Restoration Moves: U2 F2\n3. Restoration Moves: U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "1. Restoration Moves: U U U2 U\n2. Restoration Moves: F F U U\n3. Restoration Moves: F F U U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 31,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "1. Restoration Moves: R' U'\n2. Restoration Moves: R' U'\n3. Restoration Moves: F2 R' F F R' U' F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 76,
+        "model_call_phase1": 4,
+        "model_call_phase2": 72
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "1. Restoration Moves: U R' F2\n2. Restoration Moves: U R' F2\n3. Restoration Moves: F' F U R' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 25,
+        "model_call_phase1": 8,
+        "model_call_phase2": 17
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "1. Restoration Moves: U' R2 F2\n2. Restoration Moves: U' R2 F2\n3. Restoration Moves: U' R2 F2\n\nIn this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 15,
+        "model_call_phase1": 15,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "1. Restoration Moves: U R' R2 F2\n2. Restoration Moves: U R' R2 F2\n3. Restoration Moves: U R' R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 6,
+        "model_call_phase2": 5
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "1. Restoration Moves: U U F' R'\n2. Restoration Moves: U U F2 R'\n3. Restoration Moves: U U F2 R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 65,
+        "model_call_phase1": 34,
+        "model_call_phase2": 31
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "1. Restoration Moves: U' U' R'\n2. Restoration Moves: U U R'\n3. Restoration Moves: U2 R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 15,
+        "model_call_phase1": 9,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "1. Restoration Moves: R' R' F'\n2. Restoration Moves: R2 F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "1. Restoration Moves: U' R' R' F\n2. Restoration Moves: U' R2 F\n3. Restoration Moves: U' R' R' F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 6,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "1. Restoration Moves: U U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "1. Restoration Moves: R' R' U'\n2. Restoration Moves: R2 U'\n3. Restoration Moves: R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 9,
+        "model_call_phase1": 7,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "1. Restoration Moves: F R'\n2. Restoration Moves: F R2 R'\n3. Restoration Moves: F R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 3,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "1. Restoration Moves: U' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "1. Restoration Moves: R' U R2\n2. Restoration Moves: R' U U R2\n3. Restoration Moves: R' U U R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 65,
+        "model_call_phase1": 36,
+        "model_call_phase2": 29
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "1. Restoration Moves: F2 F U U F\n2. Restoration Moves: F2 F U U F\n3. Restoration Moves: F2 F U U F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 67,
+        "model_call_phase1": 28,
+        "model_call_phase2": 39
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "1. Restoration Moves: U' F\n2. Restoration Moves: U' F2 F'\n3. Restoration Moves: U' F2 F F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 3,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "1. Restoration Moves: U R2 U2 U F'\n2. Restoration Moves: U R2 U2 U U F2\n3. Restoration Moves: U R' F2 U U U U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 806,
+        "model_call_phase1": 29,
+        "model_call_phase2": 777
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "1. Restoration Moves: U U F' R' F' F' R'\n2. Restoration Moves: U F' R' F' F' F'\n3. Restoration Moves: F' R' F' F' R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 417,
+        "model_call_phase1": 34,
+        "model_call_phase2": 383
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "1. Restoration Moves: F U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "1. Restoration Moves: U' F2\n2. Restoration Moves: U' F2\n3. Restoration Moves: U' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "1. Restoration Moves: F F U' F\n2. Restoration Moves: F F U' F\n3. Restoration Moves: F F U' F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 33,
+        "model_call_phase2": 5
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "1. Restoration Moves: U2 R' R' U F'\n2. Restoration Moves: U2 R' F2 R2\n3. Restoration Moves: F2 R2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 626,
+        "model_call_phase1": 34,
+        "model_call_phase2": 592
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "1. Restoration Moves: U U R2 R'\n2. Restoration Moves: U U R2 R'\n3. Restoration Moves: U U R' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 5,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "1. Restoration Moves: U R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "1. Restoration Moves: R U' F'\n2. Restoration Moves: R U' F'\n3. Restoration Moves: R U' F'\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 48,
+        "model_call_phase1": 32,
+        "model_call_phase2": 16
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "1. Restoration Moves: F2 R' U\n2. Restoration Moves: F2 R' U\n3. Restoration Moves: F2 R' U\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 30,
+        "model_call_phase2": 16
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "1. Restoration Moves: R' R' F U U R'\n2. Restoration Moves: R' R' F U U R'\n3. Restoration Moves: R' R' F U U R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 114,
+        "model_call_phase1": 29,
+        "model_call_phase2": 85
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "1. Restoration Moves: U F' U R2\n2. Restoration Moves: F' U R'\n3. Restoration Moves: F' U R' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 99,
+        "model_call_phase1": 34,
+        "model_call_phase2": 65
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "1. Restoration Moves: R' U\n2. Restoration Moves: R' U\n3. Restoration Moves: R' U\n\nIn this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 5,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "1. Restoration Moves: U U F2 F' R' U'\n2. Restoration Moves: U U F2 F' R' U'\n3. Restoration Moves: U U F2 F' R' U'\n\nIn this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 73,
+        "model_call_phase1": 33,
+        "model_call_phase2": 40
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "1. Restoration Moves: R' R' R' F R'\n2. Restoration Moves: R' R' R' F R'\n3. Restoration Moves: R' R' R' F R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 95,
+        "model_call_phase1": 34,
+        "model_call_phase2": 61
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "1. Restoration Moves: R' R2 U U R2 R'\n2. Restoration Moves: R' R2 U U R2 R'\n3. Restoration Moves: R' R2 U U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 62,
+        "model_call_phase1": 30,
+        "model_call_phase2": 32
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "1. Restoration Moves: U2 F'\n2. Restoration Moves: U F' U F'\n3. Restoration Moves: U2 F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "1. Restoration Moves: R2 R' U R'\n2. Restoration Moves: R2 R' U R'\n3. Restoration Moves: R2 R' U R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 58,
+        "model_call_phase1": 33,
+        "model_call_phase2": 25
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "1. Restoration Moves: U R2 F2 U\n2. Restoration Moves: R2 F2 U\n3. Restoration Moves: R2 F2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 153,
+        "model_call_phase1": 32,
+        "model_call_phase2": 121
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "1. Restoration Moves: F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "1. Restoration Moves: U U F' R2\n2. Restoration Moves: U U F' R2\n3. Restoration Moves: U U F' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 106,
+        "model_call_phase1": 34,
+        "model_call_phase2": 72
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "1. Restoration Moves: R' R' R' F U\n2. Restoration Moves: R F U\n3. Restoration Moves: R F U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 88,
+        "model_call_phase1": 32,
+        "model_call_phase2": 56
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "1. Restoration Moves: R2 U F U U R' R' R'\n2. Restoration Moves: R2 F U U R' R' R'\n3. Restoration Moves: R2 U R' R' R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 864,
+        "model_call_phase1": 35,
+        "model_call_phase2": 829
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "1. Restoration Moves: U F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "1. Restoration Moves: F' R' F\n2. Restoration Moves: F' R' F\n3. Restoration Moves: F' R' F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 16,
+        "model_call_phase1": 11,
+        "model_call_phase2": 5
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "1. Restoration Moves: F' U R' U R' F\n2. Restoration Moves: F' F2 F R2\n3. Restoration Moves: F' F2 F R' R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 320,
+        "model_call_phase1": 29,
+        "model_call_phase2": 291
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "1. Restoration Moves: U F R'\n2. Restoration Moves: U F R'\n3. Restoration Moves: U F R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 59,
+        "model_call_phase1": 36,
+        "model_call_phase2": 23
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "1. Restoration Moves: R2 F2\n2. Restoration Moves: R2 F2\n3. Restoration Moves: R' R' F2\n\nPlease note that in this case, all three solutions are essentially the same, just represented differently. The cube can be restored using the move sequence R2 F2."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "1. Restoration Moves: U U R'\n2. Restoration Moves: U U R'\n3. Restoration Moves: U U R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 8,
+        "model_call_phase2": 11
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "1. Restoration Moves: U\n\nSince there is only one solution in this case, the answer is:\n[Initial Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n1 1\nDown:\n0 0\n0 0\nLeft:\n4 4\n5 5\nRight:\n1 1\n2 2\nBack:\n2 2\n4 4\n\n[Restoration Moves]: U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "1. Restoration Moves: U F R' R2\n2. Restoration Moves: U F R2 R'\n3. Restoration Moves: U F R' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 16,
+        "model_call_phase1": 11,
+        "model_call_phase2": 5
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "1. Restoration Moves: R' U U\n2. Restoration Moves: R' U U\n3. Restoration Moves: R' U U\n\nNote: In this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 5,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "1. Restoration Moves: F R2 R'\n2. Restoration Moves: F R2 R'\n3. Restoration Moves: F R' R' R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 4,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "1. Restoration Moves: R' R' F\n2. Restoration Moves: R2 F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "1. Restoration Moves: F' R2\n2. Restoration Moves: F' R2\n3. Restoration Moves: F' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "1. Restoration Moves: U F2\n\n[Initial Cube State]\nUpper:\n3 0\n3 0\nFront:\n4 1\n5 5\nDown:\n3 3\n0 0\nLeft:\n2 2\n4 1\nRight:\n5 5\n4 1\nBack:\n4 1\n2 2\n\n[Solution 1]:\n[Step 1]\n[Move] U\n[Current Cube State]\nUpper:\n3 3\n0 0\nFront:\n5 5\n5 5\nDown:\n3 3\n0 0\nLeft:\n4 1\n4 1\nRight:\n4 1\n4 1\nBack:\n2 2\n2 2\n\n[Step 2]\n[Move] F2\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n5 5\nDown:\n0 0\n0 0\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n2 2\n2 2\n\nFinished.\n\nRestoration Moves: U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": null
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "1. Restoration Moves: F' F' R' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "1. Restoration Moves: R' R' U F'\n2. Restoration Moves: R' R' U U F'\n3. Restoration Moves: R' R' U U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 10,
+        "model_call_phase2": 9
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "1. Restoration Moves: U2 U F\n2. Restoration Moves: U F U U\n3. Restoration Moves: U2 U F U U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 55,
+        "model_call_phase1": 35,
+        "model_call_phase2": 20
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "1. Restoration Moves: U R' R' U R' R' U F'\n2. Restoration Moves: U U U F' U F2\n3. Restoration Moves: F' U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 373,
+        "model_call_phase1": 34,
+        "model_call_phase2": 339
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "1. Restoration Moves: U F\n2. Restoration Moves: U F\n3. Restoration Moves: U F\n\nSince the cube state is the same after each move, there is only one unique solution for this problem, which is U F."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 3,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "1. Restoration Moves: U F' R' U2 R' U R'\n2. Restoration Moves: U U R2 U U F R2\n3. Restoration Moves: U U U F U U R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 660,
+        "model_call_phase1": 34,
+        "model_call_phase2": 626
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "1. Restoration Moves: R U\n2. Restoration Moves: R U\n3. Restoration Moves: R U\n\nSince the cube can be solved in just two moves, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 54,
+        "model_call_phase1": 35,
+        "model_call_phase2": 19
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "1. Restoration Moves: F R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "1. Restoration Moves: U R' U R' U F2 U\n2. Restoration Moves: U R' U R' U R' U\n3. Restoration Moves: U R' U F2 U R' U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 881,
+        "model_call_phase1": 34,
+        "model_call_phase2": 847
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "1. Restoration Moves: R' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "1. Restoration Moves: U' R2 R'\n2. Restoration Moves: U' R2 R'\n3. Restoration Moves: U' R2 R'\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 9,
+        "model_call_phase1": 6,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "1. Restoration Moves: R' F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "1. Restoration Moves: F' U\n2. Restoration Moves: F' U\n3. Restoration Moves: F' U\n\nSince the cube can be solved in just two moves, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 32,
+        "model_call_phase2": 8
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "1. Restoration Moves: U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "1. Restoration Moves: U R' U R' U F'\n2. Restoration Moves: U U R' U F' R'\n3. Restoration Moves: U U U R' U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 886,
+        "model_call_phase1": 37,
+        "model_call_phase2": 849
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "1. Restoration Moves: U' R' R2\n2. Restoration Moves: U' R2 R'\n3. Restoration Moves: U2 U R' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "1. Restoration Moves: U U R' R2 F\n2. Restoration Moves: U U R' R2\n3. Restoration Moves: U2 R' R2 F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 23,
+        "model_call_phase1": 19,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "1. Restoration Moves: R' U' F2\n2. Restoration Moves: R' U' F2\n3. Restoration Moves: R' U' F2\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "1. Restoration Moves: U' R' F R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "1. Restoration Moves: F' U\n2. Restoration Moves: F' U\n3. Restoration Moves: F' U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 32,
+        "model_call_phase1": 26,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "1. Restoration Moves: R' R' R' F\n2. Restoration Moves: R' R2 F\n3. Restoration Moves: R' R' R' F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 6,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "1. Restoration Moves: F' F' R'\n2. Restoration Moves: F' F' R'\n3. Restoration Moves: F2 R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 12,
+        "model_call_phase1": 9,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "1. Restoration Moves: U F R'\n2. Restoration Moves: U F R'\n3. Restoration Moves: F U R' F2 R2 F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 242,
+        "model_call_phase1": 35,
+        "model_call_phase2": 207
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "1. Restoration Moves: F R2 F2\n2. Restoration Moves: F R2 F2\n3. Restoration Moves: F R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 33,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "1. Restoration Moves: U' R'\n2. Restoration Moves: U' R'\n3. Restoration Moves: U' R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 33,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "1. Restoration Moves: R' U'\n2. Restoration Moves: R' U'\n3. Restoration Moves: R' U'\n\nNote: In this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 7,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "1. Restoration Moves: F2 U'\n2. Restoration Moves: F2 U'\n3. Restoration Moves: F2 U'\n\nIn this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 44,
+        "model_call_phase1": 30,
+        "model_call_phase2": 14
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "1. Restoration Moves: R2 R' U'\n2. Restoration Moves: R2 R' U'\n3. Restoration Moves: R' R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 4,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "1. Restoration Moves: R' R' F F U'\n2. Restoration Moves: R' R' F F U'\n3. Restoration Moves: R' R' F F U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 67,
+        "model_call_phase1": 35,
+        "model_call_phase2": 32
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "1. Restoration Moves: U R' U F' U R2 F2\n2. Restoration Moves: U R' U F' U2 R F2\n3. Restoration Moves: U R' U F' U F' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 875,
+        "model_call_phase1": 34,
+        "model_call_phase2": 841
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "1. Restoration Moves: U U F\n2. Restoration Moves: U U F\n3. Restoration Moves: U U F\n\nIn this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 4,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "1. Restoration Moves: R2 R' F'\n2. Restoration Moves: R' R2 F'\n3. Restoration Moves: R2 R' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "1. Restoration Moves: U U R'\n2. Restoration Moves: U U R'\n3. Restoration Moves: U U R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 12,
+        "model_call_phase1": 5,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "1. Restoration Moves: U U R2 R' R2\n2. Restoration Moves: U U U R' R2\n3. Restoration Moves: U U U R' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 13,
+        "model_call_phase1": 6,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "1. Restoration Moves: U U U R2 R'\n2. Restoration Moves: U U R2 R'\n3. Restoration Moves: U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 41,
+        "model_call_phase1": 29,
+        "model_call_phase2": 12
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "1. Restoration Moves: R2 R' U'\n2. Restoration Moves: R2 U'\n3. Restoration Moves: R2 R2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 23,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "1. Restoration Moves: F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "1. Restoration Moves: R2 R' U'\n2. Restoration Moves: R2 R' U'\n3. Restoration Moves: R2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 36,
+        "model_call_phase1": 27,
+        "model_call_phase2": 9
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "1. Restoration Moves: R'\n2. Restoration Moves: R'\n3. Restoration Moves: R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 2,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "1. Restoration Moves: U R' F'\n2. Restoration Moves: F' U R2\n3. Restoration Moves: F' U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 127,
+        "model_call_phase1": 31,
+        "model_call_phase2": 96
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "1. Restoration Moves: U2 U F2 R' F' R'\n2. Restoration Moves: F2 R' F' R' R2\n3. Restoration Moves: F2 R' F' R' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 87,
+        "model_call_phase1": 32,
+        "model_call_phase2": 55
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "1. Restoration Moves: F U U R2\n2. Restoration Moves: F U U R2\n3. Restoration Moves: F U U R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 35,
+        "model_call_phase2": 11
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "1. Restoration Moves: U2 U F'\n2. Restoration Moves: U2 U F'\n3. Restoration Moves: U2 U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 6,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "1. Restoration Moves: R2 F2\n2. Restoration Moves: R2 F2\n3. Restoration Moves: R' R' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "1. Restoration Moves: U F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "1. Restoration Moves: U U F2 F R' R2\n2. Restoration Moves: U U F2 F R2\n3. Restoration Moves: U U F2 F R' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 18,
+        "model_call_phase2": 15
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "1. Restoration Moves: U F F' U U\n2. Restoration Moves: U2 U R2 U U\n3. Restoration Moves: U2 U R2 U U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 32,
+        "model_call_phase1": 21,
+        "model_call_phase2": 11
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "1. Restoration Moves: U R' R' R' U' R\n2. Restoration Moves: R U R2\n3. Restoration Moves: R U R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 118,
+        "model_call_phase1": 29,
+        "model_call_phase2": 89
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "1. Restoration Moves: R' U\n2. Restoration Moves: U U' U\n3. Restoration Moves: R' U U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 12,
+        "model_call_phase1": 11,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "1. Restoration Moves: R' R2 F2\n2. Restoration Moves: R' R2 F2\n3. Restoration Moves: R' R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 5,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "1. Restoration Moves: R' R2 U\n2. Restoration Moves: R' R2 U\n3. Restoration Moves: R' R2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 32,
+        "model_call_phase2": 5
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "1. Restoration Moves: F' R2 F'\n2. Restoration Moves: F' R2 F'\n3. Restoration Moves: F' R' R' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 49,
+        "model_call_phase1": 34,
+        "model_call_phase2": 15
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "1. Restoration Moves: R' R2 F2\n2. Restoration Moves: R' R2 F2\n3. Restoration Moves: R' R2 F2\n\nNote: In this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "1. Restoration Moves: U R F U' F2\n2. Restoration Moves: R F U' F2\n3. Restoration Moves: R F U' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 33,
+        "model_call_phase2": 87
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "1. Restoration Moves: U' R2\n2. Restoration Moves: U' R2\n3. Restoration Moves: U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 4,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "1. Restoration Moves: F' R2\n2. Restoration Moves: F' R2\n3. Restoration Moves: F' R2\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 18,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "1. Restoration Moves: U F U U F2\n2. Restoration Moves: U F U U F2\n3. Restoration Moves: U F U U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 86,
+        "model_call_phase1": 37,
+        "model_call_phase2": 49
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "1. Restoration Moves: R2 U F\n2. Restoration Moves: R2 U F\n3. Restoration Moves: R2 U F\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 44,
+        "model_call_phase1": 34,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "1. Restoration Moves: R' F U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "1. Restoration Moves: U R' R2 F2 U' F\n2. Restoration Moves: F U R' R2 F2 U'\n3. Restoration Moves: F U U R' R' U U R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 293,
+        "model_call_phase1": 10,
+        "model_call_phase2": 283
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "1. Restoration Moves: F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "1. Restoration Moves: U U U F'\n2. Restoration Moves: U F2 R2\n3. Restoration Moves: F2 R2 R' U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 430,
+        "model_call_phase1": 33,
+        "model_call_phase2": 397
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "1. Restoration Moves: U U F U'\n2. Restoration Moves: U U U F U'\n3. Restoration Moves: U U U F U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 29,
+        "model_call_phase1": 27,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "1. Restoration Moves: U' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "1. Restoration Moves: R' R' U F R' R'\n2. Restoration Moves: R' R' F R2 F R'\n3. Restoration Moves: R' F R2 F' R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 638,
+        "model_call_phase1": 33,
+        "model_call_phase2": 605
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "1. Restoration Moves: U U F2 U F'\n2. Restoration Moves: U U F2 U F'\n3. Restoration Moves: U U F2 U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 119,
+        "model_call_phase1": 34,
+        "model_call_phase2": 85
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "1. Restoration Moves: F' U R2\n2. Restoration Moves: F' U R2\n3. Restoration Moves: F' U R2\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 30,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "1. Restoration Moves: U F R' R' U'\n2. Restoration Moves: F R' R' U'\n3. Restoration Moves: F R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 89,
+        "model_call_phase1": 34,
+        "model_call_phase2": 55
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "1. Restoration Moves: R2 F2\n2. Restoration Moves: R2 F2\n3. Restoration Moves: R' R' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "1. Restoration Moves: U U R2 U U R2\n2. Restoration Moves: U U R2 U R2\n3. Restoration Moves: U R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 119,
+        "model_call_phase1": 35,
+        "model_call_phase2": 84
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "1. Restoration Moves: U R2 R'\n2. Restoration Moves: U R' R' R'\n3. Restoration Moves: U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 4,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 137,
+        "ys": [
+            "1. Restoration Moves: F2 R2\n2. Restoration Moves: F2 R2\n3. Restoration Moves: F2 R2\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 17,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 138,
+        "ys": [
+            "1. Restoration Moves: R' U F R' U\n2. Restoration Moves: F2 F R' U\n3. Restoration Moves: F2 F R' U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 372,
+        "model_call_phase1": 33,
+        "model_call_phase2": 339
+    },
+    {
+        "idx": 139,
+        "ys": [
+            "1. Restoration Moves: F' U R2 R'\n2. Restoration Moves: F' U R'\n3. Restoration Moves: F' U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 57,
+        "model_call_phase1": 35,
+        "model_call_phase2": 22
+    },
+    {
+        "idx": 140,
+        "ys": [
+            "1. Restoration Moves: U U F2\n2. Restoration Moves: U U F2\n3. Restoration Moves: U U F2\n\nNote: In this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 4,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 141,
+        "ys": [
+            "1. Restoration Moves: R' U U R2\n2. Restoration Moves: R' U U R2\n3. Restoration Moves: R' U U R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 12,
+        "model_call_phase1": 6,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 142,
+        "ys": [
+            "1. Restoration Moves: F' U R2\n2. Restoration Moves: F' U R2\n3. Restoration Moves: F' U R2\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 33,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 143,
+        "ys": [
+            "1. Restoration Moves: F2 F R2\n2. Restoration Moves: F2 F R2\n3. Restoration Moves: F2 F R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 36,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 144,
+        "ys": [
+            "1. Restoration Moves: U' F F R2 F F U\n2. Restoration Moves: U U F F U\n3. Restoration Moves: U U F F U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 269,
+        "model_call_phase1": 26,
+        "model_call_phase2": 243
+    },
+    {
+        "idx": 145,
+        "ys": [
+            "1. Restoration Moves: U R' R' U R' F F U\n2. Restoration Moves: U U' F U\n3. Restoration Moves: U' F F U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 605,
+        "model_call_phase1": 36,
+        "model_call_phase2": 569
+    },
+    {
+        "idx": 146,
+        "ys": [
+            "1. Restoration Moves: U F' U R' U2 F\n2. Restoration Moves: F U2 F2 U2 R'\n3. Restoration Moves: F R2 U2 R' U2 F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 592,
+        "model_call_phase1": 37,
+        "model_call_phase2": 555
+    },
+    {
+        "idx": 147,
+        "ys": [
+            "1. Restoration Moves: R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 148,
+        "ys": [
+            "1. Restoration Moves: F' U' F\n2. Restoration Moves: F' U' F\n3. Restoration Moves: F' U' F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 35,
+        "model_call_phase2": 8
+    },
+    {
+        "idx": 149,
+        "ys": [
+            "1. Restoration Moves: R2 R'\n2. Restoration Moves: R2 R'\n3. Restoration Moves: R' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 3,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 150,
+        "ys": [
+            "1. Restoration Moves: U U F'\n2. Restoration Moves: U U F' F' U\n3. Restoration Moves: U U F' U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 49,
+        "model_call_phase1": 37,
+        "model_call_phase2": 12
+    },
+    {
+        "idx": 151,
+        "ys": [
+            "1. Restoration Moves: R' R2 U F\n2. Restoration Moves: R' U' R' R' F\n3. Restoration Moves: R' U2 R' U2 F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 847,
+        "model_call_phase1": 34,
+        "model_call_phase2": 813
+    },
+    {
+        "idx": 152,
+        "ys": [
+            "1. Restoration Moves: F2 U\n2. Restoration Moves: F2 U\n3. Restoration Moves: F2 U\n\nAll three solutions are the same in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 23,
+        "model_call_phase1": 23,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 153,
+        "ys": [
+            "1. Restoration Moves: U R' F2 R' U F'\n2. Restoration Moves: U R' U R' F2 U U\n3. Restoration Moves: U U R' F2 U2 R' U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 825,
+        "model_call_phase1": 35,
+        "model_call_phase2": 790
+    },
+    {
+        "idx": 154,
+        "ys": [
+            "1. Restoration Moves: R2 U\n\nSince the cube is already restored after these moves, there is only one solution in this case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 155,
+        "ys": [
+            "1. Restoration Moves: R' U R2 F'\n2. Restoration Moves: U R' U R2 F'\n3. Restoration Moves: R' R2 F' R2 R'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 604,
+        "model_call_phase1": 33,
+        "model_call_phase2": 571
+    },
+    {
+        "idx": 156,
+        "ys": [
+            "1. Restoration Moves: U U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 157,
+        "ys": [
+            "1. Restoration Moves: R' F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 158,
+        "ys": [
+            "1. Restoration Moves: U U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 159,
+        "ys": [
+            "1. Restoration Moves: U R2 F2\n2. Restoration Moves: U R' R' F2\n3. Restoration Moves: U R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 160,
+        "ys": [
+            "1. Restoration Moves: U F R2 F2\n2. Restoration Moves: U F F2 R2 F2\n3. Restoration Moves: U F F2 R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 87,
+        "model_call_phase1": 36,
+        "model_call_phase2": 51
+    },
+    {
+        "idx": 161,
+        "ys": [
+            "1. Restoration Moves: U U F'\n2. Restoration Moves: U U F'\n3. Restoration Moves: U U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 31,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 162,
+        "ys": [
+            "1. Restoration Moves: U R' F' R U' F\n2. Restoration Moves: U R' U F R U2\n3. Restoration Moves: U R' U F U R"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 827,
+        "model_call_phase1": 35,
+        "model_call_phase2": 792
+    },
+    {
+        "idx": 163,
+        "ys": [
+            "1. Restoration Moves: R2 F\n2. Restoration Moves: R2 F2 F'\n3. Restoration Moves: R2 F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 3,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 164,
+        "ys": [
+            "1. Restoration Moves: U U R' F2 R' F' R2 R' F'\n2. Restoration Moves: U U R' R' F' R2 R' F'\n3. Restoration Moves: U U R' F' R2 R' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 872,
+        "model_call_phase1": 32,
+        "model_call_phase2": 840
+    },
+    {
+        "idx": 165,
+        "ys": [
+            "1. Restoration Moves: R2 F' U2 R' F\n2. Restoration Moves: R2 U R' U' \n3. Restoration Moves: R2 U R' U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 309,
+        "model_call_phase1": 38,
+        "model_call_phase2": 271
+    },
+    {
+        "idx": 166,
+        "ys": [
+            "1. Restoration Moves: F2 F U U\n2. Restoration Moves: F U U R2 U U U R'\n3. Restoration Moves: F2 U U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 296,
+        "model_call_phase1": 10,
+        "model_call_phase2": 286
+    },
+    {
+        "idx": 167,
+        "ys": [
+            "1. Restoration Moves: R' R' U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 168,
+        "ys": [
+            "1. Restoration Moves: R' R2 F2\n2. Restoration Moves: R' R2 F2\n3. Restoration Moves: R2 R' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 169,
+        "ys": [
+            "1. Restoration Moves: U R' R' R' U R'\n2. Restoration Moves: R' R' F' U\n3. Restoration Moves: R' R' F' U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 318,
+        "model_call_phase1": 38,
+        "model_call_phase2": 280
+    },
+    {
+        "idx": 170,
+        "ys": [
+            "1. Restoration Moves: U U R' U U U R'\n2. Restoration Moves: R' F2 U\n3. Restoration Moves: R' F2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 392,
+        "model_call_phase1": 36,
+        "model_call_phase2": 356
+    },
+    {
+        "idx": 171,
+        "ys": [
+            "1. Restoration Moves: U F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 172,
+        "ys": [
+            "1. Restoration Moves: U' F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 173,
+        "ys": [
+            "1. Restoration Moves: F U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 174,
+        "ys": [
+            "1. Restoration Moves: F F U\n2. Restoration Moves: F F U\n3. Restoration Moves: F F U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 50,
+        "model_call_phase1": 29,
+        "model_call_phase2": 21
+    },
+    {
+        "idx": 175,
+        "ys": [
+            "1. Restoration Moves: F2 U U F2\n2. Restoration Moves: F2 U U F2\n3. Restoration Moves: F2 U U F2\n\nIn this case, all three solutions are the same."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 53,
+        "model_call_phase1": 33,
+        "model_call_phase2": 20
+    },
+    {
+        "idx": 176,
+        "ys": [
+            "1. Restoration Moves: R2 F' U'\n2. Restoration Moves: R' R' F' U'\n3. Restoration Moves: R2 F' U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 7,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 177,
+        "ys": [
+            "1. Restoration Moves: U U R2\n2. Restoration Moves: U U R2\n3. Restoration Moves: U U R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 9,
+        "model_call_phase1": 6,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 178,
+        "ys": [
+            "1. Restoration Moves: F2 R2\n2. Restoration Moves: F2 R2\n3. Restoration Moves: F F R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 179,
+        "ys": [
+            "1. Restoration Moves: R2 U' F'\n2. Restoration Moves: R2 U' F'\n3. Restoration Moves: R2 U' F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 63,
+        "model_call_phase1": 34,
+        "model_call_phase2": 29
+    },
+    {
+        "idx": 180,
+        "ys": [
+            "1. Restoration Moves: U R' R' U F2 U R'\n2. Restoration Moves: U U U R U U U\n3. Restoration Moves: U U R U U U U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 638,
+        "model_call_phase1": 36,
+        "model_call_phase2": 602
+    },
+    {
+        "idx": 181,
+        "ys": [
+            "1. Restoration Moves: U R' U R' U R2\n2. Restoration Moves: U U2 R' U R'\n3. Restoration Moves: R2 R' U R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 341,
+        "model_call_phase1": 33,
+        "model_call_phase2": 308
+    },
+    {
+        "idx": 182,
+        "ys": [
+            "1. Restoration Moves: U R2 F' U'\n2. Restoration Moves: R2 F' U'\n3. Restoration Moves: R2 F' U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": true
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": true
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": true
+                    }
+                }
+            }
+        ],
+        "model_call": 124,
+        "model_call_phase1": 32,
+        "model_call_phase2": 92
+    }
+]

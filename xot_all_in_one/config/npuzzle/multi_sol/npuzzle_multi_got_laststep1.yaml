@@ -1,0 +1,23 @@
+env: npuzzle
+
+method: got  
+
+task:  
+  data: data/npuzzle/npuzzle_test.csv  
+  total_game_step: 9  
+  task_start_index: 0  
+  task_end_index: 1 
+  
+gpt:  
+  backend: gpt-4
+  temperature: 0.0  
+  stop: None    
+  
+param:
+  n_generate_sample: 1  
+  n_evaluate_sample: 1 
+  n_select_sample: 3 
+  last_step: 1 
+  
+multi_solution: 0  
+  

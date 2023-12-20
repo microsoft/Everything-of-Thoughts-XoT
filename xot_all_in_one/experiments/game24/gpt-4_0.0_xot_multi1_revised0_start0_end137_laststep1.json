@@ -1,0 +1,3845 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "Answer 1: 3 * ((6 - 9) + 11) = 24\nAnswer 2: ((9 / 3) + 6) + 11 = 24\nAnswer 3: (6 * 11) / (3 - 9) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 129,
+        "model_call_phase1": 129,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "Answer 1: (3 - (10 - 10)) * 8 = 24\nAnswer 2: 3 * ((10 - 10) + 8) = 24\nAnswer 3: 3 * (8 - (10 - 10)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "Answer 1: ((2 + 4) + (7 + 11)) = 24\nAnswer 2: (4 + (2 + (7 + 11))) = 24\nAnswer 3: (2 + (4 + (7 + 11))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 28,
+        "model_call_phase1": 28,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "Answer 1: (10 + ((8 - 2) + 8)) = 24\nAnswer 2: ((8 - 2) + (8 + 10)) = 24\nAnswer 3: (8 + ((8 - 2) + 10)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 40,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "Answer 1: ((7 - 7) + 4) * 6 = 24\nAnswer 2: (4 - (7 - 7)) * 6 = 24\nAnswer 3: 4 * ((7 - 7) + 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "Answer 1: ((10 - 3) - 3) * 6 = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 126,
+        "model_call_phase1": 126,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "Answer 1: ((1 - 4) + 7) * 6 = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: ((4 - 7) + (1 * 6)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 71,
+        "model_call_phase1": 71,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "Answer 1: ((5 - 4) + 3) * 6 = 24\nAnswer 2: There is no valid solution for the second and third solution as the final result is not 24.\nAnswer 3: There is no valid solution for the second and third solution as the final result is not 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 77,
+        "model_call_phase1": 77,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "Sorry, but there seems to be a misunderstanding. The task is to find solutions that result in the number 24, but the solutions provided in the last example do not meet this requirement. Here are the correct solutions for the given examples:\n\nInput: 4 4 6 8\nSolution 1: (4 * 6) = 24\nSolution 2: (8 * 4) - 8 = 24\nSolution 3: (8 * 4) - (4 * 2) = 24\n\nInput: 2 9 10 12\nSolution 1: (12 * 2) = 24\nSolution 2: (10 * 2) + 4 = 24\nSolution 3: (9 + 2) * 2 = 24\n\nInput: 4 9 10 13\nThere is no solution to get 24 with these numbers using basic arithmetic operations.\n\nInput: 1 4 8 8\nSolution 1: (8 * 4) - 8 = 24\nSolution 2: (8 * 4) - (4 - 1) = 24\nSolution 3: (8 * 3) * 1 = 24\n\nInput: 5 5 5 9\nThere is no solution to get 24 with these numbers using basic arithmetic operations.\n\nInput: 4 5 7 10\nSolution 1: (7 - 4) * 10 = 24\nSolution 2: (10 - 5) * 4 = 24\nSolution 3: (10 - 7) * 4 * 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": -1,
+                        "revised": null
+                    }
+                }
+            }
+        ],
+        "model_call": 226,
+        "model_call_phase1": 226,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "Answer 1: (10 / 5 + 10) + 12 = 24\nAnswer 2: 10 + (10 / 5 + 12) = 24\nAnswer 3: (10 / 5) + (10 + 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "Answer 1: 6 + ((12 - 9) * 6) = 24\nAnswer 2: This solution is incorrect as it does not result in 24.\nAnswer 3: This solution is incorrect as it does not result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 38,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "Answer 1: ((3 + 5) + (8 + 8)) = 24\nAnswer 2: (3 + (5 + (8 + 8))) = 24\nAnswer 3: (5 + (3 + (8 + 8))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 26,
+        "model_call_phase1": 26,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "Answer 1: (7 / 7 + 11) + 12 = 24\nAnswer 2: (7 / 7 + 12) + 11 = 24\nAnswer 3: 12 - (7 / 7 - 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "Input: 2 6 7 10\n[Solution 1]\nSteps:\n10 - 6 = 4 (left: 2 7 4) Expression: 2, 7, (10) - (6)\n4 * 2 = 8 (left: 7 8) Expression: (10) - (6), (4) * (2)\n8 * 3 = 24 (left: 24) Expression: ((10) - (6)) * ((4) * (2))\n[Solution 2]\nSteps:\n10 - 7 = 3 (left: 2 6 3) Expression: 2, 6, (10) - (7)\n3 * 6 = 18 (left: 2 18) Expression: (10) - (7), (3) * (6)\n18 + 6 = 24 (left: 24) Expression: ((10) - (7)) * ((3) * (6)), (2)\n[Solution 3]\nSteps:\n7 - 2 = 5 (left: 6 10 5) Expression: 6, 10, (7) - (2)\n5 * 6 = 30 (left: 10 30) Expression: (7) - (2), (5) * (6)\n30 - 6 = 24 (left: 24) Expression: ((7) - (2)) * ((5) * (6)), (10)\nAnswer 1: ((10 - 6) * 2) * 3 = 24\nAnswer 2: ((10 - 7) * 6) + 2 = 24\nAnswer 3: ((7 - 2) * 6) - 10 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 231,
+        "model_call_phase1": 231,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "Input: 4 4 5 7\n[Solution 1]\nSteps:\n4 * 5 = 20 (left: 4 7 20) Expression: 4, 7, (4) * (5)\n20 + 4 = 24 (left: 7 24) Expression: (4) * (5), (20) + (4)\n24 * 7 = 168 (left: 168) Expression: ((4) * (5)) + (4), (24) * (7)\n[Solution 2]\nSteps:\n7 - 4 = 3 (left: 4 5 3) Expression: 4, 5, (7) - (4)\n3 * 4 = 12 (left: 5 12) Expression: (7) - (4), (3) * (4)\n12 * 2 = 24 (left: 24) Expression: ((7) - (4)) * (4), (12) * (2)\n[Solution 3]\nSteps:\n5 - 4 = 1 (left: 4 7 1) Expression: 4, 7, (5) - (4)\n1 * 4 = 4 (left: 7 4) Expression: (5) - (4), (1) * (4)\n4 * 6 = 24 (left: 24) Expression: ((5) - (4)) * (4), (4) * (6)\nAnswer 1: ((4 * 5) + 4) * 7 = 168\nAnswer 2: ((7 - 4) * 4) * 2 = 24\nAnswer 3: ((5 - 4) * 4) * 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 52,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "Answer 1: (4 * 6) + 13 + 5 = 24\nAnswer 2: (4 * 5) + (13 / 6) = 24\nAnswer 3: (4 + 13) + (5 - 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 232,
+        "model_call_phase1": 232,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "Answer 1: ((5 + 7) / (2 / 4)) = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 195,
+        "model_call_phase1": 195,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "Answer 1: ((8 / 4) + 2) * 11 = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 112,
+        "model_call_phase1": 112,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "Answer 1: 3 * (3 + (12 - 7)) = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: 3 * ((3 - 7) + 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 84,
+        "model_call_phase1": 84,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "Answer 1: ((2 + 5) + (5 + 12)) = 24\nAnswer 2: (5 + (2 + (5 + 12))) = 24\nAnswer 3: (2 + (5 + (5 + 12))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "Answer 1: ((3 + (3 * 7)) / 1) = 24\nAnswer 2: (1 * (3 + (3 * 7))) = 24\nAnswer 3: ((1 * 3) + (3 * 7)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 46,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "Answer 1: ((2 + 4) + (9 + 9)) = 24\nAnswer 2: (4 + (2 + (9 + 9))) = 24\nAnswer 3: (2 + (4 + (9 + 9))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 26,
+        "model_call_phase1": 26,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "Answer 1: 4 * ((5 - 6) + 7) = 24\nAnswer 2: There is no way to get 24 from the second solution.\nAnswer 3: There is no way to get 24 from the third solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 178,
+        "model_call_phase1": 178,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "Answer 1: (12 / 4 + 9) + 12 = 24\nAnswer 2: 9 + (12 / 4 + 12) = 24\nAnswer 3: (9 + 12) + 12 / 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "Answer 1: (1 + 1) * 9 + 6 = 24\nAnswer 2: This solution is incorrect as it does not result in 24.\nAnswer 3: This solution is incorrect as it does not result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 122,
+        "model_call_phase1": 122,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "Answer 1: ((2 - 8) + (3 * 10)) = 24\nAnswer 2: (2 - 10) - (3 * 8) = -32 (This solution is incorrect as it does not equal 24)\nAnswer 3: (8 + (3 + (10 / 2))) = 16 (This solution is incorrect as it does not equal 24)\n\nFor the input 2, 3, 8, 10, there is only one correct solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "Answer 1: (9 - 9) + 12 + 12 = 24\nAnswer 2: 12 - ((9 - 9) - 12) = 24\nAnswer 3: There is no third solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "Answer 1: ((2 * 6) + (2 + 10)) = 24\nAnswer 2: (10 + (2 + (2 * 6))) = 24\nAnswer 3: (2 + (10 + (2 * 6))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "Answer 1: ((3 - 11) + 12) * 6 = 24\nAnswer 2: This solution is not valid as it does not result in 24.\nAnswer 3: This solution is not valid as it does not result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 62,
+        "model_call_phase1": 62,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "Answer 1: There is no solution to get 24 from the numbers 3, 7, 11, 11 using basic arithmetic operations.\nAnswer 2: There is no solution to get 24 from the numbers 3, 7, 11, 11 using basic arithmetic operations.\nAnswer 3: There is no solution to get 24 from the numbers 3, 7, 11, 11 using basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 182,
+        "model_call_phase1": 182,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "Answer 1: 3 * ((7 - 8) + 9) = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 71,
+        "model_call_phase1": 71,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "Input: 5 5 5 9\n[Solution 1]\nSteps:\n5 + 5 = 10 (left: 5 9 10) Expression: 5, 9, (5) + (5)\n10 + 5 = 15 (left: 9 15) Expression: 9, ((5) + (5)) + (5)\n15 + 9 = 24 (left: 24) Expression: (((5) + (5)) + (5)) + (9)\nAnswer 1: ((5 + 5) + 5) + 9 = 24\n\nInput: 1 4 12 12\n[Solution 1]\nSteps:\n12 / 4 = 3 (left: 1 12 3) Expression: 1, 12, (12) / (4)\n3 * 12 = 36 (left: 1 36) Expression: 1, ((12) / (4)) * (12)\n36 - 12 = 24 (left: 24) Expression: (((12) / (4)) * (12)) - (1)\nAnswer 1: ((12 / 4) * 12) - 1 = 24\n\n[Solution 2]\nSteps:\n12 - 4 = 8 (left: 1 12 8) Expression: 1, 12, (12) - (4)\n8 * 3 = 24 (left: 1 24) Expression: 1, ((12) - (4)) * (3)\n24 - 1 = 23 (left: 23) Expression: (((12) - (4)) * (3)) - (1)\nAnswer 2: ((12 - 4) * 3) - 1 = 23\n\n[Solution 3]\nSteps:\n12 - 1 = 11 (left: 4 12 11) Expression: 4, 12, (12) - (1)\n4 * 11 = 44 (left: 12 44) Expression: 12, (4) * ((12) - (1))\n44 - 20 = 24 (left: 24) Expression: ((4) * ((12) - (1))) - (20)\nAnswer 3: (4 * (12 - 1)) - 20 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 142,
+        "model_call_phase1": 142,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "Answer 1: (4 - (5 - 5)) * 6 = 24\nAnswer 2: 4 * ((5 - 5) + 6) = 24\nAnswer 3: ((5 - 5) + 4) * 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 49,
+        "model_call_phase1": 49,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "Answer 1: (2 * 3) + (6 + 12) = 24\nAnswer 2: ((2 * 3) + 6) + 12 = 24\nAnswer 3: (3 * 6) - (2 - 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 37,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "Answer 1: ((3 * 6) - (1 - 7)) = 24\nAnswer 2: ((7 - 1) + (3 * 6)) = 24\nThere is no third solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 43,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "Answer 1: ((9 - 10) + 3) * 12 = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 198,
+        "model_call_phase1": 198,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "Input: 3 4 7 9\n[Solution 1]\nSteps:\n9 - 3 = 6 (left: 4 7 6) Expression: 4, 7, (9) - (3)\n7 - 4 = 3 (left: 6 3) Expression: (9) - (3), (7) - (4)\n6 * 3 = 24 (left: 24) Expression: ((9) - (3)) * ((7) - (4))\n[Solution 2]\nSteps:\n9 - 4 = 5 (left: 3 7 5) Expression: 3, 7, (9) - (4)\n7 - 3 = 4 (left: 5 4) Expression: (9) - (4), (7) - (3)\n5 * 4 = 24 (left: 24) Expression: ((9) - (4)) * ((7) - (3))\n[Solution 3]\nSteps:\n7 - 3 = 4 (left: 4 9 4) Expression: 4, 9, (7) - (3)\n9 - 4 = 5 (left: 4 5) Expression: (7) - (3), (9) - (4)\n4 * 5 = 24 (left: 24) Expression: ((7) - (3)) * ((9) - (4))\nAnswer 1: (9 - 3) * (7 - 4) = 24\nAnswer 2: (9 - 4) * (7 - 3) = 24\nAnswer 3: (7 - 3) * (9 - 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 68,
+        "model_call_phase1": 68,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "Answer 1: ((4 - 11) + 10) * 8 = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 55,
+        "model_call_phase1": 55,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "Input: 5 5 5 9\n[Solution 1]\nSteps:\n5 + 5 = 10 (left: 5 9 10) Expression: 5, 9, (5) + (5)\n10 + 5 = 15 (left: 9 15) Expression: 9, ((5) + (5)) + (5)\n15 + 9 = 24 (left: 24) Expression: (((5) + (5)) + (5)) + (9)\nAnswer 1: ((5 + 5) + 5) + 9 = 24\n\nInput: 6 8 8 9\n[Solution 1]\nSteps:\n6 * 8 = 48 (left: 8 9 48) Expression: 8, 9, (6) * (8)\n48 - 9 = 39 (left: 8 39) Expression: (6) * (8), (48) - (9)\n39 - 8 = 31 (left: 31) Expression: ((6) * (8)) - (9), (39) - (8)\nThis problem has no solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 86,
+        "model_call_phase1": 86,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "Input: 3 3 8 10\n[Solution 1]\nSteps:\n10 - 8 = 2 (left: 3 3 2) Expression: 3, 3, (10) - (8)\n3 * 2 = 6 (left: 3 6) Expression: 3, (3) * ((10) - (8))\n6 * 4 = 24 (left: 24) Expression: ((3) * ((10) - (8))) * (3)\nAnswer 1: (3 * (10 - 8)) * 3 = 24\n\nInput: 2 3 4 9\n[Solution 1]\nSteps:\n9 - 2 = 7 (left: 3 4 7) Expression: 3, 4, (9) - (2)\n7 * 3 = 21 (left: 4 21) Expression: 4, ((9) - (2)) * (3)\n21 + 3 = 24 (left: 24) Expression: ((9) - (2)) * (3) + (4)\nAnswer 1: ((9 - 2) * 3) + 4 = 24\n\nInput: 1 5 5 8\n[Solution 1]\nSteps:\n8 - 5 = 3 (left: 1 5 3) Expression: 1, 5, (8) - (5)\n3 * 5 = 15 (left: 1 15) Expression: 1, ((8) - (5)) * (5)\n15 + 9 = 24 (left: 24) Expression: ((8) - (5)) * (5) + (1)\nAnswer 1: ((8 - 5) * 5) + 1 = 24\n\nInput: 2 3 7 7\n[Solution 1]\nSteps:\n7 * 3 = 21 (left: 2 7 21) Expression: 2, 7, (7) * (3)\n21 + 2 = 23 (left: 7 23) Expression: 7, ((7) * (3)) + (2)\n23 + 1 = 24 (left: 24) Expression: ((7) * (3)) + (2) + (7)\nAnswer 1: ((7 * 3) + 2) + 7 = 24\n\nInput: 1 4 6 8\n[Solution 1]\nSteps:\n8 - 4 = 4 (left: 1 6 4) Expression: 1, 6, (8) - (4)\n4 * 6 = 24 (left: 1 24) Expression: 1, ((8) - (4)) * (6)\n24 + 0 = 24 (left: 24) Expression: ((8) - (4)) * (6) + (1)\nAnswer 1: ((8 - 4) * 6) + 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 164,
+        "model_call_phase1": 164,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "Answer 1: ((5 - 13) + 11) * 8 = 24\nAnswer 2: There is no valid solution for the second and third scenarios as the final results are not 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 51,
+        "model_call_phase1": 51,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "Answer 1: (7 * 12) - (5 * 12) = 24\nAnswer 2: This solution is incorrect as the final result is not 24.\nAnswer 3: This solution is incorrect as the final result is not 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 89,
+        "model_call_phase1": 89,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "Answer 1: 2 * (2 + 2 * 5) = 24\nAnswer 2: This solution does not result in 24, so it is incorrect.\nAnswer 3: This solution does not result in 24, so it is incorrect."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 66,
+        "model_call_phase1": 66,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "Answer 1: (6 - 1) + 7 + 12 = 24\nAnswer 2: (6 - 1) + 12 + 7 = 24\nAnswer 3: (6 - 1) + (7 + 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 40,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "Answer 1: ((2 + 8) + (2 * 7)) = 24\nAnswer 2: (8 + (2 + (2 * 7))) = 24\nAnswer 3: (2 + (8 + (2 * 7))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "Input: 4 7 8 11\n[Solution 1]\nSteps:\n11 - 7 = 4 (left: 4 8 4) Expression: 4, 8, (11) - (7)\n4 * 4 = 16 (left: 8 16) Expression: 4, (11) - (7), (4) * (4)\n16 + 8 = 24 (left: 24) Expression: ((11) - (7)) * (4) + (8)\nAnswer 1: ((11 - 7) * 4) + 8 = 24\n\nInput: 5 5 5 9\n[Solution 1]\nSteps:\n5 * 5 = 25 (left: 5 9 25) Expression: 5, 9, (5) * (5)\n25 - 5 = 20 (left: 9 20) Expression: (5) * (5), (25) - (5)\n20 + 4 = 24 (left: 24) Expression: ((5) * (5)) - (5) + (9)\nAnswer 1: ((5 * 5) - 5) + 9 = 24\n\nInput: 1 4 8 8\n[Solution 1]\nSteps:\n8 * 4 = 32 (left: 1 8 32) Expression: 1, 8, (8) * (4)\n32 - 8 = 24 (left: 1 24) Expression: (8) * (4), (32) - (8)\n24 + 1 = 25 (left: 25) Expression: ((8) * (4)) - (8) + (1)\nAnswer 1: ((8 * 4) - 8) + 1 = 25\n\nInput: 4 9 10 13\n[Solution 1]\nSteps:\n13 - 9 = 4 (left: 4 10 4) Expression: 4, 10, (13) - (9)\n4 * 4 = 16 (left: 10 16) Expression: (13) - (9), (4) * (4)\n16 + 8 = 24 (left: 24) Expression: ((13) - (9)) * (4) + (10)\nAnswer 1: ((13 - 9) * 4) + 10 = 24\n\nInput: 2 9 10 12\n[Solution 1]\nSteps:\n12 * 2 = 24 (left: 9 10 24) Expression: 9, 10, (12) * (2)\n24 - 10 = 14 (left: 9 14) Expression: (12) * (2), (24) - (10)\n14 + 9 = 23 (left: 23) Expression: ((12) * (2)) - (10) + (9)\nAnswer 1: ((12 * 2) - 10) + 9 = 23\n\nInput: 4 4 6 8\n[Solution 1]\nSteps:\n8 - 4 = 4 (left: 4 6 4) Expression: 4, 6, (8) - (4)\n4 * 4 = 16 (left: 6 16) Expression: (8) - (4), (4) * (4)\n16 + 8 = 24 (left: 24) Expression: ((8) - (4)) * (4) + (6)\nAnswer 1: ((8 - 4) * 4) + 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r5": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 218,
+        "model_call_phase1": 218,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "Answer 1: (4 / (5 - 4)) * 6 = 24\nAnswer 2: 4 * ((5 - 4) * 6) = 24\nAnswer 3: ((5 - 4) * 4) * 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 115,
+        "model_call_phase1": 115,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "Answer 1: (5 - 2) * 6 + 6 = 24\nAnswer 2: (6 + 5 * 6) / 2 = 24\nAnswer 3: ((6 / 2) - 5) + 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 66,
+        "model_call_phase1": 66,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "Answer 1: ((1 / 3) * 8) * 9 = 24\nAnswer 2: There is no way to get 24 from the numbers 1, 3, 8, 9 using the operations +, -, *, /\nAnswer 3: There is no way to get 24 from the numbers 1, 3, 8, 9 using the operations +, -, *, /"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 122,
+        "model_call_phase1": 122,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "Input: 4 7 7 11\n[Solution 1]\nSteps:\n7 + 7 = 14 (left: 4 11 14) Expression: 4, 11, (7) + (7)\n14 + 4 = 18 (left: 11 18) Expression: 11, ((7) + (7)) + (4)\n18 + 11 = 29 (left: 29) Expression: (((7) + (7)) + (4)) + (11)\nAnswer 1: ((7 + 7) + 4) + 11 = 29\n\nInput: 4 7 7 11\n[Solution 2]\nSteps:\n11 - 7 = 4 (left: 4 7 4) Expression: 4, 7, (11) - (7)\n4 + 4 = 8 (left: 7 8) Expression: 7, ((11) - (7)) + (4)\n7 + 8 = 15 (left: 15) Expression: (((11) - (7)) + (4)) + (7)\nAnswer 2: ((11 - 7) + 4) + 7 = 15\n\nInput: 4 7 7 11\n[Solution 3]\nSteps:\n7 - 4 = 3 (left: 7 11 3) Expression: 7, 11, (7) - (4)\n3 + 7 = 10 (left: 11 10) Expression: 11, ((7) - (4)) + (7)\n10 + 11 = 21 (left: 21) Expression: (((7) - (4)) + (7)) + (11)\nAnswer 3: ((7 - 4) + 7) + 11 = 21\n\nNote: The problem statement asks to obtain 24, but with the given numbers 4, 7, 7, 11, it's not possible to obtain 24 using basic arithmetic operations. The solutions provided above are for the possible sums that can be obtained with these numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "Input: 2 3 3 6\n[Solution 1]\nSteps:\n2 * 3 = 6 (left: 3 6 6) Expression: 3, 6, (2) * (3)\n6 * 3 = 18 (left: 6 18) Expression: 6, ((2) * (3)) * (3)\n6 + 18 = 24 (left: 24) Expression: ((2) * (3)) * (3) + (6)\nAnswer 1: ((2 * 3) * 3) + 6 = 24\n\n[Solution 2]\nSteps:\n6 / 2 = 3 (left: 3 3 3) Expression: 3, 3, (6) / (2)\n3 * 3 = 9 (left: 3 9) Expression: 3, ((6) / (2)) * (3)\n9 * 3 = 27 (left: 27) Expression: ((6) / (2)) * (3) * (3)\n27 - 3 = 24 (left: 24) Expression: (((6) / (2)) * (3)) * (3) - (3)\nAnswer 2: (((6 / 2) * 3) * 3) - 3 = 24\n\n[Solution 3]\nSteps:\n6 - 2 = 4 (left: 3 3 4) Expression: 3, 3, (6) - (2)\n4 * 3 = 12 (left: 3 12) Expression: 3, ((6) - (2)) * (3)\n12 * 3 = 36 (left: 36) Expression: ((6) - (2)) * (3) * (3)\n36 - 12 = 24 (left: 24) Expression: (((6) - (2)) * (3)) * (3) - (12)\nAnswer 3: (((6 - 2) * 3) * 3) - 12 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 31,
+        "model_call_phase1": 31,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "Answer 1: ((4 / 2) + 9) + 13 = 24\nAnswer 2: 9 + ((4 / 2) + 13) = 24\nAnswer 3: ((4 / 2) + (9 + 13)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 31,
+        "model_call_phase1": 31,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "Answer 1: ((7 * 9) - (3 * 13)) = 24\nAnswer 2: There is no valid solution for the second and third solution as the final result is not 24.\n"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 133,
+        "model_call_phase1": 133,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "Sorry, but none of the solutions for the input 5, 10, 10, 13 can result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": -1,
+                        "revised": null
+                    }
+                }
+            }
+        ],
+        "model_call": 181,
+        "model_call_phase1": 181,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "Input: 5 5 5 9\n[Solution 1]\nSteps:\n5 * 5 = 25 (left: 5 9 25) Expression: 5, 9, (5) * (5)\n25 - 5 = 20 (left: 9 20) Expression: (5) * (5), (25) - (5)\n20 + 9 = 29 (left: 29) Expression: ((5) * (5)) - (5) + (9)\nAnswer 1: ((5 * 5) - 5) + 9 = 29\n\nInput: 1 7 10 12\n[Solution 1]\nSteps:\n12 - 7 = 5 (left: 1 10 5) Expression: 1, 10, (12) - (7)\n5 * 1 = 5 (left: 10 5) Expression: (12) - (7), (5) * (1)\n5 * 10 = 50 (left: 50) Expression: ((12) - (7)) * (1) * (10)\nAnswer 1: ((12 - 7) * 1) * 10 = 50\n\nInput: 4 4 6 8\n[Solution 1]\nSteps:\n8 - 4 = 4 (left: 4 6 4) Expression: 4, 6, (8) - (4)\n4 * 4 = 16 (left: 6 16) Expression: (8) - (4), (4) * (4)\n16 + 6 = 22 (left: 22) Expression: ((8) - (4)) * (4) + (6)\nAnswer 1: ((8 - 4) * 4) + 6 = 22\n\nInput: 2 9 10 12\n[Solution 1]\nSteps:\n12 - 2 = 10 (left: 9 10 10) Expression: 9, 10, (12) - (2)\n10 * 10 = 100 (left: 9 100) Expression: (12) - (2), (10) * (10)\n100 - 9 = 91 (left: 91) Expression: ((12) - (2)) * (10) - (9)\nAnswer 1: ((12 - 2) * 10) - 9 = 91\n\nInput: 4 9 10 13\n[Solution 1]\nSteps:\n13 - 4 = 9 (left: 9 10 9) Expression: 9, 10, (13) - (4)\n9 * 9 = 81 (left: 10 81) Expression: (13) - (4), (9) * (9)\n81 + 10 = 91 (left: 91) Expression: ((13) - (4)) * (9) + (10)\nAnswer 1: ((13 - 4) * 9) + 10 = 91\n\nInput: 1 4 8 8\n[Solution 1]\nSteps:\n8 - 1 = 7 (left: 4 8 7) Expression: 4, 8, (8) - (1)\n7 * 4 = 28 (left: 8 28) Expression: (8) - (1), (7) * (4)\n28 - 8 = 20 (left: 20) Expression: ((8) - (1)) * (4) - (8)\nAnswer 1: ((8 - 1) * 4) - 8 = 20"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r5": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 212,
+        "model_call_phase1": 212,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "Answer 1: ((5 - 5) + 11) + 13 = 24\nAnswer 2: 11 + ((5 - 5) + 13) = 24\nAnswer 3: 13 - ((5 - 5) - 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 39,
+        "model_call_phase1": 39,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "Answer 1: (4 + ((7) + (12))) = 24\nAnswer 2: ((1 + 4) + (7 + 12)) = 24\nAnswer 3: ((4 + 7) + (12 / 1)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 25,
+        "model_call_phase1": 25,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "Input: 3 5 6 9\n[Solution 1]\nSteps:\n5 * 6 = 30 (left: 3 9 30) Expression: 3, 9, (5) * (6)\n30 - 9 = 21 (left: 3 21) Expression: (5) * (6), (30) - (9)\n21 + 3 = 24 (left: 24) Expression: ((5) * (6)) - (9) + (3)\nAnswer 1: ((5 * 6) - 9) + 3 = 24\n\n[Solution 2]\nSteps:\n9 - 5 = 4 (left: 3 6 4) Expression: 3, 6, (9) - (5)\n4 * 6 = 24 (left: 3 24) Expression: 3, (9) - (5) * (6)\n24 + 3 = 27 (left: 27) Expression: 3 + ((9) - (5)) * (6)\nAnswer 2: 3 + ((9 - 5) * 6) = 27\n\n[Solution 3]\nSteps:\n6 - 3 = 3 (left: 5 9 3) Expression: 5, 9, (6) - (3)\n3 * 9 = 27 (left: 5 27) Expression: 5, ((6) - (3)) * (9)\n27 - 5 = 22 (left: 22) Expression: 5 - ((6) - (3)) * (9)\nAnswer 3: 5 - ((6 - 3) * 9) = 22\n\nPlease note that the second and third solutions do not equal 24. The only valid solution in this case is the first one."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "Answer 1: ((4 * 5) + 4) / 1 = 24\nAnswer 2: (4 + (4 * 5)) * 1 = 24\nAnswer 3: 1 * ((4 * 5) + 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 44,
+        "model_call_phase1": 44,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "Input: 5 5 5 9\n[Solution 1]\nSteps:\n5 + 5 = 10 (left: 5 9 10) Expression: 5, 9, (5) + (5)\n10 + 5 = 15 (left: 9 15) Expression: 9, ((5) + (5)) + (5)\n15 + 9 = 24 (left: 24) Expression: (((5) + (5)) + (5)) + (9)\nAnswer 1: ((5 + 5) + 5) + 9 = 24\n\nInput: 4 4 7 13\n[Solution 1]\nSteps:\n4 * 7 = 28 (left: 4 13 28) Expression: 4, 13, (4) * (7)\n28 - 4 = 24 (left: 13 24) Expression: (4) * (7), (28) - (4)\n24 * 13 = 312 (left: 312) Expression: ((4) * (7)) - (4), (24) * (13)\nAnswer 1: ((4 * 7) - 4) * 13 = 312\n\nNote: There is no solution to get 24 with the numbers 4, 4, 7, 13."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 112,
+        "model_call_phase1": 112,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "Answer 1: (11 - 1) + (5 + 10) = 24\nAnswer 2: (5 - (11 - 1)) + 11 = 24\nAnswer 3: 11 + ((5 - 1) + 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 153,
+        "model_call_phase1": 153,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "Answer 1: ((4 * 12) - (11 + 13)) = 24\nAnswer 2: ((4 * 12) - (11 + 13)) = 24\nAnswer 3: This solution does not result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 150,
+        "model_call_phase1": 150,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "Sorry, but none of the solutions for the input: 2 2 5 8 can result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": -1,
+                        "revised": null
+                    }
+                }
+            }
+        ],
+        "model_call": 172,
+        "model_call_phase1": 172,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "Answer 1: ((7 - 9) + 13) + 13 = 24\nThere are no other solutions for the inputs 7, 9, 13, 13 that result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 24,
+        "model_call_phase1": 24,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "Answer 1: There is no solution to get 24 from the numbers 2, 3, 7, 8 using basic arithmetic operations.\nAnswer 2: There is no solution to get 24 from the numbers 2, 3, 7, 8 using basic arithmetic operations.\nAnswer 3: There is no solution to get 24 from the numbers 2, 3, 7, 8 using basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 224,
+        "model_call_phase1": 224,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "Answer 1: (5 - 2) * (8 / 1) = 24\nAnswer 2: There is no valid operation to get 24 from -7 and 2.5\nAnswer 3: (5 - 2) * (1 * 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 165,
+        "model_call_phase1": 165,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "Answer 1: ((10 - 11) + 12) + 13 = 24\nAnswer 2: 12 + ((10 - 11) + 13) = 24\nAnswer 3: There is no third solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "Answer 1: (3 * 12) - (3 + 9) = 24\nAnswer 2: (3 + 12) + (3 - 9) = 24\nAnswer 3: ((12 + (3 * 9)) / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 129,
+        "model_call_phase1": 129,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "Input: 3 7 9 10\n[Solution 1]\nSteps:\n10 - 7 = 3 (left: 3 9 3) Expression: 3, 9, (10) - (7)\n3 * 3 = 9 (left: 9 9) Expression: (10) - (7), (3) * (3)\n9 * 9 = 81 (left: 81) Expression: ((10) - (7)) * ((3) * (3))\n[Solution 2]\nSteps:\n10 - 3 = 7 (left: 7 9 7) Expression: 7, 9, (10) - (3)\n7 * 7 = 49 (left: 9 49) Expression: (10) - (3), (7) * (7)\n49 - 9 = 40 (left: 40) Expression: ((10) - (3)) * ((7) * (7)), (49) - (9)\n[Solution 3]\nSteps:\n9 - 3 = 6 (left: 7 10 6) Expression: 7, 10, (9) - (3)\n6 * 7 = 42 (left: 10 42) Expression: (9) - (3), (6) * (7)\n42 - 10 = 32 (left: 32) Expression: ((9) - (3)) * ((6) * (7)), (42) - (10)\nAnswer 1: ((10 - 7) * (3 * 3)) = 81\nAnswer 2: ((10 - 3) * (7 * 7)) - 9 = 40\nAnswer 3: ((9 - 3) * (6 * 7)) - 10 = 32\n\nNote: The above solutions do not result in 24. The problem may not have a solution that results in 24 using the given numbers and basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 75,
+        "model_call_phase1": 75,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "Answer 1: ((3 - 3) + 2) * 12 = 24\nAnswer 2: (2 - (3 - 3)) * 12 = 24\nAnswer 3: 2 * (12 - (3 - 3)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 72,
+        "model_call_phase1": 72,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "Answer 1: ((11 / 1) + (3 + 10)) = 24\nAnswer 2: (10 + (3 + (11 / 1))) = 24\nAnswer 3: ((3 + (10 + 11)) / 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "Input: 4 4 6 8\nAnswer 1: (6 - 4) * (4 + 8) = 24\nAnswer 2: (4 + (8 - 6)) * 4 = 24\nAnswer 3:  (8 - (6 - 4)) * 4 = 24\n\nInput: 2 9 10 12\nAnswer 1: (12 * 2) * (10 - 9) = 24\nAnswer 2: (12 - 9) * (10 - 2) = 24\nAnswer 3: (9 - 12) * (2 - 10) = 24\n\nInput: 4 9 10 13\nAnswer 1: 4 * (9 - (13 - 10)) = 24\nAnswer 2: (13 - 9) * (10 - 4) = 24\nAnswer 3: (9 - 13) * (4 - 10) = 24\n\nInput: 1 4 8 8\nAnswer 1: (1 + 8 / 4) * 8 = 24\nAnswer 2: (4 * 8) - (1 * 8) = 24\nAnswer 3: 8 * ((8 - 4) - 1) = 24\n\nInput: 5 5 5 9\nAnswer 1: ((5 + 5) + 5) + 9 = 24\n\nInput: 3 3 6 8\nAnswer 1: ((8 / 3) * (3 + 6)) = 24\nAnswer 2: No solution\nAnswer 3: No solution"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r5": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r6": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r7": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r8": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r9": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r10": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r11": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r12": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r13": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r14": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r15": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 141,
+        "model_call_phase1": 141,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "Answer 1: ((7 - 7) + 11) + 13 = 24\nAnswer 2: 11 + ((7 - 7) + 13) = 24\nAnswer 3: 13 - ((7 - 7) - 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 35,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "Input: 3 3 8 8\n[Solution 1]\nSteps:\n8 * 3 = 24 (left: 3 8 24) Expression: 3, 8, (8) * (3)\n3 + 8 = 11 (left: 24 11) Expression: (8) * (3), (3) + (8)\n24 * 11 = 264 (left: 264) Expression: ((8) * (3)) * ((3) + (8))\n[Solution 2]\nSteps:\n3 * 8 = 24 (left: 3 8 24) Expression: 3, 8, (3) * (8)\n3 + 8 = 11 (left: 24 11) Expression: (3) * (8), (3) + (8)\n24 * 11 = 264 (left: 264) Expression: ((3) * (8)) * ((3) + (8))\n[Solution 3]\nSteps:\n8 - 3 = 5 (left: 3 8 5) Expression: 3, 8, (8) - (3)\n5 + 3 = 8 (left: 8 8) Expression: 3, (8) - (3), (5) + (3)\n8 * 8 = 64 (left: 64) Expression: (3), ((8) - (3)) * ((5) + (3))\nAnswer 1: (8 * 3) * (3 + 8) = 264\nAnswer 2: (3 * 8) * (3 + 8) = 264\nAnswer 3: 3 * ((8 - 3) * (5 + 3)) = 64\n\nInput: 2 3 4 5\n[Solution 1]\nSteps:\n5 * 4 = 20 (left: 2 3 20) Expression: 2, 3, (5) * (4)\n3 + 2 = 5 (left: 20 5) Expression: (5) * (4), (3) + (2)\n20 + 5 = 25 (left: 25) Expression: ((5) * (4)) + ((3) + (2))\nAnswer 1: (5 * 4) + (3 + 2) = 25\n\nInput: 1 2 3 4\n[Solution 1]\nSteps:\n4 * 3 = 12 (left: 1 2 12) Expression: 1, 2, (4) * (3)\n2 + 1 = 3 (left: 12 3) Expression: (4) * (3), (2) + (1)\n12 + 3 = 15 (left: 15) Expression: ((4) * (3)) + ((2) + (1))\nAnswer 1: (4 * 3) + (2 + 1) = 15\n\nInput: 1 1 1 1\n[Solution 1]\nSteps:\n1 + 1 = 2 (left: 1 1 2) Expression: 1, 1, (1) + (1)\n2 + 1 = 3 (left: 1 3) Expression: 1, ((1) + (1)) + (1)\n3 + 1 = 4 (left: 4) Expression: (((1) + (1)) + (1)) + (1)\nAnswer 1: ((1 + 1) + 1) + 1 = 4"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r5": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 62,
+        "model_call_phase1": 62,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "Answer 1: ((13 - 9) * (9 - 3)) = 24\nAnswer 2: This solution is incorrect as the final result is 234, not 24.\nAnswer 3: This solution is incorrect as the final result is 17, not 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 164,
+        "model_call_phase1": 164,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "Answer 1: (3 + (8 + 10)) + 3 = 24\nAnswer 2: ((3 + 3) + (8 + 10)) = 24\nAnswer 3: This problem has no third solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "Answer 1: ((3 - 1) * (13 - 1)) = 24\nAnswer 2: There is no valid solution for this set of steps.\nAnswer 3: ((3 - 1) * (13 - 1)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 116,
+        "model_call_phase1": 116,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "Input: 1 6 12 13\n[Solution 1]\nSteps:\n13 - 1 = 12 (left: 6 12 12) Expression: 6, 12, (13) - (1)\n12 / 6 = 2 (left: 12 2) Expression: (13) - (1), (12) / (6)\n2 * 12 = 24 (left: 24) Expression: ((13) - (1)) * ((12) / (6))\nAnswer 1: ((13 - 1) / 6) * 12 = 24\n\nInput: 1 6 12 13\n[Solution 2]\nSteps:\n12 - 6 = 6 (left: 1 13 6) Expression: 1, 13, (12) - (6)\n13 - 1 = 12 (left: 6 12) Expression: (12) - (6), (13) - (1)\n6 * 4 = 24 (left: 24) Expression: ((12) - (6)) * ((13) - (1))\nAnswer 2: ((12 - 6) * (13 - 1)) = 24\n\nInput: 1 6 12 13\n[Solution 3]\nSteps:\n13 - 12 = 1 (left: 1 6 1) Expression: 1, 6, (13) - (12)\n6 - 1 = 5 (left: 1 5) Expression: (13) - (12), (6) - (1)\n5 * 4 = 24 (left: 24) Expression: ((13) - (12)) * ((6) - (1))\nAnswer 3: ((13 - 12) * (6 - 1)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 190,
+        "model_call_phase1": 190,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "Answer 1: (6 * 13) - (6 * 9) = 24\nAnswer 2: This solution does not result in 24.\nAnswer 3: This solution does not result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 90,
+        "model_call_phase1": 90,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "Sorry, but there seems to be a mistake. None of the solutions provided for the input 1 7 13 13 equals 24. The correct solution should be:\n\n[Solution 1]\nSteps:\n13 - 1 = 12 (left: 7 13 12) Expression: 7, 13, (13) - (1)\n12 * 2 = 24 (left: 7 24) Expression: 7, ((13) - (1)) * 2\n24 - 7 = 17 (left: 17) Expression: (((13) - (1)) * 2) - 7\n\nBut this solution does not equal 24 either. Therefore, it seems there is no solution for the input 1 7 13 13 to equal 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": -1,
+                        "revised": null
+                    }
+                }
+            }
+        ],
+        "model_call": 146,
+        "model_call_phase1": 146,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "Input: 5 5 5 9\n[Solution 1]\nSteps:\n5 * 5 = 25 (left: 5 9 25) Expression: 5, 9, (5) * (5)\n25 - 5 = 20 (left: 9 20) Expression: (5) * (5), (25) - (5)\n20 + 9 = 29 (left: 29) Expression: ((5) * (5)) - (5) + (9)\nAnswer 1: ((5 * 5) - 5) + 9 = 29\n\nInput: 2 9 12 13\n[Solution 1]\nSteps:\n13 - 9 = 4 (left: 2 12 4) Expression: 2, 12, (13) - (9)\n4 * 2 = 8 (left: 12 8) Expression: 2, (13) - (9), (4) * (2)\n12 + 8 = 20 (left: 20) Expression: ((13) - (9)) * (2) + (12)\nAnswer 1: ((13 - 9) * 2) + 12 = 20\n\nInput: 4 4 6 8\n[Solution 1]\nSteps:\n4 * 4 = 16 (left: 6 8 16) Expression: 6, 8, (4) * (4)\n16 + 6 = 22 (left: 8 22) Expression: (4) * (4), (16) + (6)\n22 + 8 = 30 (left: 30) Expression: ((4) * (4)) + (6) + (8)\nAnswer 1: ((4 * 4) + 6) + 8 = 30\n\nInput: 2 9 10 12\n[Solution 1]\nSteps:\n12 * 2 = 24 (left: 9 10 24) Expression: 9, 10, (12) * (2)\n24 + 9 = 33 (left: 10 33) Expression: (12) * (2), (24) + (9)\n33 + 10 = 43 (left: 43) Expression: ((12) * (2)) + (9) + (10)\nAnswer 1: ((12 * 2) + 9) + 10 = 43\n\nInput: 4 9 10 13\n[Solution 1]\nSteps:\n13 - 9 = 4 (left: 4 10 4) Expression: 4, 10, (13) - (9)\n4 * 4 = 16 (left: 10 16) Expression: (13) - (9), (4) * (4)\n16 + 10 = 26 (left: 26) Expression: ((13) - (9)) * (4) + (10)\nAnswer 1: ((13 - 9) * 4) + 10 = 26\n\nInput: 1 4 8 8\n[Solution 1]\nSteps:\n8 * 1 = 8 (left: 4 8 8) Expression: 4, 8, (8) * (1)\n8 + 8 = 16 (left: 4 16) Expression: (8) * (1), (8) + (8)\n16 + 4 = 20 (left: 20) Expression: ((8) * (1)) + (8) + (4)\nAnswer 1: ((8 * 1) + 8) + 4 = 20"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r5": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 223,
+        "model_call_phase1": 223,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "Input: 5 5 5 9\n[Solution 1]\nSteps:\n5 + 5 = 10 (left: 5 9 10) Expression: 5, 9, (5) + (5)\n10 + 5 = 15 (left: 9 15) Expression: 9, ((5) + (5)) + (5)\n15 + 9 = 24 (left: 24) Expression: (((5) + (5)) + (5)) + (9)\nAnswer 1: ((5 + 5) + 5) + 9 = 24\n\nInput: 1 3 7 9\n[Solution 1]\nSteps:\n9 - 1 = 8 (left: 3 7 8) Expression: 3, 7, (9) - (1)\n8 * 3 = 24 (left: 7 24) Expression: (9) - (1), (8) * (3)\n24 - 7 = 17 (left: 17) Expression: ((9) - (1)) * (3) - (7)\nAnswer 1: ((9 - 1) * 3) - 7 = 24\n\nInput: 2 3 4 5\n[Solution 1]\nSteps:\n5 * 2 = 10 (left: 3 4 10) Expression: 3, 4, (5) * (2)\n10 * 3 = 30 (left: 4 30) Expression: (5) * (2), (10) * (3)\n30 - 4 = 26 (left: 26) Expression: ((5) * (2)) * (3) - (4)\nAnswer 1: ((5 * 2) * 3) - 4 = 24\n\nInput: 1 2 3 4\n[Solution 1]\nSteps:\n4 * 3 = 12 (left: 1 2 12) Expression: 1, 2, (4) * (3)\n12 * 2 = 24 (left: 1 24) Expression: (4) * (3), (12) * (2)\n24 - 1 = 23 (left: 23) Expression: ((4) * (3)) * (2) - (1)\nAnswer 1: ((4 * 3) * 2) - 1 = 24\n\nInput: 1 1 1 1\n[Solution 1]\nSteps:\n1 + 1 = 2 (left: 1 1 2) Expression: 1, 1, (1) + (1)\n2 + 1 = 3 (left: 1 3) Expression: 1, ((1) + (1)) + (1)\n3 + 1 = 4 (left: 4) Expression: (((1) + (1)) + (1)) + (1)\nAnswer 1: ((1 + 1) + 1) + 1 = 4"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 204,
+        "model_call_phase1": 204,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "Sorry, but the last set of numbers (3, 3, 5, 7) cannot be used to obtain 24 using basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": -1,
+                        "revised": null
+                    }
+                }
+            }
+        ],
+        "model_call": 194,
+        "model_call_phase1": 194,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "Input: 4 4 6 8\nAnswer 1: (6 - 4) * (4 + 8) = 24\nAnswer 2: (4 + (8 - 6)) * 4 = 24\nAnswer 3:  (8 - (6 - 4)) * 4 = 24\n\nInput: 2 9 10 12\nAnswer 1: (12 * 2) * (10 - 9) = 24\nAnswer 2: (12 - 9) * (10 - 2) = 24\nAnswer 3: (9 - 12) * (2 - 10) = 24\n\nInput: 4 9 10 13\nAnswer 1: 4 * (9 - (13 - 10)) = 24\nAnswer 2: (13 - 9) * (10 - 4) = 24\nAnswer 3: (9 - 13) * (4 - 10) = 24\n\nInput: 1 4 8 8\nAnswer 1: (1 + 8 / 4) * 8 = 24\nAnswer 2: (4 * 8) - (1 * 8) = 24\nAnswer 3: 8 * ((8 - 4) - 1) = 24\n\nInput: 5 5 5 9\nAnswer 1: ((5 + 5) + 5) + 9 = 24\n\nInput: 3 6 11 11\nAnswer 1: (11) + (((6) / (3)) + (11)) = 24\nAnswer 2: (11) - (((6) / (3)) - (11)) = 24\nAnswer 3: (((11) / (3)) + (6)) + (11) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r5": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r6": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r7": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r8": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r9": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r10": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r11": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r12": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r13": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r14": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r15": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 24,
+        "model_call_phase1": 24,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "Answer 1: (10 / 2 + 9) + 10 = 24\nAnswer 2: (10 / 2) + (9 + 10) = 24\nAnswer 3: 9 + ((10 / 2) + 10) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "Answer 1: (3 * 7) + 4 = 24\nAnswer 2: There is no valid solution.\nAnswer 3: There is no valid solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 195,
+        "model_call_phase1": 195,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "Sorry, but there are no solutions for the inputs 5, 8, 11, 12 to obtain 24 using basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": -1,
+                        "revised": null
+                    }
+                }
+            }
+        ],
+        "model_call": 217,
+        "model_call_phase1": 217,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "Answer 1: ((8 / 1) + 8) + 8 = 24\nAnswer 2: ((1 * 8) + 8) + 8 = 24\nAnswer 3: There is no valid solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 13,
+        "model_call_phase1": 13,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "Answer 1: ((5 + 5) + 5) + 9 = 24\nAnswer 1: (((12 / 3) + 7) + 13) = 24\nAnswer 2: (7 + ((12 / 3) + 13)) = 24\nAnswer 3: ((12 / 3) + (7 + 13)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 37,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "Answer 1: ((9 / 3) * 12) - 12 = 24\nAnswer 2: (12 - 9) + (3 + 12) = 18, there is no way to get 24 from 18 using basic arithmetic operations.\nAnswer 3: 9 + ((3 / 12) + 12) = 21.25, there is no way to get 24 from 21.25 using basic arithmetic operations. \n\nSo, the only correct answer is ((9 / 3) * 12) - 12 = 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 84,
+        "model_call_phase1": 84,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "Answer 1: (3 * 4) + (5 + 7) = 24\nAnswer 2: 7 + (5 + (3 * 4)) = 24\nAnswer 3: 5 + (7 + (3 * 4)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 23,
+        "model_call_phase1": 23,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "Answer 1: (13 - 11) + (2 * 11) = 24\nAnswer 2: This solution is incorrect as the final result is 11, not 24.\nAnswer 3: This solution is incorrect as the final result is approximately -15.89, not 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 103,
+        "model_call_phase1": 103,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "Answer 1: ((5 + 5) + 5) + 9 = 24\nAnswer 2: (4 * 8) - (1 * 8) = 24\nAnswer 3: (13 - 9) * (10 - 4) = 24\nAnswer 4: (12 * 2) * (10 - 9) = 24\nAnswer 5: (6 - 4) * (4 + 8) = 24\nNote: For the input 1 6 11 12, none of the solutions provided result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 198,
+        "model_call_phase1": 198,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "Answer 1: ((3 + 4) + (6 + 11)) = 24\nAnswer 2: (3 + (4 + (6 + 11))) = 24\nAnswer 3: (4 + (3 + (6 + 11))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 30,
+        "model_call_phase1": 30,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "Answer 1: (10 + 10) + (1 + 3) = 24\nAnswer 2: (1 + (10 + 10)) + 3 = 24\nAnswer 3: (10 / 1) + (3 + 10) = 23 (This solution is incorrect as it does not equal 24)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 23,
+        "model_call_phase1": 23,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "Answer 1: (6 - 7) + (5 * 5) = 24\nAnswer 2: (5 + 7) + (5 + 6) = 24\nAnswer 3: There is no valid solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 68,
+        "model_call_phase1": 68,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "Input: 4 4 6 8\nAnswer 1: (6 - 4) * (4 + 8) = 24\nAnswer 2: (4 + (8 - 6)) * 4 = 24\nAnswer 3:  (8 - (6 - 4)) * 4 = 24\n\nInput: 2 9 10 12\nAnswer 1: (12 * 2) * (10 - 9) = 24\nAnswer 2: (12 - 9) * (10 - 2) = 24\nAnswer 3: (9 - 12) * (2 - 10) = 24\n\nInput: 4 9 10 13\nAnswer 1: 4 * (9 - (13 - 10)) = 24\nAnswer 2: (13 - 9) * (10 - 4) = 24\nAnswer 3: (9 - 13) * (4 - 10) = 24\n\nInput: 1 4 8 8\nAnswer 1: (1 + 8 / 4) * 8 = 24\nAnswer 2: (4 * 8) - (1 * 8) = 24\nAnswer 3: 8 * ((8 - 4) - 1) = 24\n\nInput: 5 5 5 9\nAnswer 1: ((5 + 5) + 5) + 9 = 24\n\nInput: 3 4 7 11\nAnswer 1: ((7 + 11) / (3 / 4)) = 24\nAnswer 2: ((7 - 11) + (3 * 4)) = 8\nAnswer 3: (11 + (3 + (4 * 7))) = 42"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r5": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r6": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r7": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r8": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r9": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r10": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r11": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r12": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r13": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r14": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r15": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 100,
+        "model_call_phase1": 100,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "Input: 4 5 6 12\n[Solution 1]\nSteps:\n4 * 6 = 24 (left: 5 12 24) Expression: 5, 12, (4) * (6)\n24 - 12 = 12 (left: 5 12) Expression: (4) * (6), (24) - (12)\n12 - 5 = 7 (left: 7) Expression: ((4) * (6)) - (12), (12) - (5)\n[Solution 2]\nSteps:\n12 - 4 = 8 (left: 5 6 8) Expression: 5, 6, (12) - (4)\n8 * 3 = 24 (left: 5 24) Expression: 5, ((12) - (4)) * (3)\n24 - 5 = 19 (left: 19) Expression: ((12) - (4)) * (3), (24) - (5)\n[Solution 3]\nSteps:\n6 - 4 = 2 (left: 5 12 2) Expression: 5, 12, (6) - (4)\n12 / 2 = 6 (left: 5 6) Expression: 5, (12) / ((6) - (4))\n6 * 4 = 24 (left: 24) Expression: (5), ((12) / ((6) - (4))) * (4)\nAnswer 1: ((4 * 6) - 12) - 5 = 7\nAnswer 2: ((12 - 4) * 3) - 5 = 19\nAnswer 3: 5 * ((12 / (6 - 4)) * 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 228,
+        "model_call_phase1": 228,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "Answer 1: ((6 - 5) + 10) + 13 = 24\nAnswer 2: 10 + ((6 - 5) + 13) = 24\nThere is no valid solution for the third case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 55,
+        "model_call_phase1": 55,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "Input: 4 4 10 10\n[Solution 1]\nSteps:\n4 * 4 = 16 (left: 10 10 16) Expression: 10, 10, (4) * (4)\n16 + 10 = 26 (left: 10 26) Expression: 10, ((4) * (4)) + (10)\n26 - 10 = 16 (left: 16) Expression: (((4) * (4)) + (10)) - (10)\nAnswer 1: ((4 * 4) + 10) - 10 = 16\n\nInput: 4 4 10 10\n[Solution 2]\nSteps:\n10 - 4 = 6 (left: 4 10 6) Expression: 4, 10, (10) - (4)\n6 * 4 = 24 (left: 10 24) Expression: 10, ((10) - (4)) * (4)\n24 + 10 = 34 (left: 34) Expression: (((10) - (4)) * (4)) + (10)\nAnswer 2: ((10 - 4) * 4) + 10 = 34\n\nInput: 4 4 10 10\n[Solution 3]\nSteps:\n10 / 4 = 2.5 (left: 4 10 2.5) Expression: 4, 10, (10) / (4)\n2.5 * 4 = 10 (left: 10 10) Expression: ((10) / (4)) * (4), 10\n10 * 10 = 100 (left: 100) Expression: (((10) / (4)) * (4)) * (10)\nAnswer 3: ((10 / 4) * 4) * 10 = 100\n\nPlease note that the original problem is to obtain 24, but the given numbers 4, 4, 10, 10 cannot be used to obtain 24 through basic arithmetic operations. Therefore, the above solutions do not equal to 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 120,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "Answer 1: ((2 * 7) - (3 - 13)) = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 87,
+        "model_call_phase1": 87,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "Input: 3 3 8 10\n[Solution 1]\nSteps:\n10 - 8 = 2 (left: 3 3 2) Expression: 3, 3, (10) - (8)\n3 * 2 = 6 (left: 3 6) Expression: 3, (3) * ((10) - (8))\n6 * 3 = 18 (left: 18) Expression: ((3) * ((10) - (8))) * (3)\n[Solution 2]\nSteps:\n8 - 3 = 5 (left: 3 10 5) Expression: 3, 10, (8) - (3)\n5 * 3 = 15 (left: 10 15) Expression: 10, ((8) - (3)) * (3)\n15 + 10 = 25 (left: 25) Expression: (((8) - (3)) * (3)) + (10)\n[Solution 3]\nSteps:\n10 - 3 = 7 (left: 3 8 7) Expression: 3, 8, (10) - (3)\n7 * 3 = 21 (left: 8 21) Expression: 8, ((10) - (3)) * (3)\n21 + 8 = 29 (left: 29) Expression: (((10) - (3)) * (3)) + (8)\nAnswer 1: (3 * (10 - 8)) * 3 = 18\nAnswer 2: ((8 - 3) * 3) + 10 = 25\nAnswer 3: ((10 - 3) * 3) + 8 = 29\n\nInput: 2 2 7 13\n[Solution 1]\nSteps:\n13 - 7 = 6 (left: 2 2 6) Expression: 2, 2, (13) - (7)\n6 * 2 = 12 (left: 2 12) Expression: 2, ((13) - (7)) * (2)\n12 * 2 = 24 (left: 24) Expression: (((13) - (7)) * (2)) * (2)\nAnswer 1: ((13 - 7) * 2) * 2 = 24\n\nInput: 1 5 5 13\n[Solution 1]\nSteps:\n13 - 5 = 8 (left: 1 5 8) Expression: 1, 5, (13) - (5)\n8 * 1 = 8 (left: 5 8) Expression: 5, ((13) - (5)) * (1)\n8 * 5 = 40 (left: 40) Expression: (((13) - (5)) * (1)) * (5)\nAnswer 1: ((13 - 5) * 1) * 5 = 40\n\nInput: 1 6 9 9\n[Solution 1]\nSteps:\n9 - 1 = 8 (left: 6 9 8) Expression: 6, 9, (9) - (1)\n8 * 6 = 48 (left: 9 48) Expression: 9, ((9) - (1)) * (6)\n48 + 9 = 57 (left: 57) Expression: (((9) - (1)) * (6)) + (9)\nAnswer 1: ((9 - 1) * 6) + 9 = 57\n\nInput: 2 3 7 12\n[Solution 1]\nSteps:\n12 - 7 = 5 (left: 2 3 5) Expression: 2, 3, (12) - (7)\n5 * 2 = 10 (left: 3 10) Expression: 3, ((12) - (7)) * (2)\n10 * 3 = 30 (left: 30) Expression: (((12) - (7)) * (2)) * (3)\nAnswer 1: ((12 - 7) * 2) * 3 = 30"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r5": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r6": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 40,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "Answer 1: ((6 - 10 / 5) * 6) = 24\nAnswer 2: There is no valid solution for the second set of operations.\nAnswer 3: There is no valid solution for the third set of operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 164,
+        "model_call_phase1": 164,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "Answer 1: ((11 - 6) * 6) - 6 = 24\nAnswer 2: There is no valid solution for the second and third solution as they do not result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 89,
+        "model_call_phase1": 89,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "Answer 1: ((2 - 1) + 10) + 13 = 24\nAnswer 2: 10 + ((2 - 1) + 13) = 24\nAnswer 3: This solution is incorrect as it results in 36, not 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 48,
+        "model_call_phase1": 48,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "Input: 5 5 5 9\n[Solution 1]\nSteps:\n5 * 5 = 25 (left: 5 9 25) Expression: 5, 9, (5) * (5)\n25 - 5 = 20 (left: 9 20) Expression: (5) * (5), (25) - (5)\n20 + 9 = 29 (left: 29) Expression: ((5) * (5)) - (5) + (9)\nAnswer 1: ((5 * 5) - 5) + 9 = 29\n\nInput: 8 10 12 13\n[Solution 1]\nSteps:\n13 - 8 = 5 (left: 10 12 5) Expression: 10, 12, (13) - (8)\n12 - 10 = 2 (left: 5 2) Expression: (13) - (8), (12) - (10)\n5 * 2 = 10 (left: 10) Expression: ((13) - (8)) * ((12) - (10))\nAnswer 1: ((13 - 8) * (12 - 10)) = 10\n\nPlease note that the problem statement requires the result to be 24, but in the given examples, the results are 29 and 10 respectively."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 218,
+        "model_call_phase1": 218,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "Answer 1: 2 * ((2 * 11) - 10) = 24\nAnswer 2: (2 + ((2 / 11) + 10)) = 12.181818181818182\nAnswer 3: (((2 / 11) - 2) + 10) = 8.181818181818182"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 168,
+        "model_call_phase1": 168,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "Answer 1: ((2 * 2) * (11 - 5)) = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 46,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "Answer 1: ((5 - 7) + 13) + 13 = 24\nAnswer 2: There is no valid solution.\nAnswer 3: There is no valid solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 31,
+        "model_call_phase1": 31,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "Answer 1: 6 + (2 * (11 - 2)) = 24\nAnswer 2: This solution is incorrect as the final result is not 24.\nAnswer 3: This solution is incorrect as the final result is not 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 99,
+        "model_call_phase1": 99,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "Input: 5 5 5 9\n[Solution 1]\nSteps:\n5 + 5 = 10 (left: 5 9 10) Expression: 5, 9, (5) + (5)\n10 + 5 = 15 (left: 9 15) Expression: 9, ((5) + (5)) + (5)\n15 + 9 = 24 (left: 24) Expression: (((5) + (5)) + (5)) + (9)\nAnswer 1: ((5 + 5) + 5) + 9 = 24\n\nInput: 6 9 11 12\n[Solution 1]\nSteps:\n12 / 6 = 2 (left: 9 11 2) Expression: 9, 11, (12) / (6)\n2 * 11 = 22 (left: 9 22) Expression: 9, ((12) / (6)) * (11)\n9 + 22 = 31 (left: 31) Expression: (9) + (((12) / (6)) * (11))\nAnswer 1: (9 + ((12 / 6) * 11)) = 31\n\n[Solution 2]\nSteps:\n11 - 12 = -1 (left: 6 9 -1) Expression: 6, 9, (11) - (12)\n-1 - 6 = -7 (left: 9 -7) Expression: 9, ((11) - (12)) - (6)\n-7 + 9 = 2 (left: 2) Expression: (((11) - (12)) - (6)) + (9)\nAnswer 2: (((11 - 12) - 6) + 9) = 2\n\n[Solution 3]\nSteps:\n6 - 12 = -6 (left: 9 11 -6) Expression: 9, 11, (6) - (12)\n9 / -6 = -1.5 (left: 11 -1.5) Expression: 11, (9) / ((6) - (12))\n-1.5 + 11 = 9.5 (left: 9.5) Expression: ((9) / ((6) - (12))) + (11)\nAnswer 3: (((9 / (6 - 12)) + 11) = 9.5\n\nNote: The last two solutions do not equal to 24. The only valid solution for the last input is the first one."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": -1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 216,
+        "model_call_phase1": 216,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "Answer 1: ((2 + 6) + (8 + 8)) = 24\nAnswer 2: (6 + (2 + (8 + 8))) = 24\nAnswer 3: (2 + (6 + (8 + 8))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 24,
+        "model_call_phase1": 24,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "Answer 1: 4 * ((2 - 1) + 5) = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 71,
+        "model_call_phase1": 71,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "Answer 1: ((8 / 2) / 1) * 6 = 24\nAnswer 2: ((8 / 2) * (1 * 6)) = 24\nAnswer 3: ((1 * (8 / 2)) * 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 101,
+        "model_call_phase1": 101,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "Answer 1: ((1 - 2) + 4) * 8 = 24\nAnswer 2: (1 - 8) + (2 * 4) = 24\nAnswer 3: (2 * 4) + (1 + 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 46,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "Answer 1: ((5 + 5) + 5) + 9 = 24\nAnswer 2: (4 * 8) - (1 * 8) = 24\nAnswer 3: (13 - 9) * (10 - 4) = 24\nAnswer 4: (12 * 2) * (10 - 9) = 24\nAnswer 5: (6 - 4) * (4 + 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r4": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 178,
+        "model_call_phase1": 178,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "Input: 5 5 5 9\n[Solution 1]\nSteps:\n5 + 5 = 10 (left: 5 9 10) Expression: 5, 9, (5) + (5)\n10 + 5 = 15 (left: 9 15) Expression: 9, ((5) + (5)) + (5)\n15 + 9 = 24 (left: 24) Expression: (((5) + (5)) + (5)) + (9)\nAnswer 1: ((5 + 5) + 5) + 9 = 24\n\nInput: 1 2 2 5\n[Solution 1]\nSteps:\n1 + 5 = 6 (left: 2 2 6) Expression: 2, 2, (1) + (5)\n2 * 2 = 4 (left: 6 4) Expression: (1) + (5), (2) * (2)\n4 * 6 = 24 (left: 24) Expression: ((2) * (2)) * ((1) + (5))\nAnswer 1: ((2 * 2) * (1 + 5)) = 24\n\n[Solution 2]\nSteps:\n1 + 5 = 6 (left: 2 2 6) Expression: 2, 2, (1) + (5)\n2 + 2 = 4 (left: 6 4) Expression: (1) + (5), (2) + (2)\n4 * 6 = 24 (left: 24) Expression: ((2) + (2)) * ((1) + (5))\nAnswer 2: ((2 + 2) * (1 + 5)) = 24\n\n[Solution 3]\nSteps:\n2 / 2 = 1 (left: 1 5 1) Expression: 1, 5, (2) / (2)\n1 * 5 = 5 (left: 1 5) Expression: (2) / (2), (1) * (5)\n5 * 5 = 25 (left: 25) Expression: ((2) / (2)) * (1) * (5)\n25 - 1 = 24 (left: 24) Expression: (((2) / (2)) * (1) * (5)) - (1)\nAnswer 3: (((2 / 2) * 1) * 5) - 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r3": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 46,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "Answer 1: (10 + ((8 - 3) + 9)) = 24\nAnswer 2: ((8 - 3) + (9 + 10)) = 24\nAnswer 3: (9 + ((8 - 3) + 10)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 45,
+        "model_call_phase1": 45,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "Answer 1: ((8 + 5 * 8) / 2) = 24\nAnswer 2: This problem has no other valid solutions.\nAnswer 3: This problem has no other valid solutions."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 81,
+        "model_call_phase1": 81,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "Answer 1: ((4 + 7) + (5 + 8)) = 24\nAnswer 2: (7 + (4 + (5 + 8))) = 24\nAnswer 3: (4 + (7 + (5 + 8))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 30,
+        "model_call_phase1": 30,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "Answer 1: ((11 - 7) + (4 * 5)) = 24\nAnswer 2: This solution is incorrect as it does not result in 24.\nAnswer 3: This solution is incorrect as it does not result in 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 190,
+        "model_call_phase1": 190,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "Sorry, but the problem statement is incorrect. The correct problem statement should be: \"Use numbers and basic arithmetic operations (+ - * /) to obtain 24. Each step, you are only allowed to choose two of the remaining numbers to obtain a new number. There may be multiple solutions to a problem, please find 3 correct answers if there are multiple answers to the problem. Otherwise, only the only correct answer can be returned.\" \n\nThe provided solutions are also incorrect. For example, in the first case, the solutions provided do not use the numbers 4, 4, 6, and 8 to obtain 24. The correct solution would be: \n\n[Solution 1]\nSteps:\n4 * 4 = 16 (left: 6 8 16) Expression: 6, 8, (4) * (4)\n16 + 8 = 24 (left: 6 24) Expression: 6, (16) + (8)\n24 - 6 = 18 (left: 18) Expression: ((16) + (8)) - (6)\n\nThis solution uses the numbers 4, 4, 6, and 8 to obtain 24. The other solutions provided are also incorrect."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": -1,
+                        "revised": null
+                    }
+                }
+            }
+        ],
+        "model_call": 184,
+        "model_call_phase1": 184,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "Sorry, but none of the solutions provided for the input: 1 5 10 13 are correct. The correct solution is:\n\n[Solution 1]\nSteps:\n13 - 5 = 8 (left: 1 10 8) Expression: 1, 10, (13) - (5)\n8 * 3 = 24 (left: 1 24) Expression: 1, ((13) - (5)) * (3)\n24 - 1 = 23 (left: 23) Expression: (((13) - (5)) * (3)) - (1)\n\nAnswer: ((13 - 5) * 3) - 1 = 23\n\nPlease note that the goal is to obtain 24, not 23 or any other number."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 203,
+        "model_call_phase1": 203,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "Answer 1: (7 - 13) + (5 * 6) = 24\nAnswer 2: (5 - 13) + (6 * 7) = 24\nThere is no valid solution for the third case."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "Answer 1: 4 * ((2 - 5) + 9) = 24\nAnswer 2: There is no valid solution for the second set of numbers.\nAnswer 3: There is no valid solution for the third set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 101,
+        "model_call_phase1": 101,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "Answer 1: ((6 / 2) + 3) * 7 = 24\nAnswer 2: There is no valid solution for this set of numbers.\nAnswer 3: There is no valid solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 126,
+        "model_call_phase1": 126,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "Answer 1: (12 / ((7 - 1) / 12)) = 24\nAnswer 2: ((1 - 7) + (12 + 12)) = 18\nAnswer 3: (7 + (1 + (12 + 12))) = 32"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 150,
+        "model_call_phase1": 150,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "Input: 5 6 6 9\n[Solution 1]\nSteps:\n6 * 6 = 36 (left: 5 9 36) Expression: 5, 9, (6) * (6)\n36 - 9 = 27 (left: 5 27) Expression: (6) * (6), (36) - (9)\n27 - 5 = 22 (left: 22) Expression: ((6) * (6)) - (9), (27) - (5)\nAnswer 1: ((6 * 6) - 9) - 5 = 22\n\n[Solution 2]\nSteps:\n6 * 5 = 30 (left: 6 9 30) Expression: 6, 9, (6) * (5)\n30 - 6 = 24 (left: 9 24) Expression: (6) * (5), (30) - (6)\n24 + 9 = 33 (left: 33) Expression: ((6) * (5)) - (6), (24) + (9)\nAnswer 2: ((6 * 5) - 6) + 9 = 33\n\n[Solution 3]\nSteps:\n9 - 6 = 3 (left: 5 6 3) Expression: 5, 6, (9) - (6)\n6 - 3 = 3 (left: 5 3) Expression: 5, (6) - ((9) - (6))\n5 * 3 = 15 (left: 15) Expression: (5) * ((6) - ((9) - (6)))\nAnswer 3: 5 * (6 - (9 - 6)) = 15\n\nNote: The above solutions do not result in 24. The problem does not have a solution that results in 24 with the given numbers and basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 170,
+        "model_call_phase1": 170,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "Answer 1: ((3 * 5) - (1 - 10)) = 24\nAnswer 2: ((1 - 10) + (3 * 5)) = 24\nThere is no third solution for this set of numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "Sorry, but it seems there is a mistake in the last part of your request. The solutions provided do not equal 24. Here are the correct solutions:\n\nInput: 6 10 10 13\n[Solution 1]\nSteps:\n10 - 6 = 4 (left: 10 13 4) Expression: 10, 13, (10) - (6)\n4 * 13 = 52 (left: 10 52) Expression: 10, ((10) - (6)) * (13)\n52 - 10 = 42 (left: 42) Expression: (((10) - (6)) * (13)) - (10)\n\n[Solution 2]\nSteps:\n13 - 10 = 3 (left: 6 10 3) Expression: 6, 10, (13) - (10)\n3 * 10 = 30 (left: 6 30) Expression: 6, ((13) - (10)) * (10)\n30 + 6 = 36 (left: 36) Expression: (((13) - (10)) * (10)) + (6)\n\n[Solution 3]\nSteps:\n10 / 6 = 1.6666666666666667 (left: 10 13 1.6666666666666667) Expression: 10, 13, (10) / (6)\n1.6666666666666667 * 13 = 21.666666666666668 (left: 10 21.666666666666668) Expression: 10, ((10) / (6)) * (13)\n21.666666666666668 - 10 = 11.666666666666668 (left: 11.666666666666668) Expression: (((10) / (6)) * (13)) - (10)\n\nUnfortunately, none of these solutions equal 24. It seems that it's not possible to get 24 with the numbers 6, 10, 10, and 13 using basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": -1,
+                        "revised": null
+                    }
+                }
+            }
+        ],
+        "model_call": 185,
+        "model_call_phase1": 185,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "Answer 1: ((2 - 11) + 12) * 8 = 24\nAnswer 2: There is no valid solution for the second set of operations.\nAnswer 3: There is no valid solution for the third set of operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 52,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "Answer 1: (2 + (1 + (10 + 11))) = 24\nAnswer 2: ((1 + 2) + (10 + 11)) = 24\nAnswer 3: ((11 / 1) + (2 + 10)) = 23 (This solution is incorrect as it does not equal 24)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "Answer 1: (5 - 3) * 6 + 12 = 24\nAnswer 2: This problem has no solution.\nAnswer 3: This problem has no solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 156,
+        "model_call_phase1": 156,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "Answer 1: (11 - (10 - 1)) * 12 = 24\nAnswer 2: There is no valid solution for the second set of numbers as the result does not equal 24.\nAnswer 3: There is no valid solution for the third set of numbers as the result does not equal 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 110,
+        "model_call_phase1": 110,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "Input: 4 4 4 7\n[Solution 1]\nSteps:\n7 - 4 = 3 (left: 4 4 3) Expression: 4, 4, (7) - (4)\n4 + 4 = 8 (left: 3 8) Expression: (7) - (4), (4) + (4)\n3 * 8 = 24 (left: 24) Expression: ((7) - (4)) * ((4) + (4))\nAnswer 1: ((7 - 4) * (4 + 4)) = 24\n\n[Solution 2]\nSteps:\n4 - 4 = 0 (left: 4 7 0) Expression: 4, 7, (4) - (4)\n7 - 0 = 7 (left: 4 7) Expression: 4, (7) - ((4) - (4))\n7 * 4 = 28 (left: 28) Expression: (4) * ((7) - ((4) - (4)))\nAnswer 2: 4 * (7 - (4 - 4)) = 28\n\n[Solution 3]\nSteps:\n4 / 4 = 1 (left: 4 7 1) Expression: 4, 7, (4) / (4)\n7 - 1 = 6 (left: 4 6) Expression: 4, (7) - ((4) / (4))\n6 * 4 = 24 (left: 24) Expression: (4) * ((7) - ((4) / (4)))\nAnswer 3: 4 * (7 - (4 / 4)) = 24\n\nPlease note that the second solution does not result in 24, so it is not a valid solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 52,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "Answer 1: 3 * ((11 - 10) * 8) = 24\nAnswer 2: ((3 / (11 - 10)) * 8) = 24\nAnswer 3: This problem does not have a third solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 138,
+        "model_call_phase1": 138,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "Answer 1: 6 + ((10 - 7) * 6) = 24\nAnswer 2: There is no valid solution.\nAnswer 3: There is no valid solution."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 42,
+        "model_call_phase2": 0
+    }
+]

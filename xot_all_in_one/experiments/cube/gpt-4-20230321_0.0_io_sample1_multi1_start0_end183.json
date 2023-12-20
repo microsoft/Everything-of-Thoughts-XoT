@@ -1,0 +1,2747 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2\n[Solution 3]\n[Restoration Moves]:\nR' U R F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nR2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U' F2 U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF' U2 F U2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F' U2 F\n\n[Solution 3]\n[Restoration Moves]:\nF U2 F' U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nR2 F2 R2 F2\n[Solution 3]\n[Restoration Moves]:\nU2 F2 U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 1,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nR2 U F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 R2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 R2 U2\n\n[Solution 3]\n[Restoration Moves]:\nR2 F2 R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 R2 F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 R2 F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nR2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 R2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 R2 U2 R2\n\n[Solution 3]\n[Restoration Moves]:\nR2 U2 R2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2\n\n[Solution 2]\n[Restoration Moves]:\nU2\n\n[Solution 3]\n[Restoration Moves]:\nU2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU' F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U' R2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U' R2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U' R2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nR2 U2 R2\n[Solution 3]\n[Restoration Moves]:\nU2 F2 U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 R2 F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U' R2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2\n[Solution 3]\n[Restoration Moves]:\nR' F2 R U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 U R2 U' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 U2 R2 U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nR2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF' U2 F U2 R2\n[Solution 2]\n[Restoration Moves]:\nU2 F' U2 F R2\n[Solution 3]\n[Restoration Moves]:\nR2 U2 F' U2 F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U' R2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nR2 U F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2\n\n[Solution 2]\n[Restoration Moves]:\nU2 R2 U2 R2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R' U R"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 R2 U2 R2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nR2 F2 R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 R2 F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF' U2 F U2\n[Solution 2]\n[Restoration Moves]:\nU2 F' U2 F\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2\n[Solution 3]\n[Restoration Moves]:\nR' U R F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R' U R"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nR2 F2 R2 U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nR2 U2 R2 U2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 R2 U2 R2\n\n[Solution 2]\n[Restoration Moves]:\nU R2 U R2\n\n[Solution 3]\n[Restoration Moves]:\nU' R2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nR2 U F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2\n[Solution 3]\n[Restoration Moves]:\nR' F2 R U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 U R2 U' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nR2 U F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2\n\n[Solution 2]\n[Restoration Moves]:\nU2\n\n[Solution 3]\n[Restoration Moves]:\nU2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 U2\n\n[Solution 3]\n[Restoration Moves]:\nF2 R2 R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 R2 U2 R2\n\n[Solution 3]\n[Restoration Moves]:\nR2 U2 R2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 R2 U2\n\n[Solution 2]\n[Restoration Moves]:\nR2 U2 R2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nR2 U2 R2 U2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nR2 U F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U' R2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nR2 U F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 U R2 U' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF' U2 F U2\n[Solution 2]\n[Restoration Moves]:\nU2 F' U2 F\n[Solution 3]\n[Restoration Moves]:\nF U2 F' U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2 R2\n[Solution 3]\n[Restoration Moves]:\nR' F R U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2\n\n[Solution 2]\n[Restoration Moves]:\nU2 R2 U2 R2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 1,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F U2 F\n[Solution 2]\n[Restoration Moves]:\nF' U2 F' U2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 137,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2\n\n[Solution 2]\n[Restoration Moves]:\nU2 R2 U2 R2\n\n[Solution 3]\n[Restoration Moves]:\nR2 U2 R2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 138,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 139,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 140,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 1,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 141,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 142,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 U R2 U' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 143,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 R2 U2 R2\n[Solution 2]\n[Restoration Moves]:\nR2 U2 R2 U2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 144,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 145,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 146,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF' U R U'\n[Solution 2]\n[Restoration Moves]:\nU R U' F'\n[Solution 3]\n[Restoration Moves]:\nF R' F' U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 147,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 U2\n\n[Solution 3]\n[Restoration Moves]:\nF2 R2 R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 148,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 149,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2\n\n[Solution 2]\n[Restoration Moves]:\nU2\n\n[Solution 3]\n[Restoration Moves]:\nU2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 150,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F\n[Solution 2]\n[Restoration Moves]:\nF2 R2 F2 R2\n[Solution 3]\n[Restoration Moves]:\nR2 F2 R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 151,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 152,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nR2 F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 153,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU R' U' F2\n[Solution 3]\n[Restoration Moves]:\nR U R' F2 U2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 154,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 155,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 156,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 157,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U' R2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 158,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nR2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 159,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nR2 U2 R2\n\n[Solution 3]\n[Restoration Moves]:\nU2 F2 U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 160,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n\n[Solution 3]\n[Restoration Moves]:\nU F' U F U2 F' U2 F"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 161,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 162,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2\n[Solution 3]\n[Restoration Moves]:\nR' F2 R U' F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 163,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 164,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2\n[Solution 3]\n[Restoration Moves]:\nR' F2 R U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 165,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2 R2\n[Solution 3]\n[Restoration Moves]:\nR' U R F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 166,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 167,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU' R2 U F2 R2 F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U' R2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 168,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2 U2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U' F2 U'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 169,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 170,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R U\n[Solution 2]\n[Restoration Moves]:\nU' R U F2 R2\n[Solution 3]\n[Restoration Moves]:\nR' U R F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 171,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 2]\n[Restoration Moves]:\nU2 F2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nF2 R2 F2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 172,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 173,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2 U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 174,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2\n[Solution 3]\n[Restoration Moves]:\nU2 R2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 175,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2\n\n[Solution 3]\n[Restoration Moves]:\nR2 U2 R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 1,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 176,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 177,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2\n\n[Solution 2]\n[Restoration Moves]:\nU2 R2 U2 R2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 178,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2\n\n[Solution 2]\n[Restoration Moves]:\nU2 R2 U2 R2\n\n[Solution 3]\n[Restoration Moves]:\nF2 U2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 179,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 R2 U2 R2\n\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F2 U2\n\n[Solution 3]\n[Restoration Moves]:\nR2 F2 R2 F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 180,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F\n\n[Solution 2]\n[Restoration Moves]:\nF2 R2 F2 R2\n\n[Solution 3]\n[Restoration Moves]:\nU' F2 U F2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 181,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nU2 F' U2 F2\n[Solution 2]\n[Restoration Moves]:\nF2 U2 F' U2\n[Solution 3]\n[Restoration Moves]:\nU2 F2 U2 F'"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    },
+    {
+        "idx": 182,
+        "ys": [
+            "[Solution 1]\n[Restoration Moves]:\nF2 U' R2 U F2\n[Solution 2]\n[Restoration Moves]:\nU F2 U' R2 U F2\n[Solution 3]\n[Restoration Moves]:\nF2 R2 U F2 U' R2"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": 0,
+                    "r1": 0,
+                    "r2": 0
+                }
+            }
+        ]
+    }
+]

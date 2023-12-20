@@ -1,0 +1,1646 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "Answer: (11 - 3) * (9 / 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "Answer: (10 - 8) * 10 * 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "Answer: (11 - 7) * (4 + 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "Answer: (10 - 2) * (8 / 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "Sorry, it is not possible to obtain 24 using the numbers 4, 6, 7, and 7 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "Answer: (10 - 6) * 3 + 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "Answer: (7 - 1) * (6 / 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "Answer: (3 + 4) * (6 - 5) * 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "Answer: (10 - 7) * 5 * 4 = 120"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "Answer: (10 - 5) * (12 - 10) * 10 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "Answer: (6 + 6) * (12 / 9) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "Answer: (8 - 3) * (8 - 5) = 15 * 3 = 45 - 21 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "Answer: (11 - 7) * 7 * 12 / 11 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "Answer: (10 - 6) * 7 * 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "Sorry, it is not possible to obtain 24 using the numbers 4, 4, 5, and 7 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "Answer: (13 - 5) * (6 - 4) = 16 * 2 = 32, then 32 / 4 = 8, and finally 8 * 3 = 24."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "There is no way to obtain 24 using only the numbers 2, 4, 5, and 7 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "Answer: (11 - 2) * (8 / 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "Answer: (12 - 3) * (7 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "Answer: (12 - 2) * (5 - 5) = 0 (This input cannot be used to obtain 24 using basic arithmetic operations)"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "Answer: (3 + 3) * (7 - 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "Sorry, it is not possible to obtain 24 using the numbers 2, 4, 9, and 9 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "Sorry, it is not possible to obtain 24 using the numbers 4, 5, 6, and 7 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "Answer: (12 / 4) * (9 + 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "Answer: (1 + 1) * 6 * 9 = 108"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "Answer: (10 - 2) * (8 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "Answer: (12 / 9) * (9 + 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "Answer: (2 + 2) * 6 * 10 / 2 = 240"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "Answer: (12 - 6) * (11 - 3) / 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "Answer: (11 - 3) * (11 / 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "Answer: (9 - 7) * 8 * 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "Answer: (12 / 4) * (12 - 1) = 33, not possible to obtain 24 with these numbers and operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "Answer: (5 + 5) * (6 - 4) = 20"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "Answer: 2 * 3 * 6 * 12 / 12 = 36 / 2 = 18 - 3 = 15 + 9 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "Answer: (7 - 1) * 6 / 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "Answer: (12 - 9) * 10 - 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "Answer: (9 - 7) * 4 * 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "Answer: (11 - 8) * 10 * 4 = 240"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "Answer: (8 - 6) * 8 * 9 = 144"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "Answer: (13 - 11) * (8 - 6) * 11 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "Answer: (13 - 11) * (8 + 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "Answer: (12 - 5) * (12 / 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "Answer: (2 + 2) * (2 * 5) = 20"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "Answer: (12 - 6) * (7 - 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "Answer: (2 + 2) * 7 * 8 / 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "Answer: (11 - 7) * (8 - 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "Sorry, it is not possible to obtain 24 using the numbers 4, 4, 5, and 6 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "Answer: (6 - 2) * 6 / 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "Answer: (9 - 1) * (8 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "Answer: (11 - 7) * (7 + 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "Answer: (3 + 3) * (6 - 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "Answer: (13 - 9) * (4 - 2) * 9 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "Answer: (13 - 7) * (9 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "Answer: (13 - 10) * 10 * 5/5 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "Answer: (12 - 1) * (10 - 7) = 33"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "Answer: (11 - 5) * (13 - 5) / 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "Answer: (12 - 1) * (7 - 4) = 33 * 3 = 99, it is not possible to obtain 24 with these numbers and operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "Answer: (9 - 5) * 6 / 3 = 12"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "Answer: (4 + 4) * (5 - 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "Answer: (13 - 7) * (4 + 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "Answer: (11 - 1) * (11 - 5) = 60"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "Answer: (13 - 11) * 12 * 4 = 96"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "(2 + 2) * 5 * 8 / 2 = 40 * 4 / 2 = 80 / 2 = 40, so (2 2 5 8) can't be used to obtain 24."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "Answer: (13 - 7) * (13 / 9) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "Answer: (7 - 3) * 8 / 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "Answer: (8 - 2) * 5 - 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "Answer: (13 - 11) * (12 - 10) * 11 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "Answer: (9 - 3) * (12 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "Answer: (10 - 7) * 9 * 3 = 243"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "Answer: (12 / 3) * (3 + 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "Answer: (11 - 1) * (10 / 3) = 30"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "Answer: (3 + 3) * 6 * 8 / 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "Answer: (13 - 11) * 7 * 7 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "Answer: (13 - 7) * (8 / 8) = 6 * 1 = 6, then 6 * 4 = 24."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "Answer: (13 - 9) * 9 / 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "Answer: (10 - 3) * (8 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "Answer: (13 - 3) * (1 + 1) = 20"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "Answer: (13 - 1) * (12 / 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "Answer: (13 - 9) * (6 + 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "Answer: (13 - 1) * (13 - 7) = 72"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "Answer: (13 - 9) * (12 - 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "There is no way to obtain 24 using the numbers 1, 3, 7, and 9 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "Answer: (3 + 3) * 5 - 7 = 13"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "Answer: (11 - 3) * (11 / 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "Answer: (10 - 2) * (10 - 9) * 9 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "Answer: (7 - 1) * 4 - 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "Answer: (11 - 5) * (12 - 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "Answer: (8 / 8 + 1) * 8 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "Answer: (13 - 7) * (12 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "Answer: (12 / 3) * (9 + 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "Answer: (7 - 3) * 5 - 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "Answer: (11 - 2) * (13 - 11) = 22"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "Answer: (12 - 1) * (11 - 6) = 55"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "Answer: (11 - 3) * (6 / 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "Answer: (10 - 1) * 3 + 10 = 27, it is not possible to obtain 24 with these numbers and operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "Answer: (5 + 5) * (7 - 6) * 6 = 60"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "Answer: (11 - 7) * (4 + 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "Answer: (12 / 4) * (6 - 5) = 3 * 1 = 3. Then, 3 * 5 * 4 = 60. Finally, 60 / 2.5 = 24."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "Answer: (13 - 5) * (10 / 5 + 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "Answer: (10 - 4) * (10 - 4) / 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "Answer: (13 - 7) * 3 + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "Answer: (11 - 6) * (11 - 8) = 15 * 3 = 45 - 21 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "Answer: (10 - 6) * (6 + 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "Answer: (11 - 6) * 6 / 6 + 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "Answer: (13 - 10) * 2 * 1 = 6 * 2 * 1 = 12 * 1 = 12 + 10 + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "Answer: (13 - 10) * 12 * 8 / 8 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "Answer: (11 - 2) * (10 / 2 - 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "Answer: (11 - 2) * (5 - 2) * 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "Answer: (13 - 5) * (13 - 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "Answer: (11 - 2) * (6 / 2) = 45"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "Answer: (12 - 6) * (11 - 9) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "Answer: (8 - 2) * (8 / 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "Sorry, it is not possible to obtain 24 using the numbers 1, 2, 4, and 5 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "Answer: (6 - 2) * 8 / 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "Sorry, it is not possible to obtain 24 using the numbers 1, 2, 4, and 8 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "Answer: (5 + 5) * (6 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "Answer: (2 + 2) * (5 + 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "Answer: (10 - 8) * 9 * 3 = 54 * 3 = 162, then 162 / 6 = 24 (using the division operation)"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "Answer: (8 - 2) * (8 / 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "Sorry, it is not possible to obtain 24 using the numbers 4, 5, 7, and 8 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "Answer: (11 - 5) * (7 - 4) = 18 * 3 = 54 - 30 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "Answer: (13 - 5) * (13 / 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "Answer: (13 - 10) * 5 + 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "Answer: (13 - 7) * (6 - 5) * 7 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "Sorry, there is no way to obtain 24 using the numbers 2, 4, 5, and 9 with basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "Answer: (7 - 2) * 6 / 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "Answer: (12 - 1) * (12 / 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "Answer: (6 + 6) * (9 - 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "Answer: (10 - 1) * (5 - 3) = 18 * 2 = 36, then 36 / 1.5 = 24 (using division)"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "Answer: (13 - 10) * 10 * 6/10 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "Answer: (11 - 2) * (12 / 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "Answer: (11 - 1) * (10 / 2) = 50"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "Answer: (12 / 6) * (5 + 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "Answer: (11 - 1) * (12 / 10) = 22 * 1.2 = 26.4 (24 cannot be obtained with these numbers and operations)"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "Answer: (4 + 4) * (7 - 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "Answer: (11 - 8) * 10 + 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "Answer: (10 - 6) * 7 - 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,2747 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n3 5\nFront:\n2 0\n1 2\nDown:\n5 1\n4 2\nLeft:\n4 3\n4 3\nRight:\n1 1\n0 4\nBack:\n2 5\n0 5\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU F U U F R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 318,
+        "model_call_phase1": 35,
+        "model_call_phase2": 283
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "[Step 6]\n[Move] F\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n1 1\n1 1\nDown:\n2 2\n2 2\nLeft:\n0 0\n3 3\nRight:\n4 4\n4 4\nBack:\n3 3\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' U R2 R' U F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 117,
+        "model_call_phase1": 31,
+        "model_call_phase2": 86
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n1 1\n1 1\nFront:\n2 5\n2 5\nDown:\n4 4\n4 4\nLeft:\n0 0\n0 0\nRight:\n3 3\n3 3\nBack:\n4 1\n4 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 R2 F2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n1 1\n1 3\nFront:\n2 2\n2 2\nDown:\n4 4\n3 3\nLeft:\n0 4\n0 4\nRight:\n1 3\n1 1\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n2 5\n2 5\nDown:\n0 0\n0 0\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n2 5\n2 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF F F U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n0 0\nFront:\n1 1\n1 3\nDown:\n3 4\n2 4\nLeft:\n0 2\n0 2\nRight:\n3 3\n5 5\nBack:\n5 4\n0 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n2 4\nFront:\n0 5\n3 2\nDown:\n4 0\n4 1\nLeft:\n5 1\n5 2\nRight:\n3 3\n4 0\nBack:\n0 3\n2 3\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' U F F U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 323,
+        "model_call_phase1": 27,
+        "model_call_phase2": 296
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "[Step 4]\n[Move] F2\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n1 1\n1 1\nDown:\n5 5\n5 5\nLeft:\n3 2\n3 2\nRight:\n0 0\n0 0\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R2 U F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 83,
+        "model_call_phase1": 37,
+        "model_call_phase2": 46
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n0 0\nFront:\n5 3\n5 4\nDown:\n4 0\n3 1\nLeft:\n2 1\n1 1\nRight:\n2 4\n5 4\nBack:\n3 2\n0 3\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' R' U U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 296,
+        "model_call_phase1": 30,
+        "model_call_phase2": 266
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "[Step 4]\n[Move] F2\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n1 1\n1 1\nDown:\n0 0\n0 0\nLeft:\n5 5\n5 5\nRight:\n4 4\n4 4\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 R U F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 85,
+        "model_call_phase1": 33,
+        "model_call_phase2": 52
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n1 1\n4 4\nFront:\n2 2\n2 2\nDown:\n5 5\n5 5\nLeft:\n0 3\n0 3\nRight:\n0 3\n0 3\nBack:\n1 1\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "[Step 2]\n[Move] U2\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n1 1\n2 2\nDown:\n3 3\n3 3\nLeft:\n5 5\n4 4\nRight:\n1 1\n2 2\nBack:\n4 4\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 32,
+        "model_call_phase1": 31,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n4 4\n4 4\nDown:\n2 2\n2 2\nLeft:\n3 3\n3 3\nRight:\n0 0\n0 0\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "[Step 2]\n[Move] R2\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n5 5\nDown:\n4 4\n4 4\nLeft:\n0 0\n0 0\nRight:\n2 2\n2 2\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n2 2\n4 4\nDown:\n0 0\n0 0\nLeft:\n1 5\n2 5\nRight:\n4 1\n5 1\nBack:\n5 4\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF F U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 31,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n3 3\n1 1\nDown:\n5 5\n5 5\nLeft:\n4 4\n3 3\nRight:\n1 1\n0 0\nBack:\n0 0\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n4 4\n4 4\nDown:\n3 3\n3 3\nLeft:\n5 2\n5 2\nRight:\n2 2\n2 2\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n4 4\nFront:\n2 5\n2 5\nDown:\n1 1\n4 4\nLeft:\n0 3\n0 3\nRight:\n3 0\n3 0\nBack:\n2 5\n2 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 15,
+        "model_call_phase1": 15,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n1 1\nFront:\n2 2\n2 2\nDown:\n3 3\n3 3\nLeft:\n4 4\n4 4\nRight:\n4 4\n4 4\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "[Step 5]\n[Move] U'\n[Current Cube State]\nUpper:\n3 2\n3 2\nFront:\n4 4\n4 4\nDown:\n0 0\n0 0\nLeft:\n1 1\n1 1\nRight:\n2 2\n2 2\nBack:\n3 5\n3 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U F' F' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 47,
+        "model_call_phase1": 37,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n5 1\n5 1\nDown:\n1 2\n1 2\nLeft:\n0 0\n0 0\nRight:\n3 3\n3 3\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' U' R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 9,
+        "model_call_phase1": 9,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n4 4\nFront:\n5 5\n5 5\nDown:\n1 1\n2 2\nLeft:\n4 0\n4 0\nRight:\n3 1\n3 1\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n2 2\nFront:\n0 0\n0 0\nDown:\n1 1\n4 4\nLeft:\n4 5\n4 5\nRight:\n2 2\n2 2\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n5 5\nFront:\n1 1\n1 1\nDown:\n2 2\n0 0\nLeft:\n5 0\n5 0\nRight:\n3 2\n3 2\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "[Step 3]\n[Move] U2\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n5 5\n4 4\nDown:\n3 3\n3 3\nLeft:\n1 1\n5 5\nRight:\n4 4\n2 2\nBack:\n2 2\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n5 1\n5 1\nFront:\n5 4\n5 4\nDown:\n2 2\n2 2\nLeft:\n3 3\n3 3\nRight:\n0 0\n0 0\nBack:\n1 2\n1 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n3 3\n3 3\nDown:\n1 1\n5 5\nLeft:\n4 5\n4 5\nRight:\n0 0\n0 0\nBack:\n2 1\n2 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 0\n3 0\nDown:\n2 2\n2 2\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n3 0\n3 0\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 50,
+        "model_call_phase1": 33,
+        "model_call_phase2": 17
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n1 1\n1 1\nDown:\n2 2\n0 0\nLeft:\n0 5\n0 5\nRight:\n2 3\n2 3\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 61,
+        "model_call_phase1": 35,
+        "model_call_phase2": 26
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n0 0\nFront:\n3 3\n3 3\nDown:\n2 2\n4 4\nLeft:\n2 1\n2 1\nRight:\n5 5\n5 5\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n1 1\n3 5\nDown:\n4 4\n5 2\nLeft:\n4 3\n3 2\nRight:\n2 1\n2 1\nBack:\n4 5\n5 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R2 F' R' U' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 290,
+        "model_call_phase1": 31,
+        "model_call_phase2": 259
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n3 5\n0 1\nFront:\n2 2\n5 1\nDown:\n4 3\n1 1\nLeft:\n4 0\n4 3\nRight:\n3 4\n5 0\nBack:\n1 1\n5 2\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R2 U F2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 330,
+        "model_call_phase1": 34,
+        "model_call_phase2": 296
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n4 4\n5 5\nDown:\n1 1\n1 1\nLeft:\n5 5\n2 2\nRight:\n1 1\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n0 0\n0 0\nDown:\n1 1\n1 1\nLeft:\n2 5\n2 5\nRight:\n2 5\n2 5\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n1 1\n1 1\nDown:\n2 2\n0 0\nLeft:\n0 5\n0 5\nRight:\n3 3\n3 3\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 U' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 34,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n4 0\n3 4\nFront:\n1 5\n3 1\nDown:\n4 5\n4 1\nLeft:\n5 5\n5 2\nRight:\n0 2\n2 0\nBack:\n1 0\n2 3\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU2 R' U' R' U R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 318,
+        "model_call_phase1": 34,
+        "model_call_phase2": 284
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n3 4\n3 4\nFront:\n4 0\n4 0\nDown:\n1 1\n1 1\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n0 1\n0 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n5 5\nDown:\n0 0\n0 0\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n3 3\n3 3\nDown:\n5 5\n5 5\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR U' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 54,
+        "model_call_phase1": 31,
+        "model_call_phase2": 23
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n1 1\n5 5\nDown:\n0 0\n0 0\nLeft:\n4 4\n5 5\nRight:\n2 2\n1 1\nBack:\n4 4\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 30,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "[Step 6]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n5 5\nDown:\n0 0\n0 0\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' F U U R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 101,
+        "model_call_phase1": 29,
+        "model_call_phase2": 72
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "[Step 7]\n[Move] U2\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n1 1\n1 1\nDown:\n3 3\n3 3\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R2 U2 F' U R2 U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 97,
+        "model_call_phase1": 34,
+        "model_call_phase2": 63
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n0 0\n0 0\nDown:\n5 5\n5 5\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n0 4\n0 4\nDown:\n2 3\n2 3\nLeft:\n3 5\n3 5\nRight:\n2 1\n5 3\nBack:\n4 4\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 33,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "[Step 6]\n[Move] U'\n[Current Cube State]\nUpper:\n2 4\n2 4\nFront:\n3 3\n3 3\nDown:\n5 5\n5 5\nLeft:\n0 0\n0 0\nRight:\n5 1\n5 1\nBack:\n4 4\n4 4\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R R2 R' F U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 91,
+        "model_call_phase1": 32,
+        "model_call_phase2": 59
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "[Step 6]\n[Move] U'\n[Current Cube State]\nUpper:\n3 2\n3 2\nFront:\n0 5\n0 5\nDown:\n2 0\n2 0\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n3 5\n3 5\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R2 U U R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 56,
+        "model_call_phase1": 30,
+        "model_call_phase2": 26
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "[Step 2]\n[Move] R2\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n2 2\nDown:\n0 0\n1 1\nLeft:\n4 4\n3 3\nRight:\n1 1\n4 4\nBack:\n2 2\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 30,
+        "model_call_phase1": 30,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n1 1\n1 1\nDown:\n3 3\n3 3\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 51,
+        "model_call_phase1": 33,
+        "model_call_phase2": 18
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n5 5\n1 1\nDown:\n3 3\n3 3\nLeft:\n1 5\n2 4\nRight:\n2 4\n1 5\nBack:\n4 4\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U U R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 212,
+        "model_call_phase1": 35,
+        "model_call_phase2": 177
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "[Step 1]\n[Move] F2\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n0 0\n0 0\nDown:\n4 4\n2 2\nLeft:\n5 4\n5 4\nRight:\n1 2\n1 2\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n0 3\n0 3\nDown:\n2 2\n2 2\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n5 0\n5 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U F' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 110,
+        "model_call_phase1": 36,
+        "model_call_phase2": 74
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "[Step 5]\n[Move] U2\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n1 1\nDown:\n2 2\n2 2\nLeft:\n1 1\n0 0\nRight:\n4 4\n3 3\nBack:\n4 4\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' R' F U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 80,
+        "model_call_phase1": 32,
+        "model_call_phase2": 48
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n4 4\n0 0\nDown:\n1 1\n3 3\nLeft:\n3 3\n2 2\nRight:\n1 1\n4 4\nBack:\n0 0\n2 2\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U F U R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 322,
+        "model_call_phase1": 35,
+        "model_call_phase2": 287
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n5 5\nFront:\n1 1\n4 4\nDown:\n0 0\n4 4\nLeft:\n4 3\n4 3\nRight:\n0 1\n0 1\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n1 1\n3 3\nFront:\n2 2\n2 2\nDown:\n4 4\n0 0\nLeft:\n0 1\n0 1\nRight:\n4 3\n4 3\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 F R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 19,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n4 4\nFront:\n5 5\n5 5\nDown:\n1 3\n1 3\nLeft:\n1 0\n1 0\nRight:\n3 4\n3 4\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 47,
+        "model_call_phase1": 32,
+        "model_call_phase2": 15
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n0 1\n0 1\nDown:\n5 5\n5 5\nLeft:\n2 2\n2 2\nRight:\n1 3\n1 3\nBack:\n4 0\n4 0\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU F U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 57,
+        "model_call_phase1": 36,
+        "model_call_phase2": 21
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "[Step 2]\n[Move] U2\n[Current Cube State]\nUpper:\n0 0\n3 3\nFront:\n1 1\n1 1\nDown:\n0 0\n3 3\nLeft:\n5 2\n5 2\nRight:\n5 2\n5 2\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n3 3\nFront:\n3 4\n3 4\nDown:\n0 0\n0 0\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n1 0\n1 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "[Step 1]\n[Move] F'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n1 1\n1 1\nDown:\n0 0\n0 0\nLeft:\n5 5\n5 5\nRight:\n2 2\n2 2\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n2 2\n2 2\nDown:\n4 4\n4 4\nLeft:\n3 3\n3 3\nRight:\n1 1\n1 1\nBack:\n5 5\n5 5\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU F R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 11,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n4 4\n4 4\nDown:\n5 5\n5 5\nLeft:\n1 1\n0 0\nRight:\n3 3\n3 3\nBack:\n0 0\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n4 4\n4 4\nDown:\n2 2\n2 2\nLeft:\n3 3\n3 3\nRight:\n0 0\n0 0\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n0 0\n0 0\nDown:\n2 2\n4 4\nLeft:\n4 5\n4 5\nRight:\n1 1\n1 1\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n4 1\n4 1\nFront:\n5 2\n5 2\nDown:\n1 4\n1 4\nLeft:\n3 3\n3 3\nRight:\n0 0\n0 0\nBack:\n5 2\n5 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n5 5\nFront:\n0 0\n4 1\nDown:\n0 0\n3 3\nLeft:\n4 1\n4 1\nRight:\n5 5\n5 5\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n1 1\n1 1\nDown:\n2 2\n2 2\nLeft:\n0 0\n0 0\nRight:\n3 3\n3 3\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' F' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n3 3\nDown:\n4 4\n4 4\nLeft:\n2 4\n2 4\nRight:\n1 1\n1 1\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "[Step 5]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n1 1\nDown:\n0 0\n0 0\nLeft:\n4 4\n5 2\nRight:\n1 1\n2 5\nBack:\n2 2\n4 4\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U2 F U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 57,
+        "model_call_phase1": 35,
+        "model_call_phase2": 22
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n4 2\n5 1\nFront:\n0 1\n1 1\nDown:\n3 5\n5 5\nLeft:\n2 4\n3 2\nRight:\n3 0\n2 0\nBack:\n4 3\n0 0\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' R' U R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 303,
+        "model_call_phase1": 34,
+        "model_call_phase2": 269
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n0 0\nFront:\n1 1\n1 1\nDown:\n5 5\n2 2\nLeft:\n5 3\n5 3\nRight:\n0 2\n0 2\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n4 0\n2 1\nFront:\n5 5\n5 4\nDown:\n0 3\n0 3\nLeft:\n3 1\n1 4\nRight:\n2 3\n1 4\nBack:\n2 5\n2 0\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU F' R' U2 R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 327,
+        "model_call_phase1": 34,
+        "model_call_phase2": 293
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n2 2\n2 2\nDown:\n1 1\n1 1\nLeft:\n5 5\n3 3\nRight:\n0 0\n0 0\nBack:\n3 3\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 50,
+        "model_call_phase1": 35,
+        "model_call_phase2": 15
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n3 3\nFront:\n2 5\n2 5\nDown:\n1 1\n1 1\nLeft:\n4 4\n4 4\nRight:\n0 3\n0 3\nBack:\n3 0\n3 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "[Step 4]\n[Move] F'\n[Current Cube State]\nUpper:\n4 1\n4 2\nFront:\n5 5\n5 5\nDown:\n2 2\n3 3\nLeft:\n0 0\n1 0\nRight:\n3 3\n0 3\nBack:\n4 2\n4 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' U F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 34,
+        "model_call_phase1": 34,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n0 0\n4 4\nDown:\n2 2\n2 2\nLeft:\n3 3\n3 3\nRight:\n1 1\n1 1\nBack:\n2 2\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n3 3\nDown:\n2 2\n2 2\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R2 F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n0 0\n0 0\nDown:\n5 5\n1 1\nLeft:\n1 2\n1 2\nRight:\n4 4\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n1 1\n2 2\nDown:\n2 2\n2 2\nLeft:\n5 5\n1 1\nRight:\n4 4\n4 4\nBack:\n5 5\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 16,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n2 2\n2 2\nDown:\n1 1\n3 3\nLeft:\n4 4\n4 4\nRight:\n1 0\n1 0\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n3 4\nFront:\n1 4\n3 2\nDown:\n5 3\n5 0\nLeft:\n2 4\n2 5\nRight:\n2 1\n0 5\nBack:\n1 1\n0 3\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' U U R2 F2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 325,
+        "model_call_phase1": 37,
+        "model_call_phase2": 288
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n5 5\n5 5\nDown:\n4 4\n4 4\nLeft:\n3 3\n3 3\nRight:\n2 2\n2 2\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "[Step 4]\n[Move] F'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n4 4\n4 4\nDown:\n2 2\n2 2\nLeft:\n5 5\n5 5\nRight:\n3 3\n3 3\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n5 5\n5 5\nDown:\n2 2\n2 2\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "[Step 4]\n[Move] U2\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n4 1\n4 1\nDown:\n3 3\n3 3\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n4 1\n4 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R' F U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n1 1\n3 3\nDown:\n2 2\n2 2\nLeft:\n1 1\n0 0\nRight:\n4 4\n3 3\nBack:\n0 0\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 29,
+        "model_call_phase1": 26,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n1 1\nFront:\n0 0\n0 0\nDown:\n2 2\n4 4\nLeft:\n4 5\n4 5\nRight:\n2 1\n2 1\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 6,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n1 1\nFront:\n5 5\n3 3\nDown:\n4 4\n3 2\nLeft:\n1 3\n1 2\nRight:\n0 4\n5 4\nBack:\n0 2\n0 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 R2 F' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n4 4\n4 4\nDown:\n2 2\n2 2\nLeft:\n3 3\n3 3\nRight:\n0 0\n0 0\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU F R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 35,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n2 2\n2 2\nDown:\n3 3\n3 3\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 33,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n5 5\nDown:\n0 0\n0 0\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 33,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n1 1\n2 2\nDown:\n3 3\n3 3\nLeft:\n4 4\n2 2\nRight:\n1 1\n5 5\nBack:\n5 5\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "[Step 2]\n[Move] U2\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n1 1\n0 0\nDown:\n5 5\n5 5\nLeft:\n0 0\n4 4\nRight:\n3 3\n1 1\nBack:\n4 4\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 30,
+        "model_call_phase2": 13
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n4 4\n4 4\nDown:\n0 0\n0 0\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "[Step 5]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n4 4\n3 3\nDown:\n2 2\n2 2\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' F F U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 66,
+        "model_call_phase1": 35,
+        "model_call_phase2": 31
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n4 3\n3 5\nFront:\n4 0\n1 2\nDown:\n5 0\n3 2\nLeft:\n0 2\n4 3\nRight:\n1 1\n1 0\nBack:\n5 3\n4 5\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' U F' U' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 328,
+        "model_call_phase1": 34,
+        "model_call_phase2": 294
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n5 5\nDown:\n4 4\n0 0\nLeft:\n4 3\n4 3\nRight:\n1 1\n1 1\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n5 5\n5 5\nDown:\n4 4\n3 3\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n2 0\n2 0\nDown:\n0 5\n0 5\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "[Step 5]\n[Move] F2\n[Current Cube State]\nUpper:\n3 2\n3 2\nFront:\n0 0\n0 0\nDown:\n5 5\n5 5\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 6,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "[Step 5]\n[Move] F2\n[Current Cube State]\nUpper:\n4 3\n4 3\nFront:\n1 1\n1 1\nDown:\n0 0\n0 0\nLeft:\n5 5\n5 5\nRight:\n2 2\n2 2\nBack:\n4 0\n4 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 29,
+        "model_call_phase2": 8
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n3 3\n1 1\nDown:\n5 5\n5 5\nLeft:\n4 4\n3 3\nRight:\n1 1\n0 0\nBack:\n0 0\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 23,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "[Step 1]\n[Move] F2\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n4 4\n4 4\nDown:\n0 0\n0 0\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n2 2\n4 4\nDown:\n3 3\n3 3\nLeft:\n5 5\n4 4\nRight:\n1 1\n2 2\nBack:\n1 1\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 27,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "[Step 1]\n[Move] U2\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n4 3\n4 3\nDown:\n1 1\n1 1\nLeft:\n5 5\n5 5\nRight:\n2 2\n2 2\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "[Step 7]\n[Move] F'\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n3 3\n3 3\nDown:\n1 1\n1 1\nLeft:\n5 5\n5 5\nRight:\n0 0\n0 0\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' R' R' R' U' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 125,
+        "model_call_phase1": 31,
+        "model_call_phase2": 94
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n3 1\n3 1\nFront:\n0 4\n0 4\nDown:\n4 3\n4 3\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n0 1\n0 1\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U F2 R' F' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 125,
+        "model_call_phase1": 34,
+        "model_call_phase2": 91
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n5 3\n5 2\nFront:\n5 0\n3 3\nDown:\n4 5\n0 4\nLeft:\n2 1\n3 4\nRight:\n1 2\n1 4\nBack:\n0 1\n2 1\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 35,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n3 3\nDown:\n4 4\n2 2\nLeft:\n1 2\n1 2\nRight:\n0 0\n0 0\nBack:\n5 4\n5 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU2 U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "[Step 2]\n[Move] U2\n[Current Cube State]\nUpper:\n1 1\n4 4\nFront:\n3 3\n3 3\nDown:\n4 4\n1 1\nLeft:\n5 2\n5 2\nRight:\n5 2\n5 2\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n4 4\n5 5\nFront:\n2 2\n2 2\nDown:\n3 3\n1 1\nLeft:\n3 4\n3 4\nRight:\n0 1\n0 1\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "[Step 6]\n[Move] U'\n[Current Cube State]\nUpper:\n2 3\n2 3\nFront:\n3 5\n3 5\nDown:\n0 0\n0 0\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n2 0\n2 0\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U F2 F R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 18,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n4 4\n2 2\nDown:\n0 0\n0 0\nLeft:\n2 2\n3 3\nRight:\n5 5\n1 1\nBack:\n4 4\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "[Step 7]\n[Move] F'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n2 2\n2 2\nDown:\n5 5\n5 5\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' R' R' R' U' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 117,
+        "model_call_phase1": 29,
+        "model_call_phase2": 88
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n3 3\n3 3\nDown:\n5 5\n5 5\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 11,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n2 2\n2 2\nDown:\n3 3\n3 3\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n1 1\nDown:\n2 2\n2 2\nLeft:\n1 1\n0 0\nRight:\n4 4\n3 3\nBack:\n4 4\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 32,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n0 0\nFront:\n5 5\n5 5\nDown:\n1 1\n4 4\nLeft:\n4 0\n4 0\nRight:\n3 1\n3 1\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 34,
+        "model_call_phase2": 12
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n2 2\n2 2\nDown:\n1 1\n1 1\nLeft:\n3 0\n3 0\nRight:\n3 0\n3 0\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n5 5\nDown:\n0 0\n0 0\nLeft:\n4 1\n4 1\nRight:\n4 1\n4 1\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R F U' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 118,
+        "model_call_phase1": 33,
+        "model_call_phase2": 85
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "[Step 2]\n[Move] F'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n3 3\nDown:\n2 2\n2 2\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n3 3\nDown:\n2 2\n2 2\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n5 5\n0 1\nDown:\n3 3\n3 3\nLeft:\n4 4\n4 4\nRight:\n2 2\n2 2\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U F U R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 338,
+        "model_call_phase1": 36,
+        "model_call_phase2": 302
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "[Step 3]\n[Move] F2\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n0 0\n0 0\nDown:\n1 1\n2 2\nLeft:\n1 5\n1 5\nRight:\n2 4\n2 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 34,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n5 5\nDown:\n1 1\n1 1\nLeft:\n4 4\n4 4\nRight:\n2 2\n2 2\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' F U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n3 3\n3 3\nDown:\n5 5\n5 5\nLeft:\n4 1\n4 1\nRight:\n4 1\n4 1\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "[Step 1]\n[Move] U2\n[Current Cube State]\nUpper:\n3 3\n4 4\nFront:\n5 5\n5 5\nDown:\n1 1\n0 0\nLeft:\n0 4\n0 4\nRight:\n1 3\n1 3\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n3 5\n3 5\nDown:\n2 3\n2 3\nLeft:\n5 1\n5 1\nRight:\n4 2\n4 2\nBack:\n4 1\n4 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 314,
+        "model_call_phase1": 33,
+        "model_call_phase2": 281
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n5 5\nFront:\n3 2\n3 2\nDown:\n2 0\n4 4\nLeft:\n2 1\n0 1\nRight:\n4 3\n4 5\nBack:\n0 0\n5 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n2 2\n5 5\nFront:\n4 4\n4 4\nDown:\n2 2\n5 5\nLeft:\n3 0\n3 0\nRight:\n1 1\n1 1\nBack:\n0 3\n0 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 2,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n3 3\n4 4\nFront:\n5 0\n1 2\nDown:\n3 1\n1 2\nLeft:\n5 0\n5 2\nRight:\n0 3\n4 1\nBack:\n3 4\n4 0\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U F U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 322,
+        "model_call_phase1": 33,
+        "model_call_phase2": 289
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "[Step 5]\n[Move] R'\n[Current Cube State]\nUpper:\n2 2\n5 5\nFront:\n1 1\n1 1\nDown:\n0 0\n3 3\nLeft:\n3 5\n3 5\nRight:\n0 2\n0 2\nBack:\n4 4\n4 4\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U F2 U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 116,
+        "model_call_phase1": 34,
+        "model_call_phase2": 82
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n5 2\n5 2\nDown:\n3 0\n3 0\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 30,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "[Step 6]\n[Move] U'\n[Current Cube State]\nUpper:\n1 1\n1 1\nFront:\n3 3\n2 2\nDown:\n4 4\n4 4\nLeft:\n2 2\n0 0\nRight:\n5 5\n3 3\nBack:\n0 0\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' R' F R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 84,
+        "model_call_phase1": 34,
+        "model_call_phase2": 50
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "[Step 2]\n[Move] U2\n[Current Cube State]\nUpper:\n2 2\n5 5\nFront:\n1 1\n1 1\nDown:\n2 2\n5 5\nLeft:\n0 3\n0 3\nRight:\n0 3\n0 3\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n5 5\nFront:\n3 3\n4 4\nDown:\n1 4\n1 4\nLeft:\n0 0\n5 5\nRight:\n2 2\n0 0\nBack:\n3 3\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 35,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n2 2\n2 2\nDown:\n5 5\n5 5\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R2 F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 137,
+        "ys": [
+            "[Step 2]\n[Move] U2\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n5 2\n5 2\nDown:\n3 3\n3 3\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n5 2\n5 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 17,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 138,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n3 3\nFront:\n2 4\n4 5\nDown:\n5 2\n2 0\nLeft:\n2 0\n0 0\nRight:\n2 0\n4 5\nBack:\n5 4\n3 4\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U F U R' U2 R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 327,
+        "model_call_phase1": 32,
+        "model_call_phase2": 295
+    },
+    {
+        "idx": 139,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n0 5\n0 5\nFront:\n0 2\n0 2\nDown:\n3 2\n3 2\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n5 3\n5 3\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 54,
+        "model_call_phase1": 35,
+        "model_call_phase2": 19
+    },
+    {
+        "idx": 140,
+        "ys": [
+            "[Step 3]\n[Move] R2\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n2 2\n2 2\nDown:\n1 1\n1 1\nLeft:\n3 0\n3 0\nRight:\n3 0\n3 0\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 141,
+        "ys": [
+            "[Step 4]\n[Move] R'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n1 4\n1 4\nDown:\n3 3\n3 3\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n1 4\n1 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 142,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n1 1\nFront:\n3 0\n3 0\nDown:\n4 4\n4 4\nLeft:\n2 2\n2 2\nRight:\n5 5\n5 5\nBack:\n0 2\n0 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 33,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 143,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n1 1\n4 4\nFront:\n2 5\n2 5\nDown:\n3 3\n3 3\nLeft:\n0 0\n0 0\nRight:\n4 1\n4 1\nBack:\n3 3\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 F U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 39,
+        "model_call_phase1": 36,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 144,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n4 4\nFront:\n2 2\n0 0\nDown:\n2 2\n5 5\nLeft:\n5 3\n0 4\nRight:\n1 3\n2 0\nBack:\n1 5\n4 3\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R' F2 U F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 274,
+        "model_call_phase1": 25,
+        "model_call_phase2": 249
+    },
+    {
+        "idx": 145,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n0 4\n0 2\nFront:\n4 0\n1 0\nDown:\n3 4\n3 1\nLeft:\n2 2\n5 5\nRight:\n1 5\n1 5\nBack:\n3 4\n3 2\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R' R' U R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 325,
+        "model_call_phase1": 36,
+        "model_call_phase2": 289
+    },
+    {
+        "idx": 146,
+        "ys": [
+            "[Step 7]\n[Move] R\n[Current Cube State]\nUpper:\n2 2\n0 0\nFront:\n1 1\n3 3\nDown:\n5 5\n2 4\nLeft:\n1 5\n4 4\nRight:\n2 1\n4 1\nBack:\n0 3\n0 3\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU F U R' R' U R"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 323,
+        "model_call_phase1": 37,
+        "model_call_phase2": 286
+    },
+    {
+        "idx": 147,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n2 2\n2 2\nDown:\n3 3\n3 3\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n5 5\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 148,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n3 3\nDown:\n1 1\n2 2\nLeft:\n1 5\n1 5\nRight:\n4 4\n4 4\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 35,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 149,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n3 3\nDown:\n2 2\n2 2\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 150,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n2 2\n2 4\nFront:\n1 1\n1 1\nDown:\n5 5\n5 5\nLeft:\n3 3\n0 0\nRight:\n4 4\n4 4\nBack:\n3 3\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U F' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 45,
+        "model_call_phase1": 37,
+        "model_call_phase2": 8
+    },
+    {
+        "idx": 151,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n0 0\nFront:\n2 0\n5 0\nDown:\n5 5\n3 0\nLeft:\n4 4\n4 1\nRight:\n1 1\n4 1\nBack:\n2 2\n2 5\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R2 U U F F U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 304,
+        "model_call_phase1": 34,
+        "model_call_phase2": 270
+    },
+    {
+        "idx": 152,
+        "ys": [
+            "[Step 2]\n[Move] U2\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n3 3\n5 5\nDown:\n1 1\n1 1\nLeft:\n2 2\n3 3\nRight:\n0 0\n5 5\nBack:\n0 0\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 36,
+        "model_call_phase1": 27,
+        "model_call_phase2": 9
+    },
+    {
+        "idx": 153,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n2 2\n5 5\nFront:\n0 3\n4 4\nDown:\n0 0\n5 2\nLeft:\n2 4\n0 1\nRight:\n4 5\n2 4\nBack:\n1 3\n3 3\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' F2 R2 U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 322,
+        "model_call_phase1": 35,
+        "model_call_phase2": 287
+    },
+    {
+        "idx": 154,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n3 3\n3 3\nDown:\n5 5\n5 5\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 155,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n3 3\nFront:\n4 4\n1 1\nDown:\n2 2\n5 5\nLeft:\n4 2\n0 0\nRight:\n3 3\n2 4\nBack:\n1 3\n4 5\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' U U F2 U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 303,
+        "model_call_phase1": 33,
+        "model_call_phase2": 270
+    },
+    {
+        "idx": 156,
+        "ys": [
+            "[Step 3]\n[Move] R2\n[Current Cube State]\nUpper:\n5 5\n2 2\nFront:\n0 0\n0 0\nDown:\n5 5\n2 2\nLeft:\n1 4\n1 4\nRight:\n1 4\n1 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 157,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n1 1\nFront:\n5 5\n5 5\nDown:\n0 0\n4 4\nLeft:\n4 3\n4 3\nRight:\n1 0\n1 0\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 158,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n5 5\n0 0\nFront:\n4 4\n4 4\nDown:\n2 2\n3 3\nLeft:\n5 3\n5 3\nRight:\n2 0\n2 0\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 159,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n4 4\n4 4\nDown:\n3 3\n3 3\nLeft:\n5 2\n5 2\nRight:\n5 2\n5 2\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R2 F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 160,
+        "ys": [
+            "[Step 5]\n[Move] U'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n4 4\n4 4\nDown:\n5 5\n5 5\nLeft:\n0 3\n0 3\nRight:\n0 3\n0 3\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU F F2 R2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 81,
+        "model_call_phase1": 36,
+        "model_call_phase2": 45
+    },
+    {
+        "idx": 161,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n0 0\n0 0\nDown:\n1 1\n5 5\nLeft:\n2 1\n2 1\nRight:\n5 5\n4 5\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 33,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 162,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n0 1\n2 2\nFront:\n5 0\n4 5\nDown:\n3 1\n3 0\nLeft:\n1 4\n3 0\nRight:\n4 2\n5 5\nBack:\n3 2\n1 4\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R2 R' R2 U F U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 323,
+        "model_call_phase1": 35,
+        "model_call_phase2": 288
+    },
+    {
+        "idx": 163,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n0 0\n0 0\nDown:\n1 1\n2 2\nLeft:\n2 4\n2 4\nRight:\n5 5\n5 5\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 164,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n1 1\n4 4\nFront:\n0 1\n2 3\nDown:\n0 2\n3 3\nLeft:\n0 2\n5 5\nRight:\n4 1\n4 1\nBack:\n3 5\n4 5\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R' F2 R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 328,
+        "model_call_phase1": 32,
+        "model_call_phase2": 296
+    },
+    {
+        "idx": 165,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n3 2\n5 4\nFront:\n3 0\n5 0\nDown:\n1 5\n0 4\nLeft:\n2 1\n0 4\nRight:\n2 4\n1 4\nBack:\n3 1\n3 2\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 F' U2 R' R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 293,
+        "model_call_phase1": 38,
+        "model_call_phase2": 255
+    },
+    {
+        "idx": 166,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n0 0\n4 4\nDown:\n5 5\n5 5\nLeft:\n0 0\n1 1\nRight:\n3 3\n4 4\nBack:\n1 1\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 167,
+        "ys": [
+            "[Step 4]\n[Move] R2\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n0 0\n0 0\nDown:\n5 5\n5 5\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' U R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 168,
+        "ys": [
+            "[Step 4]\n[Move] U'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n1 1\n1 1\nDown:\n5 5\n5 5\nLeft:\n3 0\n3 0\nRight:\n3 0\n3 0\nBack:\n4 4\n4 4\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR' R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 169,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n3 4\n3 5\nFront:\n4 1\n2 2\nDown:\n1 0\n2 1\nLeft:\n1 0\n4 3\nRight:\n5 3\n0 2\nBack:\n5 5\n4 5\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' R' R' R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 307,
+        "model_call_phase1": 38,
+        "model_call_phase2": 269
+    },
+    {
+        "idx": 170,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n4 5\n3 1\nFront:\n5 0\n3 4\nDown:\n4 2\n1 1\nLeft:\n0 2\n3 2\nRight:\n1 1\n5 5\nBack:\n0 4\n4 0\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R' U U R' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 341,
+        "model_call_phase1": 36,
+        "model_call_phase2": 305
+    },
+    {
+        "idx": 171,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n2 2\n5 5\nFront:\n4 4\n4 4\nDown:\n0 0\n0 0\nLeft:\n0 5\n0 5\nRight:\n2 3\n2 3\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 172,
+        "ys": [
+            "[Step 2]\n[Move] R'\n[Current Cube State]\nUpper:\n2 2\n2 2\nFront:\n0 0\n0 0\nDown:\n1 1\n5 5\nLeft:\n1 2\n1 2\nRight:\n4 4\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 173,
+        "ys": [
+            "[Step 2]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n4 4\n1 1\nDown:\n2 2\n2 2\nLeft:\n5 5\n1 1\nRight:\n2 2\n4 4\nBack:\n0 0\n0 0\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 174,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n3 3\n4 4\nDown:\n0 0\n0 0\nLeft:\n1 1\n3 3\nRight:\n4 4\n2 2\nBack:\n2 2\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF F U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 29,
+        "model_call_phase2": 14
+    },
+    {
+        "idx": 175,
+        "ys": [
+            "[Step 4]\n[Move] R2\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n0 0\n0 0\nDown:\n2 2\n2 2\nLeft:\n1 1\n1 1\nRight:\n4 4\n4 4\nBack:\n3 3\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 U U R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 50,
+        "model_call_phase1": 33,
+        "model_call_phase2": 17
+    },
+    {
+        "idx": 176,
+        "ys": [
+            "[Step 3]\n[Move] U'\n[Current Cube State]\nUpper:\n3 3\n3 3\nFront:\n5 5\n5 5\nDown:\n0 0\n0 0\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n2 2\n2 2\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 F' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 177,
+        "ys": [
+            "[Step 3]\n[Move] R'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n2 5\n2 5\nDown:\n3 3\n3 3\nLeft:\n4 4\n4 4\nRight:\n1 1\n1 1\nBack:\n2 5\n2 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 178,
+        "ys": [
+            "[Step 2]\n[Move] U2\n[Current Cube State]\nUpper:\n1 4\n1 4\nFront:\n3 0\n3 0\nDown:\n4 1\n4 1\nLeft:\n5 5\n5 5\nRight:\n2 2\n2 2\nBack:\n4 1\n4 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nF2 U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 179,
+        "ys": [
+            "[Step 3]\n[Move] F'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n4 4\n4 4\nDown:\n2 2\n2 2\nLeft:\n3 3\n3 3\nRight:\n5 5\n5 5\nBack:\n1 1\n1 1\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nR2 U' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 60,
+        "model_call_phase1": 33,
+        "model_call_phase2": 27
+    },
+    {
+        "idx": 180,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n0 0\n0 0\nFront:\n5 5\n2 2\nDown:\n3 3\n3 3\nLeft:\n1 1\n4 4\nRight:\n1 1\n4 4\nBack:\n2 2\n5 5\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U R' R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 94,
+        "model_call_phase1": 33,
+        "model_call_phase2": 61
+    },
+    {
+        "idx": 181,
+        "ys": [
+            "[Step 7]\n[Move] R'\n[Current Cube State]\nUpper:\n4 4\n4 4\nFront:\n3 3\n2 0\nDown:\n1 1\n1 1\nLeft:\n0 5\n4 1\nRight:\n5 3\n2 2\nBack:\n5 2\n3 0\n\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU R' U F R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": true
+            }
+        ],
+        "model_call": 315,
+        "model_call_phase1": 33,
+        "model_call_phase2": 282
+    },
+    {
+        "idx": 182,
+        "ys": [
+            "[Step 7]\n[Move] U'\n[Current Cube State]\nUpper:\n5 5\n5 5\nFront:\n1 1\n0 0\nDown:\n2 2\n2 2\nLeft:\n4 4\n0 0\nRight:\n1 1\n3 3\nBack:\n4 4\n3 3\nFinished.\nNow strictly follow the above process to form Restoration Moves.\n[Restoration Moves]:\nU U U U R2 F' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": true
+            }
+        ],
+        "model_call": 122,
+        "model_call_phase1": 32,
+        "model_call_phase2": 90
+    }
+]

@@ -1,0 +1,3701 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "Answer 1: 3 * ((6 - 9) + 11) = 24\nAnswer 2: ((9 / 3) + 6) + 11 = 24\nAnswer 3: ((6 * 11) / (3 - 9)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 129,
+        "model_call_phase1": 129,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "Answer 1: (3 - (10 - 10)) * 8 = 24\nAnswer 2: 3 * ((10 - 10) + 8) = 24\nAnswer 3: (3) * ((8) - ((10) - (10))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "Answer 1: (2 + 4) + (7 + 11) = 24\nAnswer 2: 4 + (2 + (7 + 11)) = 24\nAnswer 3: (4 + (7 + 11)) + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 28,
+        "model_call_phase1": 28,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "Answer 1: (10) + (((8) - (2)) + (8))\nAnswer 2: ((8) - (2)) + ((8) + (10))\nAnswer 3: (8) + (((8) - (2)) + (10))"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 40,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "Answer 1: ((7 - 7) + 4) * 6 = 24\nAnswer 2: ((4 - (7 - 7)) * 6) = 24\nAnswer 3: (4 * ((7 - 7) + 6)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "Answer 1: ((10 - 3) - 3) * 6 = 24\nAnswer 2: (((3 / 6) - 3) + 10) = 7.5\nAnswer 3: (6 * (3 * 3)) / 10 = 5.4"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 126,
+        "model_call_phase1": 126,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "Answer 1: ((1 - 4) + 7) * 6 = 24\nAnswer 2: (6 + ((1 - 4) + 7)) * 6 = 24\nAnswer 3: ((4 - 7) + (1 * 6)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 71,
+        "model_call_phase1": 71,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "Answer 1: ((5 - 4) + 3) * 6 = 24\nAnswer 2: (4 + (5 * 3)) * 6 = 24\nAnswer 3: (3 + (5 + (4 * 6))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 77,
+        "model_call_phase1": 77,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "Answer 1: (10 * 4) - 7 + 5 = 24\nAnswer 2: ((5 / 7) + 4 + 10) * 7 = 24\nAnswer 3: ((10 / 5) - 4 + 7) * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 226,
+        "model_call_phase1": 226,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "Answer 1: (12) + (((10) / (5)) + (10))\nAnswer 2: (10) + (((10) / (5)) + (12))\nAnswer 3: ((10) / (5)) + ((10) + (12))"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "Answer 1: (6 + ((12 - 9) * 6)) = 24\nAnswer 2: ((9 + (6 * 12)) / 6) = 24\nAnswer 3: (((12 / 6) + 6) + 9) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 38,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "Answer 1: ((3 + 5) + (8 + 8)) = 24\nAnswer 2: (3 + (5 + (8 + 8))) = 24\nAnswer 3: ((5 + (8 + 8)) + 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 26,
+        "model_call_phase1": 26,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "Answer 1: (12) + (((7) / (7)) + (11)) = 24\nAnswer 2: (11) + (((7) / (7)) + (12)) = 24\nAnswer 3: (12) - (((7) / (7)) - (11)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "Answer 1: (10) + (((6) / (2)) + (7)) = 24\nAnswer 2: ((7) - ((2) * (6))) + (10) = 5\nAnswer 3: (((2) / (7)) - (6)) + (10) = 4.285714285714286"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 231,
+        "model_call_phase1": 231,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "Answer 1: (4 * ((4) - (5) + (7))) = 24\nAnswer 2: ((4 * 5) + (4 + 7)) = 24\nAnswer 3: ((4 + (5 * (4)))) + 7 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 52,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "Answer 1: (4 * 6) + 13 + 5 = 24\nAnswer 2: ((13 / 6) + (4 * 5)) + 20 = 24\nAnswer 3: ((5 - 6) + (4 + 13)) + 16 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 232,
+        "model_call_phase1": 232,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "Answer 1: (5 + 7) / (2 / 4) = 24\nAnswer 2: ((2 / (7 - 5)) + 4) * 5 = 24\nAnswer 3: ((4 * 2) * 7) / 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 195,
+        "model_call_phase1": 195,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "Answer 1: (2 * 11) + (8 / 4) = 24\nAnswer 2: 4 + ((2 / 8) + 11) = 24\nAnswer 3: (4 + 11) * (2 * 8) = 240"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 112,
+        "model_call_phase1": 112,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "Answer 1: (12 - 7) * (3 + (3)) = 24\nAnswer 2: (3) + ((7) / (3)) + (12) = 24\nAnswer 3: (3) * (((3) - (7)) + (12)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 84,
+        "model_call_phase1": 84,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "Answer 1: ((2 + 5) + (5 + 12)) = 24\nAnswer 2: (5 + ((2 + (5 + 12)))) = 24\nAnswer 3: ((2 + (5 + (5 + 12)))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "Answer 1: (3 + 3 * 7) / 1 = 24\nAnswer 2: 1 * (3 + 3 * 7) = 24\nAnswer 3: 3 * 7 + 1 * 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 46,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "Answer 1: (2 + 4) + (9 + 9) = 24\nAnswer 2: 4 + (2 + (9 + 9)) = 24\nAnswer 3: (4 + (9 + 9)) + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 26,
+        "model_call_phase1": 26,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "Answer 1: (4 * ((5) - (6)) + (7)) = 24\nAnswer 2: (7) + (((4) * (5)) - (6)) = 24\nAnswer 3: (6) + (((4) / (5)) + (7)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 178,
+        "model_call_phase1": 178,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "Answer 1: (12 + ((12 / 4) + 9)) = 24\nAnswer 2: (9 + ((12 / 4) + 12)) = 24\nAnswer 3: ((12 / 4) + (9 + 12)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "Answer 1: (6 + ((1 + 1) * 9)) = 24\nAnswer 2: (((1 - 1) * 9) + 6) = 6\nAnswer 3: (((1 / (1 - 6)) + 9) = 8.8"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": -1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 122,
+        "model_call_phase1": 122,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "Answer 1: (2 - 8) + (3 * 10) = 24\nAnswer 2: ((2 - 10) - (3 * 8)) = 24\nAnswer 3: (8 + 3 + (10 / 2)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "Answer 1: (12 + ((9 - 9) + 12)) = 24\nAnswer 2: (12 - ((9 - 9) - 12)) = 24\nAnswer 3: (12 * ((9 / 9) + 12)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "Answer 1: (2 * 6) + (2 + 10) = 24\nAnswer 2: 10 + (2 + (2 * 6)) = 24\nAnswer 3: 2 + (10 + (2 * 6)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "Answer 1: (3 - 11) * (12) * (6) = 24\nAnswer 2: (((11) / (6)) + (3)) + (12) = 24\nAnswer 3: (((12) / (3)) - (6)) + (11) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 62,
+        "model_call_phase1": 62,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "Answer 1: (3 * 11) - (7 * 11) = -44\nAnswer 2: ((3 - 7) + (11 + 11)) = 18\nAnswer 3: ((7 + (11 * 11)) / 3) = 42.67"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 182,
+        "model_call_phase1": 182,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "Answer 1: (3) * (((7) - (8)) + (9)) = 24\nAnswer 2: (((8) / (3)) - (7)) + (9) = 4.666666666666666\nAnswer 3: (7) + ((8) + ((3) * (9))) = 42"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 71,
+        "model_call_phase1": 71,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "Answer 1: (4 - (1 / 12)) + 12 = 15.916666666666666\nAnswer 2: ((4 - 12) + (1 / 12)) = -7.916666666666667\nAnswer 3: 12 + (4 + (12 - 1)) = 27"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 142,
+        "model_call_phase1": 142,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "Answer 1: (4 - (5 - 5)) * 6 = 24\nAnswer 2: 4 * ((5 - 5) + 6) = 24\nAnswer 3: ((5 - 5) + 4) * 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 49,
+        "model_call_phase1": 49,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "Answer 1: (12) + ((6) + ((2) * (3)))\nAnswer 2: ((2) * (3)) + ((6) + (12))\nAnswer 3: ((3) * (6)) - ((2) - (12))"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 37,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "Answer 1: (3 * 6) - (1 - 7) = 24\nAnswer 2: (7 - 1) + (3 * 6) = 24\nAnswer 3: 6 + (1 + 3 + 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 43,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "Answer 1: ((9 - 10) + 3) * 12 = 24\nAnswer 2: 10 * ((3/9) + 12) = 24\nAnswer 3: 12 + (10 + (3 * 9)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 198,
+        "model_call_phase1": 198,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "Answer 1: (4 - 7) + (3 * 9) = 24\nAnswer 2: (3 - 9) + (4 + 7) = 24\nAnswer 3: 9 + (3 + (4 * 7)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 68,
+        "model_call_phase1": 68,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "Answer 1: (4 - 11 + 10) * 8 = 24\nAnswer 2: 8 + 10 + (4 * 11) = 24\nAnswer 3: (4 + 8 * 10) / 11 = 7.636363636363637"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 55,
+        "model_call_phase1": 55,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "Answer 1: (8 * 9) - (6 * 8) = 24\nAnswer 2: ((8) / ((8) - (6))) + (9) = 13\nAnswer 3: (8) + (((8) / (6)) + (9)) = 18.333333333333336"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 86,
+        "model_call_phase1": 86,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "Answer 1: (6 * 8) - (11 + 13) = 24\nAnswer 2: 6 + ((13 / 8) + 11) = 24.625\nAnswer 3: 8 + ((6 / 13) + 11) = 19.46153846153846"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 164,
+        "model_call_phase1": 164,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "Answer 1: (5 - 13 + 11) * 8 = 24\nAnswer 2: 13 + (5 + 8 * 11) = 24\nAnswer 3: 8 + (13 / 5 + 11) = 24 (rounded to nearest integer)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 51,
+        "model_call_phase1": 51,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "Answer 1: (7 * 12) - (5 * 12) = 24\nAnswer 2: ((12 + (7 * 12)) / 5) = 24\nAnswer 3: 12 + ((7 / 5) + 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 89,
+        "model_call_phase1": 89,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "Answer 1: (2 * 5) * (2 + 2) = 24\nAnswer 2: (2 + 5) / 2 * 2 = 24\nAnswer 3: (5 / 2) * (2 + 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 66,
+        "model_call_phase1": 66,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "Answer 1: (12) + (((6) - (1)) + (7))\nAnswer 2: (7) + (((6) - (1)) + (12))\nAnswer 3: ((6) - (1)) + ((7) + (12))"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 40,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "Answer 1: (2 * 7) + (2 + 8) = 24\nAnswer 2: 8 + (2 + (2 * 7)) = 24\nAnswer 3: 2 + (8 + (2 * 7)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "Answer 1: (11 + ((4 * 7) - 8)) = 31\nAnswer 2: ((7 / 8) + 4 + 11) = 15.875\nAnswer 3: (7 + ((11 / 4) * 8)) = 29"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 218,
+        "model_call_phase1": 218,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "Answer 1: (4 / (5 - 4)) * 6 = 24\nAnswer 2: 4 * ((5 - 4) * 6) = 24\nAnswer 3: ((5 - 4) * 4) * 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 115,
+        "model_call_phase1": 115,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "Answer 1: (6) + (((5) - (2)) * (6)) = 24\nAnswer 2: ((6) + ((5) * (6))) / (2) = 24\nAnswer 3: (((6) / (2)) - (5)) + (6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 66,
+        "model_call_phase1": 66,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "Answer 1: ((1) / (3)) * (8) * (9) = 24\nAnswer 2: (3) * (8) + (1) + (9) = 24\nAnswer 3: ((9) / (3)) + (1) + (8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 122,
+        "model_call_phase1": 122,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "Answer 1: (7 - 11) + (4 * 7) = 24\nAnswer 2: 7 + ((11 / 4) + 7) = 24\nAnswer 3: (((7 - 11) - 4) + 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "Answer 1: (2 * 3) + (3 * 6) = 24\nAnswer 2: (2 - 6) + (3 * 3) = 24\nAnswer 3: (2 * 6) + (3 + 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 31,
+        "model_call_phase1": 31,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "Answer 1: ((4 / 2) + 9) + 13 = 24\nAnswer 2: (9 + (4 / 2)) + 13 = 24\nAnswer 3: ((4 / 2) + 13) + 9 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 31,
+        "model_call_phase1": 31,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "Answer 1: (7 * 9) - (3 * 13) = 24\nAnswer 2: (((13 - 9) / 3) + 7) = 8.333333333333334\nAnswer 3: ((7 + 13) / (3 / 9)) = 60.0"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 133,
+        "model_call_phase1": 133,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "Answer 1: ((5 + 10) + 10) + 13 = 38\nAnswer 2: ((10 - (5 * 10)) + 13) = -27\nAnswer 3: (((5 / 10) / 10) + 13) = 13.05"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 181,
+        "model_call_phase1": 181,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "Answer 1: ((7 / 10) + 1 + 12) = 13.7\nAnswer 2: ((7 * 12) / (1 + 10)) = 7.636363636363637\nAnswer 3: (((1 * 7) / 12) + 10) = 10.583333333333334"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 212,
+        "model_call_phase1": 212,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "Answer 1: ((5 - 5) + 11) + 13 = 24\nAnswer 2: (11 + ((5 - 5) + 13)) = 24\nAnswer 3: (13 - ((5 - 5) - 11)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 39,
+        "model_call_phase1": 39,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "Answer 1: (4 + 7 + 12) + 1 = 24\nAnswer 2: (1 + 4) + (7 + 12) = 24\nAnswer 3: ((4 + 7) + 12) / 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 25,
+        "model_call_phase1": 25,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "Answer 1: (3 - 9) + (5 * 6) = 24\nAnswer 2: (6 - 9) + (3 * 5) = 24\nAnswer 3: (((3 - 9) + 5) + 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "Answer 1: (4 * 5) + (4 + 1) = 24\nAnswer 2: 4 + (1 * (4 * 5)) = 24\nAnswer 3: (4 + (4 * 5)) * 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 44,
+        "model_call_phase1": 44,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "Answer 1: (4 * 13) - (4 * 7) = 24\nAnswer 2: 7 + ((4 / 4) + 13) = 24\nAnswer 3: ((4 + 13) / (4 / 7)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 112,
+        "model_call_phase1": 112,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "Answer 1: (11 + (5 + (11 - 1))) = 26\nAnswer 2: ((5 - (11 - 1)) + 11) = 6\nAnswer 3: (11 + ((5 - 1) + 11)) = 26"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 153,
+        "model_call_phase1": 153,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "Answer 1: (4 * 12) - (11 + 13) = 24\nAnswer 2: (11 + 13) - (4 * 12) = 24\nAnswer 3: ((13 - 4) * 11) / 12 = 8.25"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 150,
+        "model_call_phase1": 150,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "Answer 1: (2 - 8) + (5 / 2) = -3.5\nAnswer 2: (2 * 5) + (8 + 2 * 5) = 20\nAnswer 3: ((2 / 2) - 5) + 8 = 4"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 172,
+        "model_call_phase1": 172,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "Answer 1: ((7 - 9) + 13) + 13 = 24\nAnswer 2: (13 + (7 * 9)) + 13 = 24\nAnswer 3: 13 + ((9 / 7) + 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 24,
+        "model_call_phase1": 24,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "Answer 1: ((2) - ((8) / (3))) + (7) = 6.333333333333334\nAnswer 2: ((7) - (2)) + ((3) + (8)) = 16\nAnswer 3: (((8) - (2)) / (3)) + (7) = 9"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 224,
+        "model_call_phase1": 224,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "Answer 1: (5 - 2) * (8 / 1) = 24\nAnswer 2: ((1 - 8) + (5 / 2)) = -4.5\nAnswer 3: (5 - 2) * (1 * 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 165,
+        "model_call_phase1": 165,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "Answer 1: ((10 - 11) + 12) + 13 = 24\nAnswer 2: 12 + ((10 - 11) + 13) = 24\nAnswer 3: 12 + ((11 / 10) + 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "Answer 1: (3 * 12) - (3 + 9) = 24\nAnswer 2: (3 - 9) + (3 + 12) = 24\nAnswer 3: ((12 + (3 * 9)) / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 129,
+        "model_call_phase1": 129,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "Answer 1: (7 - 9) + 10 * 3 = 24\nAnswer 2: ((9 / 3) - 7) + 10 = 6\nAnswer 3: ((9 / 7) + 3) + 10 = 14.285714285714285"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 75,
+        "model_call_phase1": 75,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "Answer 1: ((3 - 3) + 2) * 12 = 24\nAnswer 2: ((2) - ((3) - (3))) * (12) = 24\nAnswer 3: (2) * ((12) - ((3) - (3))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 72,
+        "model_call_phase1": 72,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "Answer 1: (11 / 1) + (3 + 10) = 24\nAnswer 2: 10 + (3 + (11 / 1)) = 24\nAnswer 3: (3 + (10 + 11)) / 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "Answer 1: (8 / 3) * (3 + 6) = 24\nAnswer 2: (6 + (8 + (3 * 3))) = 24\nAnswer 3: ((3 / (8 - 6)) + 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 141,
+        "model_call_phase1": 141,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "Answer 1: ((7 - 7) + 11) + 13 = 24\nAnswer 2: (11 + ((7 - 7) + 13)) = 24\nAnswer 3: (13 - ((7 - 7) - 11)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 35,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "Answer 1: ((8 + 13) / (7 / 8)) = 24\nAnswer 2: (((8 - 13) + 8) + 7) = 24\nAnswer 3: ((13 + (8 * 8)) / 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 62,
+        "model_call_phase1": 62,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "Answer 1: (13 - 9) * (9 - 3) = 24\nAnswer 2: 13 * ((3 * 9) - 9) = 234\nAnswer 3: 3 + ((9 / 9) + 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 164,
+        "model_call_phase1": 164,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "Answer 1: (3 + 3 + 8 + 10) = 24\nAnswer 2: ((3 + 3) + (8 + 10)) = 24\nAnswer 3: ((3 + (10 / 3)) + 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "Answer 1: (3 - 1) * (13 - 1) = 24\nAnswer 2: ((1 - 1) * 13) + 3 = 24\nAnswer 3: (13 - 1) * (3 - 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 116,
+        "model_call_phase1": 116,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "Answer 1: ((1 + 13) * 6) + 12 = 86\nAnswer 2: ((1 - (13 / 6)) + 12) = 10.833333333333334\nAnswer 3: ((13 / 6) + (1 + 12)) = 15.166666666666666"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 190,
+        "model_call_phase1": 190,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "Answer 1: (6 * 13) - (6 * 9) = 24\nAnswer 2: 6 + (((6) / (9)) + (13)) = 24\nAnswer 3: ((6) / ((9) / (6))) + (13) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 90,
+        "model_call_phase1": 90,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "Answer 1: (1 - 7) + (13 + 13) = 20\nAnswer 2: 13 + ((7 - 1) + 13) = 32\nAnswer 3: 7 + (1 + (13 + 13)) = 34"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 146,
+        "model_call_phase1": 146,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "Answer 1: (2 * 9) / (13 / 12) = 16.615384615384617\nAnswer 2: ((12 / 9) + (2 + 13)) = 16.333333333333332\nAnswer 3: (13 / 2) + 9 + 12 = 27.5"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 223,
+        "model_call_phase1": 223,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "Answer 1: ((7) / ((3) - (1))) + (9) = 12.5\nAnswer 2: ((1) + ((7) * (9))) / (3) = 21.333333333333332\nAnswer 3: (((1) - (3)) * (9)) + (7) = -11"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 204,
+        "model_call_phase1": 204,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "Answer 1: (3 * 3) + (5 + 7) = 21\nAnswer 2: ((3 - 7) * 5) - 3 = -23\nAnswer 3: (3 / (7 - 5)) + 3 = 4.5"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 194,
+        "model_call_phase1": 194,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "Answer 1: (11) + (((6) / (3)) + (11)) = 24\nAnswer 2: (11) - (((6) / (3)) - (11)) = 20\nAnswer 3: (((11) / (3)) + (6)) + (11) = 24.67 (rounded to 2 decimal places)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 24,
+        "model_call_phase1": 24,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "Answer 1: (10 + ((10 / 2) + 9)) = 24\nAnswer 2: ((10 / 2) + 9 + 10) = 24\nAnswer 3: (9 + ((10 / 2) + 10)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "Answer 1: (4 * 3) + 7 + 1 = 24\nAnswer 2: 1 + ((4 / 3) * 7) = 24\nAnswer 3: ((4 - 7) - 1) + 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 195,
+        "model_call_phase1": 195,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "Answer 1: (11 + 5 * 8) / 12 = 4.25\nAnswer 2: (((5 / 12) - 8) + 11) = 3.416666666666667\nAnswer 3: (11 / 8 + 5 + 12) = 18.375"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 217,
+        "model_call_phase1": 217,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "Answer 1: (8 / 1) + (8 + 8) = 24\nAnswer 2: (1 * 8) + (8 + 8) = 24\nAnswer 3: (1 - 8) + (8 * 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 13,
+        "model_call_phase1": 13,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "Answer 1: ((12 / 3) + 7) + 13 = 24\nAnswer 2: (7 + (12 / 3)) + 13 = 24\nAnswer 3: ((12 / 3) + 13) + 7 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 37,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "Answer 1: ((9 / 3) * 12) - 12 = 24\nAnswer 2: ((12 - 9) + 3 + 12) = 24\nAnswer 3: 9 + ((3 / 12) + 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 84,
+        "model_call_phase1": 84,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "Answer 1: (3 * 4) + (5 + 7) = 24\nAnswer 2: 7 + (5 + (3 * 4)) = 24\nAnswer 3: 5 + (7 + (3 * 4)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 23,
+        "model_call_phase1": 23,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "Answer 1: (13 - 11) + (2 * 11) = 24\nAnswer 2: ((11 * 11) / (13 - 2)) = 24\nAnswer 3: ((11 * 13) / (2 - 11)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 103,
+        "model_call_phase1": 103,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "Answer 1: (11 - 1) + 6 + 12 = 28\nAnswer 2: 1 + ((11/12) * 6) + 0.5 = 6.5\nAnswer 3: ((1 - 12) / 6) + 11 = 9.166666666666666"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 198,
+        "model_call_phase1": 198,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "Answer 1: (3 + 4) + (6 + 11) = 24\nAnswer 2: 3 + (4 + (6 + 11)) = 24\nAnswer 3: 4 + (3 + (6 + 11)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 30,
+        "model_call_phase1": 30,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "Answer 1: (3 + (10 + 10)) + 1 = 24\nAnswer 2: ((1 + 3) + (10 + 10)) = 24\nAnswer 3: ((10 / 1) + (3 + 10)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 23,
+        "model_call_phase1": 23,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "Answer 1: ((6) - (7)) + ((5) * (5)) = 24\nAnswer 2: (5) + ((6) + ((5) + (7))) = 24\nAnswer 3: (5) + (((6) / (5)) + (7)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 68,
+        "model_call_phase1": 68,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "Answer 1: (7 + 11) / (3 / 4) = 24\nAnswer 2: ((7 - 11) + (3 * 4)) = 8\nAnswer 3: (11 + (3 + (4 * 7))) = 42"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 100,
+        "model_call_phase1": 100,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "Answer 1: 5 + ((4 / 12) + 6) = 11.333333333333332\nAnswer 2: ((12 / 6) + (4 * 5)) = 22\nAnswer 3: (5 + (12 + (4 * 6))) = 41"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 228,
+        "model_call_phase1": 228,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "Answer 1: ((6 - 5) + 10) + 13 = 24\nAnswer 2: (10 + ((6 - 5) + 13)) = 24\nAnswer 3: 13 + (5 + (6 * 10)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 55,
+        "model_call_phase1": 55,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "Answer 1: ((4 + 10) / (10 / 4)) = 5.6\nAnswer 2: ((10 - ((4 * 4)) - 10)) = -16\nAnswer 3: ((4 / (4 - 10)) + 10) = 9.333333333333334"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 120,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "Answer 1: (2 * 7) - (3 - 13) = 24\nAnswer 2: ((3) - ((13) / (2))) + (7) = 24\nAnswer 3: (((3) / (13)) + (2)) + (7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 87,
+        "model_call_phase1": 87,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "Answer 1: (11 + ((8) - (6)) + (11)) = 24\nAnswer 2: (((11) / (6)) - (8)) + (11) = 4.833333333333333\nAnswer 3: (((11) / (6)) + (8)) + (11) = 20.833333333333336"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 40,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "Answer 1: (6 - (10 / 5)) * 6 = 24\nAnswer 2: (((6 / 6) - 10) + 5) = 24\nAnswer 3: 10 * ((5 * 6) - 6) = 240"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 164,
+        "model_call_phase1": 164,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "Answer 1: ((11) - (6)) * (6) - (6) = 24\nAnswer 2: ((6) * (6)) + ((6) * (11)) = 24\nAnswer 3: ((6) - (11)) - ((6) - (6)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 89,
+        "model_call_phase1": 89,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "Answer 1: ((2 - 1) + 10) + 13 = 24\nAnswer 2: (10 + ((2 - 1) + 13)) = 24\nAnswer 3: (10 / 1) + (2 * 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 48,
+        "model_call_phase1": 48,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "Answer 1: ((13 / 8) + 10) + 12 = 23.625\nAnswer 2: (((12 / 13) - 10) + 8) = -1.0769230769230766\nAnswer 3: ((8 / (10 - 12)) + 13) = 9"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 218,
+        "model_call_phase1": 218,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "Answer 1: (2 * 11) - 10 = 24\nAnswer 2: 2 * (((2 * 11) - 10)) = 24\nAnswer 3: ((2 / 11) + 10) + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 168,
+        "model_call_phase1": 168,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "Answer 1: (11 - 5) * (2 * 2) = 24\nAnswer 2: ((5 - 11) + (2 * 2)) = -2\nAnswer 3: (((2 / 11) + 2) + 5) = 7.181818181818182"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 46,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "Answer 1: ((5 - 7) + 13) + 13 = 24\nAnswer 2: (13 + (7 + (5 * 13))) = 24\nAnswer 3: ((13 + 13) + (5 * 7)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 31,
+        "model_call_phase1": 31,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "Answer 1: (11 - 2) * 2 + 6 = 24\nAnswer 2: ((2 / 11) + (2 + 6)) * 8 = 24\nAnswer 3: (6 / 2) * (2 + 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 99,
+        "model_call_phase1": 99,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "Answer 1: (9) + (((12) / (6)) * (11)) = 31\nAnswer 2: (((11) - (12)) - (6)) + (9) = 2\nAnswer 3: ((9) / ((6) - (12))) + (11) = 9.5"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 216,
+        "model_call_phase1": 216,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "Answer 1: (2 + 6) + (8 + 8) = 24\nAnswer 2: 6 + (2 + 8 + 8) = 24\nAnswer 3: (8 + 8) + (2 + 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 24,
+        "model_call_phase1": 24,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "Answer 1: (2 - 1) + (5 + 4) = 24\nAnswer 2: ((2 - 5) + (1 * 4)) = 24\nAnswer 3: (4 + (1 + (2 + 5))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 71,
+        "model_call_phase1": 71,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "Answer 1: ((8 / 2) / 1) * 6 = 24\nAnswer 2: ((8 / 2) * 6) * 1 = 24\nAnswer 3: ((1 * (8 / 2)) * 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 101,
+        "model_call_phase1": 101,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "Answer 1: ((1 - 2) + 4) * 8 = 24\nAnswer 2: ((1 - 8) + (2 * 4)) = 1\nAnswer 3: ((2 * 4) + (1 + 8)) = 17"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 46,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "Answer 1: (5 * 6) + (3 + (5 * 6)) = 38\nAnswer 2: ((3 - 5) + (6 - 5)) = -1\nAnswer 3: ((5 + (3 * 6)) / 5) = 4.6"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 178,
+        "model_call_phase1": 178,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "Answer 1: (2 * 2) * (1 + 5) = 24\nAnswer 2: (2 + 2) * (1 + 5) = 24\nAnswer 3: ((2 / 5) * 1 + 2) = 24 (rounded to nearest integer)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 46,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "Answer 1: (10) + (((8) - (3)) + (9))\nAnswer 2: ((8) - (3)) + ((9) + (10))\nAnswer 3: (10) + (((8) - (3)) + (9))"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 45,
+        "model_call_phase1": 45,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "Answer 1: (8 + 5 * 8) / 2 = 24\nAnswer 2: (8 / 5) + (2 * 8) = 17.6\nAnswer 3: 5 + 2 + 8 + 8 = 23"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 81,
+        "model_call_phase1": 81,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "Answer 1: (4 + 7) + (5 + 8) = 24\nAnswer 2: 7 + (4 + (5 + 8)) = 24\nAnswer 3: (5 + 8) + (4 + 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 30,
+        "model_call_phase1": 30,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "Answer 1: ((11 - 7) + (4 * 5)) = 24\nAnswer 2: (7 + (5 + (4 * 11))) = 24\nAnswer 3: ((4 - 7) + (5 + 11)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 190,
+        "model_call_phase1": 190,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "Answer 1: (13 / 13) - (5 * 6) = -29\nAnswer 2: 13 + (6 * (13 - 5)) = 61\nAnswer 3: (13 - 6) + (5 + 13) = 25"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 184,
+        "model_call_phase1": 184,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "Answer 1: (1 - 13) + (5 * 10) = 38\nAnswer 2: (((1) / (5)) + (10)) + (13) = 23.2\nAnswer 3: ((1) / ((5) - (13))) + (10) = 9.875"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 203,
+        "model_call_phase1": 203,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "Answer 1: (7 - 13) + (5 * 6) = 24\nAnswer 2: (5 - 13) + (6 * 7) = 24\nAnswer 3: 7 + ((13 / 5) + 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "Answer 1: (4) * ((2) - (5) + (9)) = 24\nAnswer 2: (((5) / (2)) - (4)) + (9) = 24\nAnswer 3: (5) + ((4) + ((9) / (2))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 101,
+        "model_call_phase1": 101,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "Answer 1: (6 / 2) + (3 * 7) = 24\nAnswer 2: (2 * 6) + (7 / 3) = 24\nAnswer 3: ((3 * 2) + (6 / 2)) + 7 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 126,
+        "model_call_phase1": 126,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "Answer 1: (12) / (((7) - (1)) / (12)) = 24\nAnswer 2: ((1) - (7)) + ((12) + (12)) = 24\nAnswer 3: (7) + ((1) + ((12) + (12))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 150,
+        "model_call_phase1": 150,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "Answer 1: (6 * 9) - (5 * 6) = 24\nAnswer 2: (((6 - 5) + 9) - 6) = 24\nAnswer 3: (5 + (6 - (6 / 9))) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 170,
+        "model_call_phase1": 170,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "Answer 1: (3 * 5) - (1 - 10) = 24\nAnswer 2: (1 - 10) + (3 * 5) = 24\nAnswer 3: 3 + (1 + 5 + 10) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "Answer 1: ((13 / (6 - 10)) + 10) = 6.75\nAnswer 2: (((10 / 13) - 10) + 6) = -3.23076923076923\nAnswer 3: (((13 / 6) - 10) + 10) = 2.166666666666666"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 185,
+        "model_call_phase1": 185,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "Answer 1: (2 - 11 + 12) * 8 = 24\nAnswer 2: ((2) + ((8) * (11))) / (12) = 7.5\nAnswer 3: (11 + ((12) / (2)) * (8)) = 59"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 52,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "Answer 1: (10 + 11) + (1 + 2) = 24\nAnswer 2: (2 + 10) + (11 + 1) = 24\nAnswer 3: (11 / 1) + (2 + 10) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "Answer 1: (12) + (((5) - (3)) * (6)) = 24\nAnswer 2: ((6) / ((5) / (3))) + (12) = 24\nAnswer 3: ((6) / (5)) + ((12) - (3)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 156,
+        "model_call_phase1": 156,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "Answer 1: (11 - (10 - 1)) * 12 = 24\nAnswer 2: ((11 / 10) + 1 + 12) = 24\nAnswer 3: (1 + ((12 / 10) + 11)) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 110,
+        "model_call_phase1": 110,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "Answer 1: (7 - 4) * (4 + 4) = 24\nAnswer 2: (((4) - (4)) - (4)) + (7) = 24\nAnswer 3: (4 + ((4) / (4)) + (7)) * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 52,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "Answer 1: 3 * (11 - 10) * 8 = 24\nAnswer 2: (3 / (11 - 10)) * 8 = 24\nAnswer 3: ((10 / (8 / 3)) + 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 138,
+        "model_call_phase1": 138,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "Answer 1: (6 + ((10) - (7)) * (6)) = 24\nAnswer 2: ((10) + ((6) * (7))) / (6) = 24/3 = 8\nAnswer 3: (((7) / (6)) + (6)) + (10) = 24 - 0.8333333333333334 (rounded off)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 42,
+        "model_call_phase2": 0
+    }
+]

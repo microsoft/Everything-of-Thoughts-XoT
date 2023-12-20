@@ -1,0 +1,2198 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "[Restoration Moves]:\nU R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "[Restoration Moves]:\nU' R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "[Restoration Moves]:\nU' R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "[Restoration Moves]:\nU' R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 137,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U' R' U' R' U' R' U' R' U' R' U' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 138,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 139,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 140,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 141,
+        "ys": [
+            "[Restoration Moves]:\nU' R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 142,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 143,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 144,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 145,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 146,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 147,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 148,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 149,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 150,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 151,
+        "ys": [
+            "[Restoration Moves]:\nR' F U2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 152,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 153,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 154,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 155,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 156,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 157,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 158,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 159,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 160,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 161,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 162,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 163,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 164,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 165,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 166,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 167,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 168,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 169,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 170,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 171,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 172,
+        "ys": [
+            "[Restoration Moves]:\nU' R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 173,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 174,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 175,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 176,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 177,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 178,
+        "ys": [
+            "[Restoration Moves]:\nU2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 179,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 180,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 181,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 182,
+        "ys": [
+            "[Restoration Moves]:\nU' R' U2 F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    }
+]

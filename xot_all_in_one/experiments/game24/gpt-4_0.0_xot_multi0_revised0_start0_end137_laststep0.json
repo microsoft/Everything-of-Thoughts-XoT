@@ -1,0 +1,2057 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "9.666666666666666 * 9 = 87 (left: 87) Expression: (((11) / (3)) + (6)) * (9)\nThis sequence of operations does not lead to 24. It seems there's no way to get 24 with these numbers using basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 120,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: ((10 - 10) + 8) * 3\nAnswer: ((10 - 10) + 8) * 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 13,
+        "model_call_phase1": 13,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "6 * 4 = 24 (left: 24) Expression: ((7) + (11)) * ((2) + (4))\nAnswer: (7 + 11) * (2 + 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 17,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "14 + 10 = 24 (left: 24) Expression: (((8) - (2)) + (8)) + (10)\nAnswer: ((8 - 2) + 8) + 10 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 39,
+        "model_call_phase1": 39,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "6 * 4 = 24 (left: 24) Expression: (((7) - (7)) + (6)) * (4)\nAnswer: ((7 - 7) + 6) * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 11,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "15 + 10 = 25 (left: 25) Expression: (6) + ((3) * (3)), 10\n25 - 1 = 24 (left: 24) Expression: ((6) + ((3) * (3))) + (10) - 1\nAnswer: ((3 * 3) + 6 + 10) - 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 106,
+        "model_call_phase1": 106,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "4 * 6 = 24 (left: 24) Expression: (((1) - (4)) + (7)) * (6)\nAnswer: ((1 - 4) + 7) * 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 68,
+        "model_call_phase1": 68,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "4 * 6 = 24 (left: 24) Expression: (((5) - (4)) + (3)) * (6)\nAnswer: ((5 - 4) + 3) * 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 72,
+        "model_call_phase1": 72,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "8.25 * 10 = 82.5 (left: 82.5) Expression: (((5) / (4)) + (7)) * (10)\nAnswer: ((5 / 4) + 7) * 10 = 82.5"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 122,
+        "model_call_phase1": 122,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "12 * 2 = 24 (left: 24) Expression: ((10) / (5)) + (10)) * (12)\nAnswer: ((10 / 5) + 10) * 12 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 13,
+        "model_call_phase1": 13,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "18 + 6 = 24 (left: 24) Expression: (((12) - (9)) * (6)) + (6)\nAnswer: ((12 - 9) * 6) + 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 37,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "8 * 3 = 24 (left: 24) Expression: ((8) + (8)) * ((3) + (5))\nAnswer: (8 + 8) * (3 + 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "12 * 12 = 24 (left: 24) Expression: (((7) / (7)) + (11)) * (12)\nAnswer: ((7 / 7) + 11) * 12 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 12,
+        "model_call_phase1": 12,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "10 * 10 = 100 (left: 100) Expression: ((6) / (2)) + (7) * (10)\nAnswer: ((6 / 2) + 7) * 10 = 100"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 124,
+        "model_call_phase1": 124,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "4 * 6 = 24 (left: 24) Expression: (4) * (((4) - (5)) + (7))\nAnswer: 4 * ((4 - 5) + 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 48,
+        "model_call_phase1": 48,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "9 * 7 = 63 (left: 63) Expression: ((13) - (6)) * ((4) + (5))\nAnswer: (13 - 6) * (4 + 5) = 63"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 120,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "11 * 10 / 11 = 10 (left: 24) Expression: ((2) * (5)) * ((4) + (7)) / (11)\nAnswer: ((2 * 5) * (4 + 7)) / 11 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 120,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "4 + 21 = 24 (left: 24) Expression: ((2) + ((8) + (11))) + (4)\nAnswer: (2 + (8 + 11)) + 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 117,
+        "model_call_phase1": 117,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: ((3) + ((12) - (7))) * (3)\nAnswer: (3 + (12 - 7)) * 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 81,
+        "model_call_phase1": 81,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "7 * 3 = 21 (left: 24) Expression: ((5) + (12)) * ((2) + (5))\nAnswer: (5 + 12) * (2 + 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 16,
+        "model_call_phase1": 16,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "1 * 24 = 24 (left: 24) Expression: (1) * ((3) + ((3) * (7)))\nAnswer: 1 * (3 + (3 * 7)) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 43,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "6 * 4 = 24 (left: 24) Expression: ((9) + (9)) * ((2) + (4))\nAnswer: (9 + 9) * (2 + 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 14,
+        "model_call_phase1": 14,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "13 + 20 = 33 (left: 33) Expression: ((4) * (5)) + ((6) + (7))\nAnswer: (4 * 5) + (6 + 7) = 33"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 124,
+        "model_call_phase1": 124,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "12 * 2 = 24 (left: 24) Expression: (12) * (((12) / (4)) + (9))\nAnswer: 12 * ((12 / 4) + 9) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 13,
+        "model_call_phase1": 13,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "10 * 5 = 50 (left: 50) Expression: ((6) - (1)) * ((1) + (9))\nAnswer: (6 - 1) * (1 + 9) = 50"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 79,
+        "model_call_phase1": 79,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "-6 + 30 = 24 (left: 24) Expression: ((3) * (10)) + ((2) - (8))\nAnswer: (3 * 10) + (2 - 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "12 * 2 = 24 (left: 24) Expression: ((9) - (9)) + (12) * (2)\nAnswer: ((9 - 9) + 12) * 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "12 * 12 = 24 (left: 24) Expression: ((2) * (6)) * ((2) + (10))\nAnswer: (2 * 6) * (2 + 10) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "4 * 6 = 24 (left: 24) Expression: (((3) - (11)) + (12)) * (6)\nAnswer: ((3 - 11) + 12) * 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 61,
+        "model_call_phase1": 61,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "18 + 33 = 51 (left: 51) Expression: ((3) * (11)) + ((7) + (11))\nAnswer: (3 * 11) + (7 + 11) = 51"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 103,
+        "model_call_phase1": 103,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: ((7) - (8)) + (9)) * (3)\nAnswer: (3 * ((7 - 8) + 9)) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 67,
+        "model_call_phase1": 67,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "25 - 4 = 24 (left: 24) Expression: ((1) + ((12) + (12))) - (4)\nAnswer: (1 + (12 + 12)) - 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 83,
+        "model_call_phase1": 83,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "6 * 4 = 24 (left: 24) Expression: (((5) - (5)) + (6)) * (4)\nAnswer: ((5 - 5) + 6) * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 47,
+        "model_call_phase1": 47,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "12 * 12 = 24 (left: 24) Expression: ((6) + ((2) * (3))) * (12)\nAnswer: (6 + 2 * 3) * 12 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 36,
+        "model_call_phase1": 36,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "-6 + 18 = 12 (left: 24) Expression: ((3) * (6)) + ((1) - (7))\nAnswer: (3 * 6) + (1 - 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 41,
+        "model_call_phase1": 41,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "90 - 36 = 54 (left: 54) Expression: ((3) * (12)) - ((9) * (10))\nAnswer: (3 * 12) - (9 * 10) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 120,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "27 - (-3) = 24 (left: 24) Expression: ((3) * (9)) - ((4) - (7))\nAnswer: (3 * 9) - (4 - 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 65,
+        "model_call_phase1": 65,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: (((4) - (11)) + (10)) * (8)\nAnswer: ((4 - 11) + 10) * 8 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 53,
+        "model_call_phase1": 53,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "72 - 48 = 24 (left: 24) Expression: ((6) * (8)) - ((8) * (9))\nAnswer: (6 * 8) - (8 * 9) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 86,
+        "model_call_phase1": 86,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "2 * 24 = 24 (left: 24) Expression: ((6) * (8)) * ((13) - (11))\nAnswer: (6 * 8) * (13 - 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 119,
+        "model_call_phase1": 119,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: (((5) - (13)) + (11)) * (8)\nAnswer: ((5 - 13) + 11) * 8 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 50,
+        "model_call_phase1": 50,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "84 - 60 = 24 (left: 24) Expression: ((5) * (12)) - ((7) * (12))\nAnswer: (5 * 12) - (7 * 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 89,
+        "model_call_phase1": 89,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "3 * 5 = 15 (left: 15) Expression: (5) * (((2) / (2)) + (2))\n15 + 9 = 24 (left: 24) Expression: ((5) * (((2) / (2)) + (2))) + (9)\nAnswer: (5 * ((2 / 2) + 2)) + 9 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 60,
+        "model_call_phase1": 60,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "12 * 2 = 24 (left: 24) Expression: ((6) - (1)) + (7) * (12)\nAnswer: ((6 - 1) + 7) * 12 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 38,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "10 + 14 = 24 (left: 24) Expression: ((2) * (7)) + ((2) + (8))\nAnswer: (2 * 7) + (2 + 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 17,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "9.75 * 8 = 78 (left: 78) Expression: (((11) / (4)) + (7)) * (8)\nAnswer: ((11 / 4) + 7) * 8 = 78\n\nNote: The given numbers cannot be used to obtain 24."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 123,
+        "model_call_phase1": 123,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "20 + 4 = 24 (left: 24) Expression: ((4) * (5)) + ((4) * (6))\nAnswer: (4 * 5) + (4 * 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 105,
+        "model_call_phase1": 105,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "18 + 6 = 24 (left: 24) Expression: (((5) - (2)) * (6)) + (6)\nAnswer: ((5 - 2) * 6) + 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 64,
+        "model_call_phase1": 64,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "72 / 3 = 24 (left: 24) Expression: ((8) * ((9) / (1))) / (3)\nAnswer: (8 * (9 / 1)) / 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 105,
+        "model_call_phase1": 105,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "28 + -4 = 24 (left: 24) Expression: ((7) - (11)) + ((4) * (7))\nAnswer: (4 * 7) + (7 - 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 11,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "6 + 18 = 24 (left: 24) Expression: ((2) * (3)) + ((3) * (6))\nAnswer: (2 * 3) + (3 * 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 30,
+        "model_call_phase1": 30,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "11 + 13 = 24 (left: 24) Expression: (((4) / (2)) + (9)) + (13)\nAnswer: ((4 / 2) + 9) + 13 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 28,
+        "model_call_phase1": 28,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "9 * 2.666666666666667 = 24 (left: 24) Expression: (9) * ((7) - ((13) / (3)))\nAnswer: 9 * (7 - 13 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 123,
+        "model_call_phase1": 123,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "130 - 50 = 80 (left: 80) Expression: ((5) * (10)) - ((10) * (13))\n80 - 56 = 24 (left: 24) Expression: (((5) * (10)) - ((10) * (13))) - (56)\nAnswer: ((5 * 10) - (10 * 13)) - 56 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 103,
+        "model_call_phase1": 103,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "70 - (-11) = 81 (left: 81) Expression: ((7) * (10)) - ((1) - (12))\nAnswer: (7 * 10) - (1 - 12) = 81"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 114,
+        "model_call_phase1": 114,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "11 + 13 = 24 (left: 24) Expression: (((5) - (5)) + (11)) + (13)\nAnswer: ((5 - 5) + 11) + 13 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 36,
+        "model_call_phase1": 36,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "20 + 4 = 24 (left: 24) Expression: ((1) + ((7) + (12))) + (4)\nAnswer: (1 + (7 + 12)) + 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 16,
+        "model_call_phase1": 16,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "30 - 6 = 24 (left: 24) Expression: ((5) * (6)) - ((3) - (9))\nAnswer: (5 * 6) - (3 - 9) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "1 * 24 = 24 (left: 24) Expression: (1) * ((4) + ((4) * (5)))\nAnswer: 1 * (4 + 4 * 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 42,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "52 - 28 = 24 (left: 24) Expression: ((4) * (7)) - ((4) * (13))\nAnswer: (4 * 7) - (4 * 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 106,
+        "model_call_phase1": 106,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "15 + 11 = 26 (left: 26) Expression: ((5) + ((11) - (1))) + (11)\nAnswer: (5 + (11 - 1)) + 11 = 26"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 93,
+        "model_call_phase1": 93,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "132 - 52 = 80 (left: 80 52) Expression: (4) * (13), ((11) * (12)) - ((4) * (13))\n80 - 52 = 24 (left: 24) Expression: (((11) * (12)) - ((4) * (13))) - ((4) * (13))\nAnswer: ((11 * 12) - 4 * 13) - 4 * 13 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 117,
+        "model_call_phase1": 117,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "7 + 16 = 24 (left: 24) Expression: ((2) * (8)) + ((2) + (5))\nAnswer: (2 * 8) + (2 + 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 99,
+        "model_call_phase1": 99,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "11 * 2 = 22 (left: 13 22) Expression: (13), (((7) - (9)) + (13)) * (2)\n22 + 2 = 24 (left: 24) Expression: (((7) - (9)) + (13)) * (2) + (2)\nAnswer: ((7 - 9) + 13) * 2 + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "10 + 16 = 26 (left: 26) Expression: ((2) * (8)) + ((3) + (7))\nAnswer: (2 * 8) + (3 + 7) = 26"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 121,
+        "model_call_phase1": 121,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: ((5) - (2)) * ((8) / (1))\nAnswer: (5 - 2) * (8 / 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 111,
+        "model_call_phase1": 111,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "13 + 11 = 24 (left: 24) Expression: (13) + (((10) - (11)) + (12))\nAnswer: 13 + ((10 - 11) + 12) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "3 + 24 = 27 (left: 27) Expression: (3) + ((3) + ((9) + (12)))\nAnswer: 3 + (3 + (9 + 12)) = 27\nNote: The given numbers cannot be used to obtain 24."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 90,
+        "model_call_phase1": 90,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: ((7) - (9)) + (10)) * (3)\nAnswer: ((7 - 9) + 10) * 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 71,
+        "model_call_phase1": 71,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "2 * 12 = 24 (left: 24) Expression: (((3) - (3)) + (2)) * (12)\nAnswer: ((3 - 3) + 2) * 12 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 68,
+        "model_call_phase1": 68,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "13 + 11 = 24 (left: 24) Expression: ((3) + (10)) + ((11) / (1))\nAnswer: (3 + 10) + (11 / 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 16,
+        "model_call_phase1": 16,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "9 * 2.6666666666666665 = 24 (left: 24) Expression: ((8) / (3)) * ((3) + (6))\nAnswer: (8 / 3) * (3 + 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 104,
+        "model_call_phase1": 104,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "11 + 13 = 24 (left: 24) Expression: (((7) - (7)) + (11)) + (13)\nAnswer: ((7 - 7) + 11) + 13 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 32,
+        "model_call_phase1": 32,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "21 + 0.875 = 21.875 (left: 21.875) Expression: ((7) / (8)) + ((8) + (13))\nAnswer: (7 / 8) + (8 + 13) = 21.875 (This does not equal to 24)"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 59,
+        "model_call_phase1": 59,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "12 * 2 = 24 (left: 24) Expression: ((9) / (3)) + (9), (13) - ((9) / (3))\nAnswer: ((9 / 3) + 9) * (13 - (9 / 3)) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 104,
+        "model_call_phase1": 104,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "21 + 3 = 24 (left: 24) Expression: ((3) + ((8) + (10))) + (3)\nAnswer: (3 + (8 + 10)) + 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 14,
+        "model_call_phase1": 14,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "5 * 13 = 65 (left: 65) Expression: (((1) + (1)) + (3)) * (13)\nAnswer: ((1 + 1) + 3) * 13 = 65"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 78,
+        "model_call_phase1": 78,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "26 - 6 = 24 (left: 24) Expression: ((1) + ((12) + (13))) - (6)\nAnswer: (1 + (12 + 13)) - 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 107,
+        "model_call_phase1": 107,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "78 - 54 = 24 (left: 24) Expression: ((6) * (9)) - ((6) * (13))\nAnswer: (6 * 9) - (6 * 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 90,
+        "model_call_phase1": 90,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "27 - 7 = 24 (left: 24) Expression: ((1) + ((13) + (13))) - (7)\nAnswer: (1 + 13 + 13) - 7 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 90,
+        "model_call_phase1": 90,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "16.5 + 7.5 = 24 (left: 24) Expression: ((9) / (2)) + (12), (13) - (7.5)\nAnswer: ((9 / 2) + 12) + (13 - 7.5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 116,
+        "model_call_phase1": 116,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "28 - 7 = 24 (left: 24) Expression: ((1) + ((3) * (9))) - (7)\nAnswer: (1 + 3 * 9) - 7 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 114,
+        "model_call_phase1": 114,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "12 * 2 = 24 (left: 24) Expression: ((3) * (3)) * ((5) + (7))\nAnswer: (3 * 3) * (5 + 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 106,
+        "model_call_phase1": 106,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "13 + 11 = 24 (left: 24) Expression: (((6) / (3)) + (11)) + (11)\nAnswer: ((6 / 3) + 11) + 11 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 17,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "14 + 10 = 24 (left: 24) Expression: (((10) / (2)) + (9)) + (10)\nAnswer: ((10 / 2) + 9) + 10 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 15,
+        "model_call_phase1": 15,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "7 * 7 = 49 (left: 49) Expression: ((7) / (1)) * ((3) + (4))\nAnswer: (7 / 1) * (3 + 4) = 49"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 103,
+        "model_call_phase1": 103,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "132 - 40 = 92 (left: 92) Expression: ((5) * (8)) - ((11) * (12))\n92 - 68 = 24 (left: 24) Expression: (((5) * (8)) - ((11) * (12))) - (68)\nAnswer: ((5 * 8) - (11 * 12)) - 68 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 121,
+        "model_call_phase1": 121,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "16 + 8 = 24 (left: 24) Expression: ((8) / (1)) + ((8) + (8))\nAnswer: (8 / 1) + (8 + 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "11 + 13 = 24 (left: 24) Expression: (((12) / (3)) + (7)) + (13)\nAnswer: ((12 / 3) + 7) + 13 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 34,
+        "model_call_phase1": 34,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "36 - 12 = 24 (left: 24) Expression: (((9) / (3)) * (12)) - (12)\nAnswer: ((9 / 3) * 12) - 12 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 82,
+        "model_call_phase1": 82,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "12 * 2 = 24 (left: 24) Expression: ((3) * (4)) * ((5) + (7))\nAnswer: (3 * 4) * (5 + 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "16.5 + 7.5 = 24 (left: 24) Expression: ((11) / (2)) + (11) + (13)\nAnswer: ((11 / 2) + 11) + 13 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 100,
+        "model_call_phase1": 100,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "17 + 12 = 29 (left: 29) Expression: ((12) / (1)) + ((6) + (11))\nAnswer: (12 / 1) + (6 + 11) = 29"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 101,
+        "model_call_phase1": 101,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "7 * 3 = 21 (left: 17 21) Expression: (6) + (11), ((3) + (4)) * (3)\n21 + 3 = 24 (left: 24) Expression: ((3) + (4)) * (3) + ((6) + (11))\nAnswer: ((3 + 4) * 3) + (6 + 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 15,
+        "model_call_phase1": 15,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "3 + 21 = 24 (left: 24) Expression: ((1) + ((10) + (10))) + (3)\nAnswer: (1 + (10 + 10)) + 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 13,
+        "model_call_phase1": 13,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "-1 + 25 = 24 (left: 24) Expression: ((5) * (5)) + ((6) - (7))\nAnswer: (5 * 5) + (6 - 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 68,
+        "model_call_phase1": 68,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "18 * 0.75 = 13.5 (left: 13.5) Expression: ((3) / (4)) * ((7) + (11))\n13.5 + 10.5 = 24 (left: 24) Expression: (((3) / (4)) * ((7) + (11))) + (10.5)\nAnswer: ((3 / 4) * (7 + 11)) + 10.5 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 96,
+        "model_call_phase1": 96,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "9 * 6 = 54 (left: 54) Expression: ((12) - (6)) * ((4) + (5))\nAnswer: (12 - 6) * (4 + 5) = 54"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 120,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "11 + 13 = 24 (left: 24) Expression: (((6) - (5)) + (10)) + (13)\nAnswer: ((6 - 5) + 10) + 13 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 52,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "44 - 10 = 24 (left: 24) Expression: ((4) + ((4) * (10))) - (10)\nAnswer: (4 + 4 * 10) - 10 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 84,
+        "model_call_phase1": 84,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "14 - (-10) = 24 (left: 24) Expression: ((2) * (7)) - ((3) - (13))\nAnswer: (2 * 7) - (3 - 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 85,
+        "model_call_phase1": 85,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "13 * 11 = 143 (left: 143) Expression: (((8) - (6)) + (11)) * (11)\nAnswer: ((8 - 6) + 11) * 11 = 143"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 37,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "16 - 30 = -14 (left: -14) Expression: ((6) + (10)) - ((5) * (6))\n-14 * -1 = 24 (left: 24) Expression: -1 * (((6) + (10)) - ((5) * (6)))\nAnswer: -1 * ((6 + 10) - (5 * 6)) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 103,
+        "model_call_phase1": 103,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "7 * 11 = 77 (left: 77) Expression: (11) * (((6) / (6)) + (6))\nAnswer: (6 / 6 + 6) * 11 = 77"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 75,
+        "model_call_phase1": 75,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "11 * 2 = 22 (left: 13 22) Expression: 13, (((2) - (1)) + (10)) * (2)\n22 + 2 = 24 (left: 24) Expression: (((2) - (1)) + (10)) * (2) + (2)\nAnswer: ((2 - 1) + 10) * 2 + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 45,
+        "model_call_phase1": 45,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "7 * 10 = 70 (left: 70) Expression: ((12) - (13)) + (8)) * (10)\nAnswer: ((12 - 13) + 8) * 10 = 70"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 115,
+        "model_call_phase1": 115,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "12 + 2 = 24 (left: 24) Expression: (((2) * (11)) - (10)) + (2)\nAnswer: ((2 * 11) - 10) + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 99,
+        "model_call_phase1": 99,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "4 * 6 = 24 (left: 24) Expression: ((11) - (5)) * ((2) * (2))\nAnswer: (2 * 2) * (11 - 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 42,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "11 * 2 = 22 (left: 13 22) Expression: 13, (((5) - (7)) + (13)) * (2)\n22 + 2 = 24 (left: 24) Expression: (((5) - (7)) + (13)) * (2) + (2)\nAnswer: (((5 - 7) + 13) * 2) + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 29,
+        "model_call_phase1": 29,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "7.5 * 6 = 45 (left: 45) Expression: ((2) + ((11) / (2))) * (6)\nAnswer: (2 + 11 / 2) * 6 = 45\n\nNote: The given numbers cannot be used to obtain 24."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 104,
+        "model_call_phase1": 104,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "11 * 11 = 121 (left: 121) Expression: (11) * (((12) / (6)) + (9))\nAnswer: This sequence of numbers and operations does not result in 24."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 121,
+        "model_call_phase1": 121,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "8 * 3 = 24 (left: 24) Expression: ((2) + (6)) * ((8) + (8))\nAnswer: (2 + 6) * (8 + 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "4 * 6 = 24 (left: 24) Expression: (4) * (((2) - (1)) + (5))\nAnswer: 4 * ((2 - 1) + 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 68,
+        "model_call_phase1": 68,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "4 * 6 = 24 (left: 24) Expression: ((1) * ((8) / (2))) * (6)\nAnswer: (1 * (8 / 2)) * 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 96,
+        "model_call_phase1": 96,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: (((1) - (2)) + (4)) * (8)\nAnswer: ((1 - 2) + 4) * 8 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 43,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "11 + 15 = 26 (left: 26) Expression: ((3) * (5)) + ((5) + (6))\nAnswer: (3 * 5) + (5 + 6) = 26"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 103,
+        "model_call_phase1": 103,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "4 * 6 = 24 (left: 24) Expression: ((1) + (5)) * ((2) * (2))\nAnswer: (1 + 5) * (2 * 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 44,
+        "model_call_phase1": 44,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "14 + 10 = 24 (left: 24) Expression: (((8) - (3)) + (9)) + (10)\nAnswer: ((8 - 3) + 9) + 10 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 43,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "48 / 2 = 24 (left: 24) Expression: ((8) + ((5) * (8))) / (2)\nAnswer: (8 + 5 * 8) / 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 79,
+        "model_call_phase1": 79,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "11 + 13 = 24 (left: 24) Expression: ((5) + (8)) + ((4) + (7))\nAnswer: (5 + 8) + (4 + 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "8.25 * 11 = 90.75 (left: 90.75) Expression: (((5) / (4)) + (7)) * (11)\nAnswer: ((5 / 4) + 7) * 11 = 90.75\n\nNote: The given numbers 4, 5, 7, 11 cannot be used to obtain 24 using basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 120,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "78 - 65 = 13 (left: 13) Expression: ((5) * (13)) - ((6) * (13))\n13 * 1 = 24 (left: 24) Expression: (((5) * (13)) - ((6) * (13))) * (1)\nAnswer: ((5 * 13) - (6 * 13)) * 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 101,
+        "model_call_phase1": 101,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "5 * 24 = 24 (left: 24) Expression: (5) * ((1) + ((10) + (13)))\nAnswer: 5 * (1 + (10 + 13)) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 110,
+        "model_call_phase1": 110,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "30 - (-6) = 36 (left: 24) Expression: ((5) * (6)) - ((7) - (13))\nAnswer: (5 * 6) - (7 - 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 11,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "6 * 4 = 24 (left: 24) Expression: (((2) - (5)) + (9)) * (4)\nAnswer: ((2 - 5) + 9) * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 98,
+        "model_call_phase1": 98,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "10 * 2.4 = 24 (left: 24) Expression: ((3) + (7)) * ((2) * (6))\nAnswer: (3 + 7) * 2.4 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 118,
+        "model_call_phase1": 118,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "25 - 7 = 18 (left: 18) Expression: (1 + (12 + 12)) - 7\nAnswer: (1 + (12 + 12)) - 7 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 89,
+        "model_call_phase1": 89,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "45 - 36 = 9 (left: 9) Expression: ((6) * (6)) - ((5) * (9))\n9 * 3 = 27 (left: 27) Expression: (((6) * (6)) - ((5) * (9))) * (3)\n27 - 3 = 24 (left: 24) Expression: ((((6) * (6)) - ((5) * (9))) * (3)) - (3)\nAnswer: (((6 * 6) - (5 * 9)) * 3) - 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 106,
+        "model_call_phase1": 106,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "15 - (-9) = 24 (left: 24) Expression: ((3) * (5)) - ((1) - (10))\nAnswer: (3 * 5) - (1 - 10) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 14,
+        "model_call_phase1": 14,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "7 * 6 = 42 (left: 42) Expression: ((10 - 13) + 10) * 6\nAnswer: ((10 - 13) + 10) * 6 = 42"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 102,
+        "model_call_phase1": 102,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: (((2) - (11)) + (12)) * (8)\nAnswer: ((2 - 11) + 12) * 8 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 52,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "2 + 22 = 24 (left: 24) Expression: ((1) + ((10) + (11))) + (2)\nAnswer: (1 + (10 + 11)) + 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 15,
+        "model_call_phase1": 15,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "8 * 3 = 24 (left: 24) Expression: ((12) - (6)) * ((3) + (5))\nAnswer: (12 - 6) * (3 + 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 123,
+        "model_call_phase1": 123,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "21 + 3 = 24 (left: 24) Expression: (((10) / (1)) + (11)) + (3)\nAnswer: ((10 / 1) + 11) + 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 104,
+        "model_call_phase1": 104,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "3 * 8 = 24 (left: 24) Expression: ((7) - (4)) * ((4) + (4))\nAnswer: (7 - 4) * (4 + 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 51,
+        "model_call_phase1": 51,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "10 + 11.666666666666666 = 21.666666666666666 (left: 21.666666666666666) Expression: (10) + (((11) / (3)) + (8))\nThis set of numbers cannot be used to obtain 24 using basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": false
+            }
+        ],
+        "model_call": 122,
+        "model_call_phase1": 122,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "18 + 6 = 24 (left: 24) Expression: (((10) - (7)) * (6)) + (6)\nAnswer: ((10 - 7) * 6) + 6 = 24"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 41,
+        "model_call_phase1": 41,
+        "model_call_phase2": 0
+    }
+]

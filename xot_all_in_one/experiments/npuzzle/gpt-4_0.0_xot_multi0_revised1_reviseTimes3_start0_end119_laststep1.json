@@ -1,0 +1,1787 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "[Moves]:\nLeft, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "[Moves]:\nLeft, Left, Right, Down, Right, Up, Left, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 61,
+        "model_call_phase1": 40,
+        "model_call_phase2": 21
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "[Moves]:\nRight, Up, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 33,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "[Moves]:\nUp, Down, Right, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 24,
+        "model_call_phase1": 24,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "[Moves]:\nUp, Up, Left, Down, Down, Right, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 123,
+        "model_call_phase1": 84,
+        "model_call_phase2": 39
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "[Moves]:\nLeft, Right, Down, Left, Up, Right, Up, Left, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 3
+            }
+        ],
+        "model_call": 129,
+        "model_call_phase1": 23,
+        "model_call_phase2": 106
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 26,
+        "model_call_phase1": 26,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Down, Left, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Down, Left, Up, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 111,
+        "model_call_phase1": 74,
+        "model_call_phase2": 37
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "[Moves]:\nLeft, Down, Down, Right, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 49,
+        "model_call_phase1": 37,
+        "model_call_phase2": 12
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "[Moves]:\nLeft, Down, Down, Right, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 119,
+        "model_call_phase1": 91,
+        "model_call_phase2": 28
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "[Moves]:\nRight, Up, Left, Left, Down, Right, Up, Up, Left, Down, Right, Down, Left, Up, Right, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 3
+            }
+        ],
+        "model_call": 355,
+        "model_call_phase1": 78,
+        "model_call_phase2": 277
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "[Moves]:\nRight, Up, Up, Left, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 17,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "[Moves]:\nLeft, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 17,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Down, Right, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 126,
+        "model_call_phase1": 84,
+        "model_call_phase2": 42
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "[Moves]:\nUp, Down, Left, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 16,
+        "model_call_phase1": 16,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "[Moves]:\nUp, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 38,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "[Moves]:\nUp, Up, Left, Down, Right, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 103,
+        "model_call_phase1": 83,
+        "model_call_phase2": 20
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "[Moves]:\nRight, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 38,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "[Moves]:\nLeft, Left, Up, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 75,
+        "model_call_phase1": 34,
+        "model_call_phase2": 41
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Left, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 25,
+        "model_call_phase1": 25,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 128,
+        "model_call_phase1": 38,
+        "model_call_phase2": 90
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Up, Right, Down, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 77,
+        "model_call_phase1": 34,
+        "model_call_phase2": 43
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Down, Right, Up, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 13,
+        "model_call_phase1": 13,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 29,
+        "model_call_phase1": 29,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 45,
+        "model_call_phase1": 45,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 29,
+        "model_call_phase1": 29,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "[Moves]:\nUp, Left, Left, Right, Down, Left, Down, Right, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 49,
+        "model_call_phase1": 37,
+        "model_call_phase2": 12
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 35,
+        "model_call_phase2": 5
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "[Moves]:\nDown, Down, Left, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 25,
+        "model_call_phase1": 25,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "[Moves]:\nRight, Left, Up, Right, Right, Down, Left, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 36,
+        "model_call_phase1": 23,
+        "model_call_phase2": 13
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "[Moves]:\nDown, Right, Down, Left, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 90,
+        "model_call_phase1": 64,
+        "model_call_phase2": 26
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "[Moves]:\nLeft, Left, Down, Right, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 31,
+        "model_call_phase1": 31,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Down, Right, Up, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 298,
+        "model_call_phase1": 61,
+        "model_call_phase2": 237
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "[Moves]:\nLeft, Up, Right, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 32,
+        "model_call_phase1": 32,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 110,
+        "model_call_phase1": 64,
+        "model_call_phase2": 46
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 54,
+        "model_call_phase1": 25,
+        "model_call_phase2": 29
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Down, Right, Up, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 50,
+        "model_call_phase1": 50,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "[Moves]:\nUp, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 17,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "[Moves]:\nUp, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 9,
+        "model_call_phase1": 9,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "[Moves]:\nRight, Up, Right, Down, Left, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 44,
+        "model_call_phase1": 28,
+        "model_call_phase2": 16
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "[Moves]:\nLeft, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 16,
+        "model_call_phase1": 16,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 48,
+        "model_call_phase1": 48,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Down, Right, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 45,
+        "model_call_phase1": 31,
+        "model_call_phase2": 14
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "[Moves]:\nUp, Right, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Down, Right, Up, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 71,
+        "model_call_phase1": 54,
+        "model_call_phase2": 17
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 54,
+        "model_call_phase1": 36,
+        "model_call_phase2": 18
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "[Moves]:\nUp, Left, Left, Down, Right, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 34,
+        "model_call_phase1": 34,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "[Moves]:\nLeft, Left, Up, Right, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 78,
+        "model_call_phase1": 37,
+        "model_call_phase2": 41
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "[Moves]:\nRight, Up, Left, Down, Right, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 34,
+        "model_call_phase1": 34,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Down, Left, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 97,
+        "model_call_phase1": 61,
+        "model_call_phase2": 36
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "[Moves]:\nLeft, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "[Moves]:\nDown, Left, Left, Up, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 15,
+        "model_call_phase1": 15,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "[Moves]:\nLeft, Up, Left, Down, Right, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 39,
+        "model_call_phase1": 39,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "[Moves]:\nUp"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "[Moves]:\nLeft, Up, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 48,
+        "model_call_phase1": 34,
+        "model_call_phase2": 14
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Left, Up, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 3
+            }
+        ],
+        "model_call": 68,
+        "model_call_phase1": 38,
+        "model_call_phase2": 30
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "[Moves]:\nUp, Up, Right, Down, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 92,
+        "model_call_phase1": 67,
+        "model_call_phase2": 25
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 109,
+        "model_call_phase1": 73,
+        "model_call_phase2": 36
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "[Moves]:\nRight, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 14,
+        "model_call_phase1": 14,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "[Moves]:\nLeft, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 18,
+        "model_call_phase1": 18,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "[Moves]:\nDown, Down, Right, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 22,
+        "model_call_phase1": 22,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "[Moves]:\nDown, Down, Left, Up, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 45,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 14,
+        "model_call_phase1": 14,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "[Moves]:\nDown, Down, Left, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "[Moves]:\nLeft, Left, Up, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 11,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "[Moves]:\nUp, Right, Up, Left, Left, Down, Right, Right, Up, Left, Left, Down, Right, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 3
+            }
+        ],
+        "model_call": 415,
+        "model_call_phase1": 72,
+        "model_call_phase2": 343
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "[Moves]:\nLeft, Left, Up, Right, Down, Left, Up, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 32,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Down, Left, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 32,
+        "model_call_phase2": 8
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 131,
+        "model_call_phase1": 53,
+        "model_call_phase2": 78
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 42,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "[Moves]:\nRight, Right, Down, Left, Left, Up, Right, Right, Down, Left, Left, Up, Right, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 3
+            }
+        ],
+        "model_call": 442,
+        "model_call_phase1": 58,
+        "model_call_phase2": 384
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "[Moves]:\nLeft, Up, Right, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 52,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "[Moves]:\nRight, Up, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 26,
+        "model_call_phase1": 26,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "[Moves]:\nLeft"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 127,
+        "model_call_phase1": 87,
+        "model_call_phase2": 40
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Down, Right, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 47,
+        "model_call_phase1": 39,
+        "model_call_phase2": 8
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Down, Left, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 36,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "[Moves]:\nDown, Down, Left, Up, Right, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 33,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "[Moves]:\nRight, Right, Up, Left, Left, Down, Right, Right, Up, Left, Left, Down, Right, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 3
+            }
+        ],
+        "model_call": 415,
+        "model_call_phase1": 72,
+        "model_call_phase2": 343
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Down, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 36,
+        "model_call_phase1": 36,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "[Moves]:\nUp, Right, Right, Down, Left, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 30,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "[Moves]:\nLeft, Up, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "[Moves]:\nUp, Left, Up, Right, Right, Down, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 126,
+        "model_call_phase1": 56,
+        "model_call_phase2": 70
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Up, Right, Down, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 47,
+        "model_call_phase1": 41,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "[Moves]:\nLeft, Right, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 24,
+        "model_call_phase1": 24,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Down, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 49,
+        "model_call_phase1": 39,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "[Moves]:\nLeft, Left, Up, Right, Down, Down, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 53,
+        "model_call_phase1": 36,
+        "model_call_phase2": 17
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "[Moves]:\nLeft, Left, Up, Right, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "[Moves]:\nDown, Left, Left, Up, Right, Down, Left, Up, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 39,
+        "model_call_phase1": 37,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "[Moves]:\nDown, Right, Right, Up, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 34,
+        "model_call_phase1": 34,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "[Moves]:\nUp, Left, Left, Down, Right, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "[Moves]:\nLeft, Down, Left, Up, Right, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 34,
+        "model_call_phase2": 9
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "[Moves]:\nDown, Down, Right, Up, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 34,
+        "model_call_phase1": 34,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "[Moves]:\nLeft, Left, Down, Right, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 114,
+        "model_call_phase1": 79,
+        "model_call_phase2": 35
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "[Moves]:\nLeft, Down, Down, Right, Up, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 77,
+        "model_call_phase1": 53,
+        "model_call_phase2": 24
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Down, Right, Up, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 84,
+        "model_call_phase1": 48,
+        "model_call_phase2": 36
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Down, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 26,
+        "model_call_phase1": 26,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "[Moves]:\nDown, Right, Right, Up, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Right, Down, Left, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 64,
+        "model_call_phase1": 43,
+        "model_call_phase2": 21
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "[Moves]:\nRight, Down, Down, Left, Up, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 72,
+        "model_call_phase1": 60,
+        "model_call_phase2": 12
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "[Moves]:\nLeft, Up, Right, Right, Down, Left, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 33,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "[Moves]:\nRight, Up, Up, Left, Down, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 28,
+        "model_call_phase1": 28,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Right, Up, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 32,
+        "model_call_phase1": 32,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Right, Down, Left, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 44,
+        "model_call_phase1": 26,
+        "model_call_phase2": 18
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 91,
+        "model_call_phase1": 64,
+        "model_call_phase2": 27
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "[Moves]:\nUp, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "[Moves]:\nLeft, Down, Down, Right, Right, Up, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 49,
+        "model_call_phase1": 47,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "[Moves]:\nLeft, Right, Up, Right, Down, Left, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 47,
+        "model_call_phase1": 26,
+        "model_call_phase2": 21
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "[Moves]:\nRight, Right, Down, Down, Left, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 66,
+        "model_call_phase1": 27,
+        "model_call_phase2": 39
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "[Moves]:\nDown, Right, Right, Up, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 38,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "[Moves]:\nDown, Down, Right, Up, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 73,
+        "model_call_phase1": 49,
+        "model_call_phase2": 24
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "[Moves]:\nDown, Left, Down, Right, Up, Right, Up, Left, Left"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 120,
+        "model_call_phase1": 46,
+        "model_call_phase2": 74
+    }
+]

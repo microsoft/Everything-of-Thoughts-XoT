@@ -1,0 +1,1430 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "[Moves]:\nLeft, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "[Moves]:\nRight, Up, Left, Down, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "[Moves]:\nRight, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Down, Down, Right, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Down, Right, Up, Left, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "[Moves]:\nRight, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Down, Right, Up, Left, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Down, Left, Left, Up, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "[Moves]:\nRight, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "[Moves]:\nRight, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Down, Right, Up, Left, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "[Moves]:\nRight, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "[Moves]:\nRight, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Up, Up, Left, Down, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "[Moves]:\nRight, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "[Moves]:\nDown, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "[Moves]:\nRight, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Down, Right, Up, Left, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Down, Right, Up, Left, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "[Moves]:\nLeft, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "[Moves]:\nUp"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "[Moves]:\nLeft, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "[Moves]:\nRight, Up, Left, Down, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "[Moves]:\nLeft, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "[Moves]:\nDown, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Down, Left, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "[Moves]:\nRight, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "[Moves]:\nRight"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Left, Down, Right, Up, Left, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "[Moves]:\nRight, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Up, Left, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "[Moves]:\nRight, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Right, Up, Left, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "[Moves]:\nRight, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "[Moves]:\nUp, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "[Moves]:\nDown, Right, Down, Left, Up, Left, Down, Right, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "[Moves]:\nDown, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "[Moves]:\nDown, Right, Down, Left, Up, Left, Down, Right, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "[Moves]:\nDown, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Down, Left, Left, Up, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "[Moves]:\nRight, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "[Moves]:\nDown, Right, Up, Right, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "[Moves]:\nUp, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "[Moves]:\nRight, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "[Moves]:\nRight, Down, Right, Down, Left, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "[Moves]:\nRight, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": null
+            }
+        ]
+    }
+]

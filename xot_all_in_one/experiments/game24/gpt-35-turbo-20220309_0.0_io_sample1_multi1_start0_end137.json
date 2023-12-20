@@ -1,0 +1,3226 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 9) * 6 * 3 = 24\n[Solution]\nAnswer: (6 + 3) * (11 - 9) = 24\n[Solution]\nAnswer: (11 + 3) - (9 + 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "[Solution]\nAnswer: (10 - 8) * (10 + 3) = 24\n[Solution]\nAnswer: (8 + 10) - (10 / 3) = 24\n[Solution]\nAnswer: (10 * 3) - (8 + 10) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 7) * (4 + 2) = 24\n[Solution]\nAnswer: (11 + 7) - (4 * 2) = 24\n[Solution]\nAnswer: (7 - 2) * (11 - 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "[Solution]\nAnswer: (8 - 2) * (10 - 8) * 8 = 24\n[Solution]\nAnswer: (10 - 8) * (8 * 2) = 24\n[Solution]\nAnswer: (8 + 2) * (10 / 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 4) * (7 - 6) * 6 = 24\n[Solution]\nAnswer: (7 + 7) - (6 * 4) = 24\n[Solution]\nAnswer: (7 - 6) * (7 * 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "[Solution]\nAnswer: (3 + 3) * (10 - 6) = 24\n[Solution]\nAnswer: (6 / 3) * (10 - 3) = 24\n[Solution]\nAnswer: (10 - 6) * (3 * 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 1) * (6 - 4) = 24\n[Solution]\nAnswer: (4 + 6) * (7 - 1) / 5 = 24\n[Solution]\nAnswer: (7 * 4) - (6 * 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "[Solution]\nAnswer: (3 + 4 + 5) * 6/6 = 24\n[Solution]\nAnswer: (5 - 3) * 4 * 6/6 = 24\n[Solution]\nAnswer: (6 - 4) * (5 + 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "[Solution]\nAnswer: (10 - 7) * (5 + 4) = 24\n[Solution]\nAnswer: (5 * 4) + (10 - 7) = 24\n[Solution]\nAnswer: (10 + 4) - (7 / 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "[Solution]\nAnswer: (10 - 5) * (12 - 10) * 10 = 24\n[Solution]\nAnswer: (10 + 10 - 5) * 12 / 10 = 24\n[Solution]\nAnswer: (10 * 10 - 12) / 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "[Solution]\nAnswer: (6 + 6) * (12 / 9) = 24\n[Solution]\nAnswer: (9 - 6) * 6 * 12 = 24\n[Solution]\nAnswer: (6 * 9) / (12 / 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "[Solution]\nAnswer: (8 - 5) * (8 + 3) = 24\n[Solution]\nAnswer: (8 * 3) - (8 / 5) = 24\n[Solution]\nAnswer: (5 + 8) + (8 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 7) * (12 - 7) = 24\n[Solution]\nAnswer: (7 + 7) * (12 / 11) = 24\n[Solution]\nAnswer: (12 - 11) * (7 * 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "[Solution]\nAnswer: (6 + 7) * (10 / 2) = 24\n[Solution]\nAnswer: (7 - 2) * (10 - 6) = 24\n[Solution]\nAnswer: (10 + 2) + (7 - 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "[Solution]\nAnswer: (4 + 4) * (7 - 5) * 5 = 24\n[Solution]\nAnswer: (7 - 5) * (4 * 4 + 5) = 24\n[Solution]\nAnswer: (7 - 4) * (5 - 4) * 4 * 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 5) * (6 - 4) = 24\n[Solution]\nAnswer: (4 + 5) * (13 / 6) = 24\n[Solution]\nAnswer: (13 - 4) - (6 - 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 5) * 4 * 2 = 24\n[Solution]\nAnswer: (5 + 2) * 4 - 5 = 24\n[Solution]\nAnswer: (7 - 5) * (4 + 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 4) * (8 / 2) = 24\n[Solution]\nAnswer: (2 + 4) * (11 - 8) = 24\n[Solution]\nAnswer: (11 - 2) * (8 / 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 3) * (12 - 3 - 3) = 24\n[Solution]\nAnswer: (3 + 3) * (12 - 7) = 30\n[Solution]\nAnswer: (12 / 3) * (7 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 2) - (5 + 5) = 24\n[Solution]\nAnswer: (5 * 2) * (12 / 5) = 24\n[Solution]\nAnswer: (12 / (5 - 2)) * 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 3) * (3 + 1) = 24\n[Solution]\nAnswer: (3 + 1) * (7 - 3) = 24\n[Solution]\nAnswer: (7 * 3) - (3 * 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "[Solution]\nAnswer: (9 - 4) * (9 - 2) = 24\n[Solution]\nAnswer: (2 + 4) * (9 - 9/9) = 24\n[Solution]\nAnswer: (9 + 2) * (9 - 4 - 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "[Solution]\nAnswer: (4 + 5) * (6 - 7/5) = 24\n[Solution]\nAnswer: (7 - 5) * (4 * 6) = 24\n[Solution]\nAnswer: (5 + 6) * (7/4 + 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 4) * (12 / 9) = 24\n[Solution]\nAnswer: (9 + 12) - (12 / 4) = 24\n[Solution]\nAnswer: (12 / 4) * (9 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "[Solution]\nAnswer: (1 + 1) * 6 * 9 = 108\nThis input does not have any solution to obtain 24 using basic arithmetic operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "[Solution]\nAnswer: (10 - 8) * (2 * 3) = 24\n[Solution]\nAnswer: (8 + 2) * (10 / 3) = 24\n[Solution]\nAnswer: (10 - 2) * (8 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "[Solution]\nAnswer: (9 - 9 + 12) * 12 = 24\n[Solution]\nAnswer: (9 * 12) / (9 + 12) = 24\n[Solution]\nAnswer: (12 - 9) * (12 + 9) / 9 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "[Solution]\nAnswer: (2 + 2) * 6 * 10 / 2 = 24\n[Solution]\nAnswer: (10 - 6) * 2 * 2 + 6 = 24\n[Solution]\nAnswer: (10 - 2) / 2 * 6 * 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 6) * (12 - 3) / 3 = 24\n[Solution]\nAnswer: (12 - 6) * (11 - 3) / 3 = 24\n[Solution]\nAnswer: (11 + 3) * (12 - 6) / 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 7) * (11 - 3) / 3 = 24\n[Solution]\nAnswer: (11 + 11) - (7 + 3) = 24\n[Solution]\nAnswer: (11 * 3) - (11 - 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 3) * (9 - 8) * 8 = 24\n[Solution]\nAnswer: (9 - 7) * (8 + 3) = 24\n[Solution]\nAnswer: (8 * 3) - (9 - 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "[Solution]\nAnswer: (12 / 4 + 1) * 12 = 24\n[Solution]\nAnswer: (12 * (4 * 1)) - 12 = 24\n[Solution]\nAnswer: ((12 * 4) - 12) * 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "[Solution]\nAnswer: (5 + 5) * (6 - 4) = 24\n[Solution]\nAnswer: (4 * 5) + (5 - 6) = 24\n[Solution]\nAnswer: (5 - 4) * (5 * 6) = 30 (not 24, but closest possible answer using given numbers and operations)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "[Solution]\nAnswer: (2 + 3) * 6 * 12 = 24\n[Solution]\nAnswer: (12 - 6) * (3 - 2) * 2 = 24\n[Solution]\nAnswer: 2 * 3 * (12 - 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 1) * 3 - 6 = 24\n[Solution]\nAnswer: (6 + 1) * 3 + 6 = 24\n[Solution]\nAnswer: (7 - 3) * 6 / 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "[Solution]\nAnswer: (9 - 3) * (12 - 10) = 24\n[Solution]\nAnswer: (10 + 3) * (12 / 9) = 24\n[Solution]\nAnswer: (12 - 9) * (10 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "[Solution]\nAnswer: (9 - 7) * (4 + 3) = 24\n[Solution]\nAnswer: (7 - 3) * (9 - 4) = 24\n[Solution]\nAnswer: (9 * 3) - (7 * 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 10) * (4 * 8) = 24\n[Solution]\nAnswer: (10 + 4) * (11 - 8) = 24\n[Solution]\nAnswer: (11 + 4) - (10 - 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "[Solution]\nAnswer: (8 - 6) * 8 * 9 = 144\n144 / 6 = 24\n[Solution]\nAnswer: (8 + 8) * (9 - 6) = 24\n[Solution]\nAnswer: (9 * 8) / (8 - 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 6) * (13 - 8) = 24\n[Solution]\nAnswer: (8 + 6) * (13 - 11) = 24\n[Solution]\nAnswer: (13 - 11) * (8 - 6) * 24 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 5) * (13 - 8) = 24\n[Solution]\nAnswer: (8 + 13) - (11 / 5) = 24\n[Solution]\nAnswer: (13 - 11) * (8 + 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 7) * (12 / 5) = 24\n[Solution]\nAnswer: (5 * 7) - (12 - 12) = 24\n[Solution]\nAnswer: (12 + 12) / (7 - 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "[Solution]\nAnswer: (2 + 2) * (2 + 5) = 24\n[Solution]\nAnswer: (5 - 2) * (2 * 2) = 24\n[Solution]\nAnswer: (2 * 2 * 5) - 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 6) * (7 - 1) = 24\n[Solution]\nAnswer: (6 + 1) * (12 / 5) = 24\n[Solution]\nAnswer: (12 - 7) * (6 - 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "[Solution]\nAnswer: (2 + 2) * 7 * 8 / 2 = 24\n[Solution]\nAnswer: (8 - 2) * (7 - 2) - 2 = 24\n[Solution]\nAnswer: (7 + 2) * 2 + 8 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 7) * (8 - 4) = 24\n[Solution]\nAnswer: (7 + 8) + (11 - 4) = 24\n[Solution]\nAnswer: (11 - 7) * (8 / 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "[Solution]\nAnswer: (4 + 4) * (5 + 6) / 5 = 24\n[Solution]\nAnswer: (6 - 4) * (5 * 4) = 24\n[Solution]\nAnswer: (5 + 6) * (4 - 4/5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "[Solution]\nAnswer: (6 - 2) * (6 + 5) / 5 = 24\n[Solution]\nAnswer: (2 + 5) * 6 - 6 = 24\n[Solution]\nAnswer: (6 * 5) - (6 / 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "[Solution]\nAnswer: (8 - 3) * (9 - 1) = 24\n[Solution]\nAnswer: (9 - 1) * (8 - 3) = 24\n[Solution]\nAnswer: (8 + 1) * (9 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 7) * (7 - 4) = 24\n[Solution]\nAnswer: (7 + 7 - 4) * 11 = 24\n[Solution]\nAnswer: (11 + 7 - 7) * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "[Solution]\nAnswer: (2 + 3) * 3 * 6 = 54\n[Solution]\nAnswer: (6 / 3) * (2 + 3) * 3 = 30\n[Solution]\nAnswer: (3 + 3) * (6 - 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 9) * (4 - 2) = 8 * 2 = 16, then 16 * 9 / 8 = 18, 18 * 2 / 2 = 18, 18 * 1 = 18, so (13 - 9) * (4 - 2) * 9 * 2 * 1 / 2 = 18 * 2 * 1 = 36\n\n[Solution]\nAnswer: (9 - 4) * (13 - 2 * 4) = 5 * 5 = 25, then 25 - 2 = 23, 23 + 2 = 25, so (9 - 4) * (13 - 2 * 4) + 2 - 2 = 25\n\n[Solution]\nAnswer: (2 + 4) * (13 - 9) = 6 * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 1,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 7) * (9 - 3) = 24\n[Solution]\nAnswer: (7 + 3) * (13 - 9) = 24\n[Solution]\nAnswer: (13 - 9) * (7 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 10) * (10 - 5) = 24\n[Solution]\nAnswer: (10 + 10 - 5) * 5 = 24\n[Solution]\nAnswer: (10 - 5) * (10 - 13) * 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 10) * (7 + 1) = 24\n[Solution]\nAnswer: (10 + 1) * (12 / 7) = 24\n[Solution]\nAnswer: (12 - 7) * (10 - 1) = 55 (not possible to obtain 24 with given numbers and operations)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 5) * (13 - 5) / 5 = 24\n[Solution]\nAnswer: (5 + 5) * (13 - 11) * 5 = 24\n[Solution]\nAnswer: (13 - 11) * (5 * 5) - 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 7) * (4 - 1) = 15 * 3 = 45\nThen, (45 / 1) = 24\n[Solution]\nAnswer: (7 - 1) * (12 / 4) = 6 * 3 = 18\nThen, 18 * (4 / 2) = 18 * 2 = 36\nThen, 36 / (1 + 4) = 36 / 5 = 7.2\nFinally, 7.2 * 3.33 = 23.976\n[Solution]\nAnswer: (12 / 4) * (7 - 1) = 3 * 6 = 18\nThen, 18 * (4 / 2) = 18 * 2 = 36\nThen, 36 / (1 + 4) = 36 / 5 = 7.2\nFinally, 7.2 * 3.33 = 23.976"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "[Solution]\nAnswer: (6 - 3) * 9 * 5 / 6 = 24\n[Solution]\nAnswer: (5 - 3) * 9 * 5 / 6 = 24\n[Solution]\nAnswer: 3 * 5 * (9 - 6) + 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "[Solution]\nAnswer: (4 + 4) * (5 - 1) = 24\n[Solution]\nAnswer: (5 * 4) - (4 * 1) = 24\n[Solution]\nAnswer: (5 + 1) * (4 + 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 7) * (4 + 4) = 24\n[Solution]\nAnswer: (7 + 4) * (13 / 4) = 24\n[Solution]\nAnswer: (13 - 4) - (7 - 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 1) * (11 - 5) = 48\nThis input does not have a solution to obtain 24 using basic arithmetic operations with the given numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 4) * (13 - 12) = 24\n[Solution]\nAnswer: (13 - 11) * (12 - 4) = 24\n[Solution]\nAnswer: (11 + 12) - (13 / 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "[Solution]\nAnswer: (2 + 2) * 5 * 8 / 2 = 24\n[Solution]\nAnswer: (8 - 2) * (5 - 2) * 2 = 24\n[Solution]\nAnswer: 2 * 5 * (8 - 2) / 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 7) * (13 - 9) = 24\n[Solution]\nAnswer: (9 + 13) - (13 - 7) = 24\n[Solution]\nAnswer: (13 + 7) - (9 + 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "[Solution]\nAnswer: (2 + 3) * (7 - 8/2) = 24\n[Solution]\nAnswer: (8 - 7) * (2 * 3) * 2 = 24\n[Solution]\nAnswer: (7 - 2) * (8 - 3 - 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "[Solution]\nAnswer: (8 - 2) * (5 - 1) = 24\n[Solution]\nAnswer: (2 + 5) * (8 - 1) / 5 = 24\n[Solution]\nAnswer: (8 * 2) - (5 * 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 11) * (12 - 10) * 10 = 240\n[Solution]\nAnswer: (13 - 10) * (12 - 11) * 10 = 30\n[Solution]\nAnswer: (13 - 12) * (11 - 10) * 10 * 10 = 1000"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "[Solution]\nAnswer: (12 / 3) * (9 - 3) = 24\n[Solution]\nAnswer: (3 + 3) * (12 - 9) = 24\n[Solution]\nAnswer: (9 + 3) - (12 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "[Solution]\nAnswer: (10 - 7) * 9 * 3 = 24\n[Solution]\nAnswer: (7 + 3) * (10 / 9) = 24\n[Solution]\nAnswer: (9 + 3) + (10 - 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "[Solution]\nAnswer: (12 / 3) * (3 + 2) = 24\n[Solution]\nAnswer: (2 + 3) * (12 - 3) / 3 = 24\n[Solution]\nAnswer: (12 - 2 * 3) * 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 1) - 10 + 3 = 3\nThen, 3 * 10 - 1 = 29\nFinally, 29 + 1 = 30\nTherefore, there is no solution to obtain 24 with the given numbers and operations."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "[Solution]\nAnswer: (3 + 3) * (6 + 8) = 24\n[Solution]\nAnswer: (8 - 6) * (3 * 3) = 24\n[Solution]\nAnswer: (6 / 3) * (8 + 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 7) * (13 - 7) = 24\n[Solution]\nAnswer: (7 + 7) * (13 - 11) = 24\n[Solution]\nAnswer: (13 - 11) * (7 + 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 7) * (8 - 8) = 0 (This is the only solution. It is not possible to obtain 24 with these numbers and basic arithmetic operations.)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 9) * (9 - 3) = 24\n[Solution]\nAnswer: (9 + 3) * (13 - 9) / 9 = 24\n[Solution]\nAnswer: (13 - 9) * (9 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "[Solution]\nAnswer: (8 - 3) * (10 - 3) / 3 = 24\n[Solution]\nAnswer: (10 - 8) * (3 * 3) * 3 = 24\n[Solution]\nAnswer: (8 + 3) * (10 / 3 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 3) * (1 + 1) = 24\n[Solution]\nAnswer: (13 + 1) - (3 + 1) = 24\n[Solution]\nAnswer: (13 / (3 - 1)) * 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 12) * (6 + 1) = 24\n[Solution]\nAnswer: (12 / 6) * (13 - 1) = 24\n[Solution]\nAnswer: (13 - 1) - (12 - 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 9) * (6 + 6) = 24\n[Solution]\nAnswer: (6 * 6) - (13 - 9) = 24\n[Solution]\nAnswer: (9 + 6) + (13 - 6 * 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 7) * (13 - 1) / 13 = 24\n[Solution]\nAnswer: (13 - 1) / (13 / 7) + 13 = 24\n[Solution]\nAnswer: (13 - 7) * (13 - 1) % 7 = 24 (using modulo operator)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 9) * (12 - 2) / 2 = 24\n[Solution]\nAnswer: (9 + 2) * (13 - 12) * 12 = 24\n[Solution]\nAnswer: (13 - 2) * (12 / 9) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 3) * (9 - 1) = 24\n[Solution]\nAnswer: (9 - 7) * (3 + 1) * 1 = 24\n[Solution]\nAnswer: (7 + 1) * (9 - 3) / 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "[Solution]\nAnswer: (5 - 3) * 7 * 3 = 24\n[Solution]\nAnswer: (7 - 5) * (3 * 3) = 24\n[Solution]\nAnswer: (5 + 3) * (7 / 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 6) * (11 - 3) / 3 = 24\n[Solution]\nAnswer: (11 + 11) - (6 + 3) = 24\n[Solution]\nAnswer: (11 * 3) - (11 - 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "[Solution]\nAnswer: (9 - 2) * (10 + 10) = 180\nNote: There is no solution using basic arithmetic operations to obtain exactly 24 with these input numbers."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 3) * (4 + 1) = 24\n[Solution]\nAnswer: (7 - 1) * (4 - 3) * 3 = 24\n[Solution]\nAnswer: (7 - 4) * (3 + 1) * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 5) * (12 - 8) = 24\n[Solution]\nAnswer: (8 + 12) - (11 - 5) = 24\n[Solution]\nAnswer: (5 * 8) - (12 - 11) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "[Solution]\nAnswer: (8 + 8 - 1) * 8 = 120\nNote: There is no solution using basic arithmetic operations to obtain 24 with the given input."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 7) * (12 / 3) = 24\n[Solution]\nAnswer: (7 + 3) * (13 - 12) = 24\n[Solution]\nAnswer: (13 - 3) * (12 / 7) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "[Solution]\nAnswer: (12 / 3) * (12 - 9) = 24\n[Solution]\nAnswer: (9 + 3) * (12 / 12) * 5 = 24\n[Solution]\nAnswer: (12 - 9) * (12 / 3) * 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "[Solution]\nAnswer: (3 + 4) * (5 - 7) * 7 = 24\n[Solution]\nAnswer: (7 - 5) * (4 + 3) * 5 = 24\n[Solution]\nAnswer: (7 - 3) * (5 - 4) * 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 2) * (13 - 11) = 24\n[Solution]\nAnswer: (11 + 11 - 13) * 2 = 24\n[Solution]\nAnswer: (13 - 11) * (11 - 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 11) * (6 + 1) = 24\n[Solution]\nAnswer: (11 - 6) * (12 - 1) / 5 = 24\n[Solution]\nAnswer: (12 - 6) * (11 - 1) / 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 3) * (6 / 4) = 24\n[Solution]\nAnswer: (4 + 6) * (11 - 3) / 11 = 24\n[Solution]\nAnswer: (11 - 4) * (6 - 3) = 21 * 4 / 3 = 28 (then subtract 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "[Solution]\nAnswer: (10 - 1) * (10 / 3) = 24\n[Solution]\nAnswer: (10 + 1) * (10 / 3) = 33.33 (rounded to 24)\n[Solution]\nAnswer: (10 * 3) - (10 - 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "[Solution]\nAnswer: (5 + 5) * (6 - 7/5) = 24\n[Solution]\nAnswer: (5 * 5) - (6 - 7) = 24\n[Solution]\nAnswer: (5 + 7) * (6/5 + 5/5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 7) * (4 + 3) = 24\n[Solution]\nAnswer: (11 + 3) - (7 - 4) = 24\n[Solution]\nAnswer: (7 - 3) * (11 - 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "[Solution]\nAnswer: (4 + 6) * (12 / 5) = 24\n[Solution]\nAnswer: (5 - 4) * 6 * 12 = 24\n[Solution]\nAnswer: (12 - 6) * (5 - 4) * 4 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 10) * (6 - 5) * 5 = 24\n[Solution]\nAnswer: (10 + 6) - (13 / 5) = 24\n[Solution]\nAnswer: (5 * 6) - (10 / 13) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "[Solution]\nAnswer: (10 - 4) * (10 - 4) / 4 = 24\n[Solution]\nAnswer: (4 + 4) * (10 - 10/4) = 24\n[Solution]\nAnswer: (10 + 10) - (4 * 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 7) * (3 - 2) * 2 = 24\n[Solution]\nAnswer: (13 - 7) * (2 + 3) = 24\n[Solution]\nAnswer: (7 + 2) * (13 / 3 - 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 6) * (11 - 8) = 15 * 3 = 45 = 24 (by dividing by 5/8)\n[Solution]\nAnswer: (11 + 6) + (11 - 8) = 17 + 3 = 20 + 4 = 24\n[Solution]\nAnswer: (11 * 8) / (11 - 6) = 88 / 5 = 17.6 (by multiplying by 5/5)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "[Solution]\nAnswer: (6 + 6) * (10 / 5) = 24\n[Solution]\nAnswer: (5 * 6) - (10 / 6) = 24\n[Solution]\nAnswer: (10 - 6) * (6 / 5) * 5 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "[Solution]\nAnswer: (6 + 6) * (11 - 6) / 6 = 24\n[Solution]\nAnswer: (11 - 6) * (6 - 6) + 6 = 24\n[Solution]\nAnswer: (6 * 6) - (11 - 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 10) * (2 + 1) = 24\n[Solution]\nAnswer: (10 + 2) + (13 - 1) = 24\n[Solution]\nAnswer: (13 - 1) - (10 - 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 10) * (12 - 8) = 24\n[Solution]\nAnswer: (8 + 10) * (13 - 12) = 24\n[Solution]\nAnswer: (13 + 8) - (12 - 10) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 2) * (10 / 2) = 45\n[Solution]\nAnswer: (2 + 2) * (11 - 10) * 10 = 40\n[Solution]\nAnswer: (11 - 2) * (10 - 2) / 2 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 2 * 2) * 5 = 45 (This is the closest we can get to 24 with these numbers and operations. There is no solution that equals exactly 24.)"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 7) * (13 - 5) / 5 = 24\n[Solution]\nAnswer: (13 - 7) * (13 - 5) / 5 = 24\n[Solution]\nAnswer: (13 + 7) - (13 / 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 2) * (6 / 2) = 24\n[Solution]\nAnswer: (2 + 2) * (11 - 6) = 24\n[Solution]\nAnswer: (11 + 2) - (6 * 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 6) * (11 - 9) = 24\n[Solution]\nAnswer: (9 + 6) * (12 - 11) = 24\n[Solution]\nAnswer: (11 + 6 - 9) * 12 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "[Solution]\nAnswer: (8 - 2) * (8 / 6) = 24\n[Solution]\nAnswer: (6 + 8) * (8 / 2) = 24\n[Solution]\nAnswer: (8 * 2) + (8 / 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "[Solution]\nAnswer: (5 - 2) * 4 * 1 = 12\nThen, 12 * 2 = 24."
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "[Solution]\nAnswer: (1 + 2) * 6 * 8 = 24\n[Solution]\nAnswer: (8 - 2) * (6 - 1) = 24\n[Solution]\nAnswer: (6 / 2) * (8 + 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "[Solution]\nAnswer: (1 + 2) * (4 + 8) = 33\n[Solution]\nAnswer: (8 - 4) * (2 + 1) = 12\n[Solution]\nAnswer: (8 / 4) * (2 * 1) = 4"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "[Solution]\nAnswer: (5 + 5) * (6 - 3) = 24\n[Solution]\nAnswer: (5 - 3) * (5 * 6) = 24\n[Solution]\nAnswer: (5 * 6) / (5 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "[Solution]\nAnswer: (2 + 2) * (5 + 1) = 24\n[Solution]\nAnswer: (5 - 2) * (2 + 1) * 2 = 24\n[Solution]\nAnswer: (5 * 2) - (2 * 1) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "[Solution]\nAnswer: (10 - 8) * (9 + 3) = 24\n[Solution]\nAnswer: (8 + 9) - (10 / 3) = 24\n[Solution]\nAnswer: (10 * 3) - (9 * 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "[Solution]\nAnswer: (8 - 2) * (8 / 5) = 24\n[Solution]\nAnswer: (5 + 8) * (8 / 2) = 24\n[Solution]\nAnswer: (8 * 2) + (5 - 8) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "[Solution]\nAnswer: (8 - 4) * (7 - 5) = 8\n[Solution]\nAnswer: (5 + 7) + (8 - 5) = 24\n[Solution]\nAnswer: (8 * 5) / (7 - 4) = 40"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 5) * (7 - 4) = 24\n[Solution]\nAnswer: (5 + 7) * (11 / 4) = 24\n[Solution]\nAnswer: (11 - 7) * (5 + 4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 5) * (13 - 6) / 5 = 24\n[Solution]\nAnswer: (13 - 6) * (13 - 5) / 5 = 24\n[Solution]\nAnswer: 13 - (6 / 5) * (13 - 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 5) * (10 - 1) / 5 = 24\n[Solution]\nAnswer: (10 + 1) * (13 - 5) / 5 = 24\n[Solution]\nAnswer: (13 - 10) * (5 * 1) * 1 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 7) * (6 - 5) * 5 = 24\n[Solution]\nAnswer: (5 + 7) * (13 - 6 - 5) = 24\n[Solution]\nAnswer: (13 - 5) - (7 - 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "[Solution]\nAnswer: (9 - 5) * (4 + 2) = 24\n[Solution]\nAnswer: (5 * 4) - (9 - 2) = 24\n[Solution]\nAnswer: (9 + 5) - (4 * 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "[Solution]\nAnswer: (7 - 3) * (6 - 2) = 24\n[Solution]\nAnswer: (2 + 3) * 6 - 7 = 24\n[Solution]\nAnswer: (7 - 2) * (6 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 7) * (12 - 1) / 12 = 24\n[Solution]\nAnswer: (12 / 12 + 1) * 7 * 12 = 24\n[Solution]\nAnswer: (12 - 1) * (12 / 7 - 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "[Solution]\nAnswer: (6 + 6) * (9 - 5) = 24\n[Solution]\nAnswer: (5 * 6) - 6 + 9 = 24\n[Solution]\nAnswer: (9 - 5) * (6 / 6 + 5) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "[Solution]\nAnswer: (10 - 5) * (3 + 1) = 24\n[Solution]\nAnswer: (5 + 1) * (10 - 3) = 24\n[Solution]\nAnswer: (10 + 1) - (5 * 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "[Solution]\nAnswer: (13 - 10) * (10 - 6) = 24\n[Solution]\nAnswer: (10 + 10 - 6) * 13 / 10 = 24\n[Solution]\nAnswer: (10 - 6) * (10 - 13) * 24 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 8) * (12 - 2) = 24\n[Solution]\nAnswer: (2 + 8) * (11 - 12/2) = 24\n[Solution]\nAnswer: (12 - 11) * (8 * 2) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 10) * (2 + 1) = 24\n[Solution]\nAnswer: (1 + 2) * 10 - 11 = 24\n[Solution]\nAnswer: (11 - 1 - 2) * 10 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "[Solution]\nAnswer: (12 / 3) * (6 - 5) = 24\n[Solution]\nAnswer: (5 + 6) * 3 - 12 = 24\n[Solution]\nAnswer: (12 - 6) * (5 - 3) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "[Solution]\nAnswer: (12 - 11) * (10 + 1) = 24\n[Solution]\nAnswer: (10 + 1) * (12 - 10) * 1 = 24\n[Solution]\nAnswer: (11 - 1) * (12 / 10) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "[Solution]\nAnswer: (4 + 4) * (7 - 4/4) = 24\n[Solution]\nAnswer: (4 * 4) - (7 - 4) = 24\n[Solution]\nAnswer: (7 - 4) * (4 + 4/4) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "[Solution]\nAnswer: (11 - 8) * 10 * 3 = 24\n[Solution]\nAnswer: (10 + 3) * (11 - 8) = 24\n[Solution]\nAnswer: (11 + 8 - 10) * 3 = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "[Solution]\nAnswer: (6 + 6) * (10 - 7) = 24\n[Solution]\nAnswer: (7 - 6) * (6 * 10) = 24\n[Solution]\nAnswer: (10 - 7) * (6 + 6) = 24"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    }
+]

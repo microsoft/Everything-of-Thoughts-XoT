@@ -1,0 +1,2747 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "[Restoration Moves]:\nF' U U F2 R' U U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 427,
+        "model_call_phase1": 35,
+        "model_call_phase2": 392
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "[Restoration Moves]:\nU' U R2 R' U U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 117,
+        "model_call_phase1": 31,
+        "model_call_phase2": 86
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "[Restoration Moves]:\nF' F F2 R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 12,
+        "model_call_phase1": 12,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "[Restoration Moves]:\nR2 F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "[Restoration Moves]:\nF F F R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "[Restoration Moves]:\nU U U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "[Restoration Moves]:\nF' U U U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 340,
+        "model_call_phase1": 35,
+        "model_call_phase2": 305
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "[Restoration Moves]:\nR' R2 U F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 83,
+        "model_call_phase1": 37,
+        "model_call_phase2": 46
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "[Restoration Moves]:\nU R' R2 U R' U U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 569,
+        "model_call_phase1": 31,
+        "model_call_phase2": 538
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "[Restoration Moves]:\nF2 R U U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 88,
+        "model_call_phase1": 34,
+        "model_call_phase2": 54
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "[Restoration Moves]:\nR' F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "[Restoration Moves]:\nF2 U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 32,
+        "model_call_phase1": 31,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "[Restoration Moves]:\nR' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "[Restoration Moves]:\nU2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "[Restoration Moves]:\nF F U U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 31,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "[Restoration Moves]:\nU R' F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "[Restoration Moves]:\nU U U R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 15,
+        "model_call_phase1": 15,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "[Restoration Moves]:\nU R' R2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "[Restoration Moves]:\nF' F' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 34,
+        "model_call_phase1": 34,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "[Restoration Moves]:\nU' U' R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 9,
+        "model_call_phase1": 9,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "[Restoration Moves]:\nR' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "[Restoration Moves]:\nU' R' R' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "[Restoration Moves]:\nU U F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "[Restoration Moves]:\nR' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "[Restoration Moves]:\nF R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "[Restoration Moves]:\nU' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "[Restoration Moves]:\nR' U U R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 59,
+        "model_call_phase1": 35,
+        "model_call_phase2": 24
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "[Restoration Moves]:\nF2 F U U F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 53,
+        "model_call_phase1": 28,
+        "model_call_phase2": 25
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "[Restoration Moves]:\nU' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "[Restoration Moves]:\nU R2 U2 R' U' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 542,
+        "model_call_phase1": 31,
+        "model_call_phase2": 511
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "[Restoration Moves]:\nU U F' R' F' F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 412,
+        "model_call_phase1": 34,
+        "model_call_phase2": 378
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "[Restoration Moves]:\nF U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "[Restoration Moves]:\nU' F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "[Restoration Moves]:\nF F U' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 31,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "[Restoration Moves]:\nU2 R' R' U F R' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 611,
+        "model_call_phase1": 34,
+        "model_call_phase2": 577
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "[Restoration Moves]:\nU U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "[Restoration Moves]:\nU R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "[Restoration Moves]:\nR U' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 54,
+        "model_call_phase1": 31,
+        "model_call_phase2": 23
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "[Restoration Moves]:\nF2 R' U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 30,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "[Restoration Moves]:\nR' R' F U U R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 101,
+        "model_call_phase1": 29,
+        "model_call_phase2": 72
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "[Restoration Moves]:\nF' U R' R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 98,
+        "model_call_phase1": 34,
+        "model_call_phase2": 64
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "[Restoration Moves]:\nR' U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "[Restoration Moves]:\nU U U F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 33,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "[Restoration Moves]:\nR' R2 F R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 91,
+        "model_call_phase1": 32,
+        "model_call_phase2": 59
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "[Restoration Moves]:\nR' R2 U U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 56,
+        "model_call_phase1": 30,
+        "model_call_phase2": 26
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "[Restoration Moves]:\nU2 F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 30,
+        "model_call_phase1": 30,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "[Restoration Moves]:\nR2 R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 51,
+        "model_call_phase1": 33,
+        "model_call_phase2": 18
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "[Restoration Moves]:\nR' R' F2 U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 349,
+        "model_call_phase1": 34,
+        "model_call_phase2": 315
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "[Restoration Moves]:\nF'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "[Restoration Moves]:\nU U F' R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 101,
+        "model_call_phase1": 34,
+        "model_call_phase2": 67
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "[Restoration Moves]:\nR' R' R' F U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 80,
+        "model_call_phase1": 32,
+        "model_call_phase2": 48
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "[Restoration Moves]:\nR2 U R' U F R' U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 596,
+        "model_call_phase1": 34,
+        "model_call_phase2": 562
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "[Restoration Moves]:\nU F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "[Restoration Moves]:\nF' R' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 11,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "[Restoration Moves]:\nF2 R2 F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 47,
+        "model_call_phase1": 32,
+        "model_call_phase2": 15
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "[Restoration Moves]:\nU F R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 52,
+        "model_call_phase1": 35,
+        "model_call_phase2": 17
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "[Restoration Moves]:\nR2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "[Restoration Moves]:\nU U R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "[Restoration Moves]:\nU"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "[Restoration Moves]:\nU F R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 11,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "[Restoration Moves]:\nR' U U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "[Restoration Moves]:\nF R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "[Restoration Moves]:\nR' R' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "[Restoration Moves]:\nF' R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "[Restoration Moves]:\nU F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "[Restoration Moves]:\nF' F' R' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "[Restoration Moves]:\nR2 U U F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "[Restoration Moves]:\nU U U F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "[Restoration Moves]:\nU U U F' U F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 373,
+        "model_call_phase1": 34,
+        "model_call_phase2": 339
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "[Restoration Moves]:\nU F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "[Restoration Moves]:\nU R' U R2 F R' R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 603,
+        "model_call_phase1": 34,
+        "model_call_phase2": 569
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "[Restoration Moves]:\nR U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 50,
+        "model_call_phase1": 35,
+        "model_call_phase2": 15
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "[Restoration Moves]:\nF R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "[Restoration Moves]:\nU R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 34,
+        "model_call_phase1": 34,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "[Restoration Moves]:\nR' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "[Restoration Moves]:\nU' R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "[Restoration Moves]:\nR' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "[Restoration Moves]:\nF' U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 32,
+        "model_call_phase2": 5
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "[Restoration Moves]:\nU F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "[Restoration Moves]:\nR2 F' U U R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 599,
+        "model_call_phase1": 35,
+        "model_call_phase2": 564
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "[Restoration Moves]:\nU' R' R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 8,
+        "model_call_phase1": 8,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "[Restoration Moves]:\nU U R' R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "[Restoration Moves]:\nR' U' F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "[Restoration Moves]:\nU' R' F R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "[Restoration Moves]:\nF' U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 29,
+        "model_call_phase1": 26,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "[Restoration Moves]:\nR' R' R' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "[Restoration Moves]:\nF' F' R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 13,
+        "model_call_phase1": 10,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "[Restoration Moves]:\nU F R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 35,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "[Restoration Moves]:\nF' F2 R2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 19,
+        "model_call_phase1": 19,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "[Restoration Moves]:\nU' R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 33,
+        "model_call_phase2": 2
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "[Restoration Moves]:\nR' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "[Restoration Moves]:\nF2 U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 30,
+        "model_call_phase2": 13
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "[Restoration Moves]:\nR2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "[Restoration Moves]:\nR' R' F F U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 66,
+        "model_call_phase1": 35,
+        "model_call_phase2": 31
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "[Restoration Moves]:\nU R' U F' U2 R F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 593,
+        "model_call_phase1": 34,
+        "model_call_phase2": 559
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "[Restoration Moves]:\nU U F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "[Restoration Moves]:\nR2 R' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "[Restoration Moves]:\nU U R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "[Restoration Moves]:\nU U U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 6,
+        "model_call_phase2": 4
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "[Restoration Moves]:\nU U U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 29,
+        "model_call_phase2": 8
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "[Restoration Moves]:\nR2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 23,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "[Restoration Moves]:\nF'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "[Restoration Moves]:\nR2 R' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 27,
+        "model_call_phase2": 6
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "[Restoration Moves]:\nR'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "[Restoration Moves]:\nF' U R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 127,
+        "model_call_phase1": 31,
+        "model_call_phase2": 96
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "[Restoration Moves]:\nF2 R' F' R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 71,
+        "model_call_phase1": 34,
+        "model_call_phase2": 37
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "[Restoration Moves]:\nR' U R2 F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 35,
+        "model_call_phase1": 35,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "[Restoration Moves]:\nU2 U F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "[Restoration Moves]:\nR2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "[Restoration Moves]:\nU F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "[Restoration Moves]:\nU U F2 R' R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 28,
+        "model_call_phase1": 18,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "[Restoration Moves]:\nU U U R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 21,
+        "model_call_phase1": 21,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "[Restoration Moves]:\nR U R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 117,
+        "model_call_phase1": 29,
+        "model_call_phase2": 88
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "[Restoration Moves]:\nR' U U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 11,
+        "model_call_phase1": 11,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "[Restoration Moves]:\nR' R2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 5,
+        "model_call_phase1": 5,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "[Restoration Moves]:\nR' R2 U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 32,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "[Restoration Moves]:\nF' R2 F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 46,
+        "model_call_phase1": 34,
+        "model_call_phase2": 12
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "[Restoration Moves]:\nR' R2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 119,
+        "ys": [
+            "[Restoration Moves]:\nR F U' F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 119,
+        "model_call_phase1": 33,
+        "model_call_phase2": 86
+    },
+    {
+        "idx": 120,
+        "ys": [
+            "[Restoration Moves]:\nU' R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 121,
+        "ys": [
+            "[Restoration Moves]:\nU2 U2 F' R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 12,
+        "model_call_phase1": 12,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 122,
+        "ys": [
+            "[Restoration Moves]:\nU F U U F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 348,
+        "model_call_phase1": 36,
+        "model_call_phase2": 312
+    },
+    {
+        "idx": 123,
+        "ys": [
+            "[Restoration Moves]:\nR2 U F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 37,
+        "model_call_phase1": 34,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 124,
+        "ys": [
+            "[Restoration Moves]:\nR' F U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 125,
+        "ys": [
+            "[Restoration Moves]:\nU R' R2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 36,
+        "model_call_phase1": 33,
+        "model_call_phase2": 3
+    },
+    {
+        "idx": 126,
+        "ys": [
+            "[Restoration Moves]:\nF"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 1,
+        "model_call_phase1": 1,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 127,
+        "ys": [
+            "[Restoration Moves]:\nU U F' F U2 F2 R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 425,
+        "model_call_phase1": 33,
+        "model_call_phase2": 392
+    },
+    {
+        "idx": 128,
+        "ys": [
+            "[Restoration Moves]:\nU U R' R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 27,
+        "model_call_phase1": 27,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 129,
+        "ys": [
+            "[Restoration Moves]:\nU' F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 130,
+        "ys": [
+            "[Restoration Moves]:\nU U U R' R' U R2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 585,
+        "model_call_phase1": 33,
+        "model_call_phase2": 552
+    },
+    {
+        "idx": 131,
+        "ys": [
+            "[Restoration Moves]:\nU U F'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 117,
+        "model_call_phase1": 34,
+        "model_call_phase2": 83
+    },
+    {
+        "idx": 132,
+        "ys": [
+            "[Restoration Moves]:\nF' U R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 30,
+        "model_call_phase2": 10
+    },
+    {
+        "idx": 133,
+        "ys": [
+            "[Restoration Moves]:\nF R' R' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 87,
+        "model_call_phase1": 34,
+        "model_call_phase2": 53
+    },
+    {
+        "idx": 134,
+        "ys": [
+            "[Restoration Moves]:\nR2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 135,
+        "ys": [
+            "[Restoration Moves]:\nU U R2 U U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 114,
+        "model_call_phase1": 35,
+        "model_call_phase2": 79
+    },
+    {
+        "idx": 136,
+        "ys": [
+            "[Restoration Moves]:\nU R2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 137,
+        "ys": [
+            "[Restoration Moves]:\nF2 R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 17,
+        "model_call_phase1": 17,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 138,
+        "ys": [
+            "[Restoration Moves]:\nF2 F R' U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 348,
+        "model_call_phase1": 32,
+        "model_call_phase2": 316
+    },
+    {
+        "idx": 139,
+        "ys": [
+            "[Restoration Moves]:\nF' U R' R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 59,
+        "model_call_phase1": 35,
+        "model_call_phase2": 24
+    },
+    {
+        "idx": 140,
+        "ys": [
+            "[Restoration Moves]:\nU U F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 141,
+        "ys": [
+            "[Restoration Moves]:\nR' U U R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 142,
+        "ys": [
+            "[Restoration Moves]:\nF' U R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 33,
+        "model_call_phase1": 33,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 143,
+        "ys": [
+            "[Restoration Moves]:\nF2 F R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 38,
+        "model_call_phase1": 37,
+        "model_call_phase2": 1
+    },
+    {
+        "idx": 144,
+        "ys": [
+            "[Restoration Moves]:\nU' U F F U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 281,
+        "model_call_phase1": 25,
+        "model_call_phase2": 256
+    },
+    {
+        "idx": 145,
+        "ys": [
+            "[Restoration Moves]:\nU U R' R' U F2 U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 588,
+        "model_call_phase1": 36,
+        "model_call_phase2": 552
+    },
+    {
+        "idx": 146,
+        "ys": [
+            "[Restoration Moves]:\nU U F' U U R' U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 592,
+        "model_call_phase1": 37,
+        "model_call_phase2": 555
+    },
+    {
+        "idx": 147,
+        "ys": [
+            "[Restoration Moves]:\nR2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 148,
+        "ys": [
+            "[Restoration Moves]:\nF' U' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 42,
+        "model_call_phase1": 35,
+        "model_call_phase2": 7
+    },
+    {
+        "idx": 149,
+        "ys": [
+            "[Restoration Moves]:\nR2 R'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 150,
+        "ys": [
+            "[Restoration Moves]:\nU U F' U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 45,
+        "model_call_phase1": 37,
+        "model_call_phase2": 8
+    },
+    {
+        "idx": 151,
+        "ys": [
+            "[Restoration Moves]:\nR' F R' U U F U F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 569,
+        "model_call_phase1": 34,
+        "model_call_phase2": 535
+    },
+    {
+        "idx": 152,
+        "ys": [
+            "[Restoration Moves]:\nF2 U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 40,
+        "model_call_phase1": 29,
+        "model_call_phase2": 11
+    },
+    {
+        "idx": 153,
+        "ys": [
+            "[Restoration Moves]:\nU R' F' R' U F2 U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 601,
+        "model_call_phase1": 35,
+        "model_call_phase2": 566
+    },
+    {
+        "idx": 154,
+        "ys": [
+            "[Restoration Moves]:\nR2 U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 155,
+        "ys": [
+            "[Restoration Moves]:\nU R' U R' U U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 599,
+        "model_call_phase1": 33,
+        "model_call_phase2": 566
+    },
+    {
+        "idx": 156,
+        "ys": [
+            "[Restoration Moves]:\nU U F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 157,
+        "ys": [
+            "[Restoration Moves]:\nR' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 158,
+        "ys": [
+            "[Restoration Moves]:\nU U F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 159,
+        "ys": [
+            "[Restoration Moves]:\nU R2 F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 160,
+        "ys": [
+            "[Restoration Moves]:\nU F F R2 F2"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 85,
+        "model_call_phase1": 36,
+        "model_call_phase2": 49
+    },
+    {
+        "idx": 161,
+        "ys": [
+            "[Restoration Moves]:\nU U F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 31,
+        "model_call_phase1": 31,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 162,
+        "ys": [
+            "[Restoration Moves]:\nU R' U' F R' F"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 603,
+        "model_call_phase1": 35,
+        "model_call_phase2": 568
+    },
+    {
+        "idx": 163,
+        "ys": [
+            "[Restoration Moves]:\nR2 F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 3,
+        "model_call_phase1": 3,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 164,
+        "ys": [
+            "[Restoration Moves]:\nU U R' R' R' U R'"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 612,
+        "model_call_phase1": 32,
+        "model_call_phase2": 580
+    },
+    {
+        "idx": 165,
+        "ys": [
+            "[Restoration Moves]:\nR2 U R' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 305,
+        "model_call_phase1": 38,
+        "model_call_phase2": 267
+    },
+    {
+        "idx": 166,
+        "ys": [
+            "[Restoration Moves]:\nF' U U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 10,
+        "model_call_phase1": 10,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 167,
+        "ys": [
+            "[Restoration Moves]:\nR' R' U F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 4,
+        "model_call_phase1": 4,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 168,
+        "ys": [
+            "[Restoration Moves]:\nR' R' R' F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 169,
+        "ys": [
+            "[Restoration Moves]:\nR' R' F' U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 334,
+        "model_call_phase1": 38,
+        "model_call_phase2": 296
+    },
+    {
+        "idx": 170,
+        "ys": [
+            "[Restoration Moves]:\nR' F2 U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 388,
+        "model_call_phase1": 36,
+        "model_call_phase2": 352
+    },
+    {
+        "idx": 171,
+        "ys": [
+            "[Restoration Moves]:\nU F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 172,
+        "ys": [
+            "[Restoration Moves]:\nU' F"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 173,
+        "ys": [
+            "[Restoration Moves]:\nF U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 2,
+        "model_call_phase1": 2,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 174,
+        "ys": [
+            "[Restoration Moves]:\nF F U"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 43,
+        "model_call_phase1": 29,
+        "model_call_phase2": 14
+    },
+    {
+        "idx": 175,
+        "ys": [
+            "[Restoration Moves]:\nF2 U U F2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 50,
+        "model_call_phase1": 33,
+        "model_call_phase2": 17
+    },
+    {
+        "idx": 176,
+        "ys": [
+            "[Restoration Moves]:\nR2 F' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 7,
+        "model_call_phase1": 7,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 177,
+        "ys": [
+            "[Restoration Moves]:\nU U R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": false
+            }
+        ],
+        "model_call": 6,
+        "model_call_phase1": 6,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 178,
+        "ys": [
+            "[Restoration Moves]:\nF2 R2"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 20,
+        "model_call_phase1": 20,
+        "model_call_phase2": 0
+    },
+    {
+        "idx": 179,
+        "ys": [
+            "[Restoration Moves]:\nR2 U' F'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 1
+            }
+        ],
+        "model_call": 59,
+        "model_call_phase1": 32,
+        "model_call_phase2": 27
+    },
+    {
+        "idx": 180,
+        "ys": [
+            "[Restoration Moves]:\nU R' R' R' U U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 103,
+        "model_call_phase1": 33,
+        "model_call_phase2": 70
+    },
+    {
+        "idx": 181,
+        "ys": [
+            "[Restoration Moves]:\nU R' U F R' U2 U"
+        ],
+        "infos": [
+            {
+                "r": 0,
+                "revised": 2
+            }
+        ],
+        "model_call": 315,
+        "model_call_phase1": 33,
+        "model_call_phase2": 282
+    },
+    {
+        "idx": 182,
+        "ys": [
+            "[Restoration Moves]:\nR2 F' U'"
+        ],
+        "infos": [
+            {
+                "r": 1,
+                "revised": 2
+            }
+        ],
+        "model_call": 124,
+        "model_call_phase1": 32,
+        "model_call_phase2": 92
+    }
+]

@@ -1,0 +1,2858 @@
+[
+    {
+        "idx": 0,
+        "ys": [
+            "1. Moves: Left, Up, Up\n2. Moves: Up, Left, Up\n3. Moves: Left, Up, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 1,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 2,
+        "ys": [
+            "1. Moves: Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down\n2. Moves: Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n3. Moves: Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 3,
+        "ys": [
+            "1. Moves: Right, Up, Left, Down, Right, Up\n2. Moves: Right, Up, Left, Down, Right, Up, Down, Right, Up\n3. Moves: Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 4,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Right, Up, Left, Left, Down, Right, Right, Up\n2. Moves: Left, Up, Right, Down, Right, Up, Left, Down, Right, Up, Left, Left\n3. Moves: Left, Up, Right, Down, Right, Up, Left, Left, Down, Right, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 5,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 6,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up\n2. Moves: Down, Left, Up, Right\n3. Moves: Down, Down, Left, Up, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 7,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 8,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 9,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 10,
+        "ys": [
+            "1. Moves: Down, Right, Up, Left\n2. Moves: Down, Right, Right, Left, Up, Left\n3. Moves: Down, Right, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 11,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right, Down\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 12,
+        "ys": [
+            "1. Moves: Left, Up, Up, Right, Down, Down, Left, Up, Up, Right\n2. Moves: Left, Up, Up, Right, Down, Left, Up, Up, Right, Down\n3. Moves: Left, Up, Right, Down, Down, Left, Up, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 13,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 14,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 15,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Left, Up\n2. Moves: Down, Left, Up, Right, Down, Left, Up\n3. Moves: Left, Down, Right, Up, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 16,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 17,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right, Down\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 18,
+        "ys": [
+            "1. Moves: Left, Up, Right\n2. Moves: Up, Right, Down, Left, Up, Right\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 19,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Down, Left\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Down, Left, Up, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 20,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n2. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 21,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 22,
+        "ys": [
+            "1. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left\n2. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down\n3. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 23,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Down, Right, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 24,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 25,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up\n2. Moves: Down, Right, Up, Left\n3. Moves: Left, Down, Right, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 26,
+        "ys": [
+            "1. Moves: Left, Up, Right\n2. Moves: Down, Left, Up, Right\n3. Moves: Down, Down, Left, Up, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 27,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right, Down\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 28,
+        "ys": [
+            "1. Moves: Right, Down, Left\n2. Moves: Down, Right, Left\n3. Moves: Right, Down, Left, Up, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 29,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 30,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left\n2. Moves: Left, Down, Right, Right, Up, Left, Left\n3. Moves: Left, Down, Down, Right, Up, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 31,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 32,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Up\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 33,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Right, Down, Left, Up, Left, Down, Right, Right\n2. Moves: Left, Down, Right, Up, Right, Down, Left, Up, Left, Down, Right, Up, Left, Down, Right\n3. Moves: Left, Down, Right, Up, Right, Down, Left, Up, Left, Down, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 34,
+        "ys": [
+            "1. Moves: Left, Down, Down, Right, Up, Up\n2. Moves: Down, Left, Down, Right, Up, Up\n3. Moves: Down, Down, Left, Right, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 35,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 36,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 37,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Left, Up, Right\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left\n3. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 38,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Down, Left\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Down, Left, Up, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 39,
+        "ys": [
+            "1. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left\n2. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down\n3. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 40,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 41,
+        "ys": [
+            "1. Moves: Up, Up, Right\n2. Moves: Up, Right, Up\n3. Moves: Right, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 42,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up\n2. Moves: Up, Right, Down, Down, Left, Up, Up\n3. Moves: Up, Right, Right, Down, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 43,
+        "ys": [
+            "1. Moves: Up, Up, Right, Down, Down, Left, Up, Up\n2. Moves: Up, Right, Down, Down, Left, Up, Up, Right, Down\n3. Moves: Up, Up, Right, Down, Left, Up, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 44,
+        "ys": [
+            "1. Moves: Left, Left, Up, Right, Right\n2. Moves: Down, Left, Up, Right, Right\n3. Moves: Left, Down, Right, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 45,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up\n2. Moves: Up, Right, Down, Down, Left, Up, Up\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 46,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up\n2. Moves: Right, Down, Down, Left, Up, Up\n3. Moves: Right, Right, Down, Left, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 47,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Left, Up, Right\n2. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 48,
+        "ys": [
+            "1. Moves: Up, Up, Right, Down, Down\n2. Moves: Up, Right, Down, Up, Right, Down, Down\n3. Moves: Up, Up, Right, Down, Right, Down, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 49,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 50,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Left, Up, Right\n2. Moves: Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 51,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 52,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 53,
+        "ys": [
+            "1. Moves: Right, Up, Left, Down, Right, Up, Left\n2. Moves: Right, Up, Left, Down, Right, Right, Left, Up, Left\n3. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 54,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 55,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 56,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 57,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Down, Right, Down, Left, Up, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 58,
+        "ys": [
+            "1. Moves: Up, Up\n2. Moves: Right, Down, Left, Up, Up\n3. Moves: Right, Down, Down, Left, Up, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 59,
+        "ys": [
+            "1. Moves: Left, Up, Left, Down, Right, Right, Down, Left, Up, Left, Down, Right\n2. Moves: Left, Up, Left, Down, Right, Down, Left, Up, Left, Down, Right, Right\n3. Moves: Left, Up, Left, Down, Right, Right, Down, Left, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 60,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Left, Up, Right\n2. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 61,
+        "ys": [
+            "1. Moves: Up, Up, Right, Down, Down\n2. Moves: Up, Right, Down, Up, Right, Down, Down\n3. Moves: Up, Up, Right, Down, Right, Down, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 62,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 63,
+        "ys": [
+            "1. Moves: Right, Right, Up, Left, Left, Down, Right, Right, Up, Left, Down, Left\n2. Moves: Right, Right, Up, Left, Down, Right, Right, Up, Left, Down, Left\n3. Moves: Right, Up, Left, Down, Right, Right, Up, Left, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 64,
+        "ys": [
+            "1. Moves: Left, Left, Up, Up\n2. Moves: Left, Up, Right, Up\n3. Moves: Up, Left, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 65,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Right, Down\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 66,
+        "ys": [
+            "1. Moves: Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n2. Moves: Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 67,
+        "ys": [
+            "1. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down\n3. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 68,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 69,
+        "ys": [
+            "1. Moves: Left, Left, Up, Right, Right\n2. Moves: Up, Left, Left, Down, Right, Right\n3. Moves: Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 70,
+        "ys": [
+            "1. Moves: Up, Left, Down, Right, Up, Left, Down, Right, Up, Left\n2. Moves: Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right\n3. Moves: Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 71,
+        "ys": [
+            "1. Moves: Left, Up, Up, Right, Down, Down, Left, Up, Up, Right, Down, Down\n2. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Up, Right\n3. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 72,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 73,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right, Down\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 74,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 75,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right, Down\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 76,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right, Down\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 77,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 78,
+        "ys": [
+            "1. Moves: Right\n2. Moves: Down, Up, Right\n3. Moves: Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 79,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n2. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 80,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up\n2. Moves: Down, Right, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 81,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 82,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Left, Down, Right, Right, Up, Left, Down, Left\n2. Moves: Right, Down, Left, Up, Left, Down, Right, Up, Left, Down, Right, Left\n3. Moves: Right, Down, Left, Up, Left, Down, Right, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 83,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Left, Down, Right, Up\n2. Moves: Right, Down, Left, Up, Left, Down, Right, Up, Left, Down, Right, Up\n3. Moves: Right, Down, Left, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 84,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 85,
+        "ys": [
+            "1. Moves: Up, Up, Right, Down, Down\n2. Moves: Up, Right, Down, Up, Up, Right, Down, Down\n3. Moves: Up, Up, Right, Down, Right, Up, Down, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 86,
+        "ys": [
+            "1. Moves: Left, Up, Right, Up, Left\n2. Moves: Up, Right, Down, Right, Up, Left\n3. Moves: Left, Up, Right, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 1,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 87,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right, Down\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 88,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up\n2. Moves: Down, Right, Up, Left\n3. Moves: Left, Down, Right, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 89,
+        "ys": [
+            "1. Moves: Left, Up, Right\n2. Moves: Down, Left, Up, Right\n3. Moves: Down, Down, Up, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 90,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 91,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 92,
+        "ys": [
+            "1. Moves: Left, Up, Left, Down, Right, Right, Down, Left, Up, Left, Down, Right\n2. Moves: Left, Up, Left, Down, Right, Down, Left, Up, Left, Down, Right, Right\n3. Moves: Left, Up, Left, Down, Right, Right, Down, Left, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 93,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 94,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 95,
+        "ys": [
+            "1. Moves: Up, Right, Down\n2. Moves: Right, Down, Up, Right, Down\n3. Moves: Up, Right, Down, Left, Up, Right, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 96,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 97,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 98,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 99,
+        "ys": [
+            "1. Moves: Left, Down, Right, Down, Left, Up, Up, Right\n2. Moves: Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Down, Right, Up, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 100,
+        "ys": [
+            "1. Moves: Left, Down, Right, Down, Left, Up, Up, Right, Down, Down, Left, Up\n2. Moves: Left, Down, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n3. Moves: Left, Down, Right, Down, Left, Up, Right, Down, Left, Up, Up, Right, Down, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 101,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 102,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right\n2. Moves: Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 103,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 104,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right\n2. Moves: Down, Right, Up, Left, Down, Right, Left\n3. Moves: Left, Down, Right, Right, Up, Left, Down, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 105,
+        "ys": [
+            "1. Moves: Down, Right, Up, Left, Down, Right, Up\n2. Moves: Down, Right, Up, Left, Down, Right, Up, Down, Right, Up\n3. Moves: Down, Right, Up, Left, Down, Right, Up, Down, Right, Up, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 106,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Left, Up, Right\n2. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 107,
+        "ys": [
+            "1. Moves: Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right\n2. Moves: Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down\n3. Moves: Up, Left, Down, Right, Up, Left, Down, Right, Up, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 108,
+        "ys": [
+            "1. Moves: Up, Right, Down, Left, Up, Right, Down\n2. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down\n3. Moves: Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 109,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Down, Left\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Down, Left, Up, Down"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 110,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 111,
+        "ys": [
+            "1. Moves: Right, Up, Left, Down, Right, Up\n2. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n3. Moves: Right, Up, Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 112,
+        "ys": [
+            "1. Moves: Left, Up, Up, Right\n2. Moves: Left, Left, Up, Up, Right, Right\n3. Moves: Left, Up, Right, Up, Right, Down, Down, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 113,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 114,
+        "ys": [
+            "1. Moves: Left, Up, Right, Down, Left, Up, Right\n2. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right\n3. Moves: Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 115,
+        "ys": [
+            "1. Moves: Right, Down, Down, Left, Up, Up\n2. Moves: Right, Down, Left, Up, Down, Right, Up\n3. Moves: Right, Down, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 116,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up\n2. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Right, Down, Left, Up\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 117,
+        "ys": [
+            "1. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Up\n2. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Right\n3. Moves: Left, Down, Right, Up, Left, Down, Right, Up, Left, Down, Right, Left"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "idx": 118,
+        "ys": [
+            "1. Moves: Right, Down, Left, Up\n2. Moves: Down, Left, Up, Right\n3. Moves: Right, Down, Left, Up, Right, Down, Left, Up"
+        ],
+        "infos": [
+            {
+                "r": {
+                    "r0": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r1": {
+                        "r": 0,
+                        "revised": false
+                    },
+                    "r2": {
+                        "r": 0,
+                        "revised": false
+                    }
+                }
+            }
+        ]
+    }
+]

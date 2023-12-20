@@ -1,0 +1,23 @@
+env: game24
+
+method: cot
+
+task:  
+  data: data/game24/game24_test.csv  
+  total_game_step: 3  
+  task_start_index: 0  
+  task_end_index: 1 
+  
+gpt:  
+  backend: gpt-4
+  temperature: 0.0  
+  stop: None    
+  
+param:
+  n_generate_sample: 10  
+  n_evaluate_sample: None 
+  n_select_sample: None 
+  last_step: 1 
+  
+multi_solution: 1 
+  
