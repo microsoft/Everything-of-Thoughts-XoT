@@ -116,7 +116,7 @@ triton==2.1.0
 typer==0.9.0
 typing_extensions==4.8.0
 tzdata==2023.3
-urllib3==2.0.6
+urllib3==2.0.7
 wasabi==1.1.2
 wcwidth==0.2.8
 weasel==0.3.3
