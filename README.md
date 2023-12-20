@@ -70,7 +70,7 @@ python main.py --env game24 --mode test --test_env game24/data/test.csv --numMCT
 
 ## Inference
  
-* The ```./xot_all_in_one/``` directory houses all the necessary resources for performing inference. In addition to our XoT, we also offer implementations for IO, CoT, CoT(sc), ToT, and GoT. For each method, we provide a corresponding solver located in ```./xot_all_in_one/xot/controller/solver/{method}.py```.
+* The ```./xot_all_in_one/``` directory houses all the necessary resources for performing inference. In addition to our XoT, we also offer implementations for IO, CoT, CoT-SC, ToT, and GoT. For each method, we provide a corresponding solver located in ```./xot_all_in_one/xot/controller/solver/{method}.py```.
 
 
 ### Model Path
@@ -145,7 +145,7 @@ We evaluated XoT on both single-solution and multi-solution problem-solving task
 ## Citations
 Your support would be greatly appreciated if you find XoT interesting or useful. Please acknowledge our work by citing the paper and giving this repository a star. For any inquiries, don't hesitate to contact us at rmding@gatech.edu or simply open an issue. Thank you!
 
-Paper link: https://arxiv.org/abs/2311.04254
+Paper link: https://arxiv.org/abs/2311.04254.
 
 ```
 @article{ding2023thoughts,
