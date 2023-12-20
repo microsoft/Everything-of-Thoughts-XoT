@@ -5,7 +5,7 @@
 
 
 
-![Compare](/assets/compare.jpg "Compare"){width=50%}
+![Compare](/assets/compare.jpg "Compare")
  
 This repository contains the implementation of our novel thought prompting approach, **"Everything of Thoughts" (XoT)**. XoT combines pretrained reinforcement learning and Monte Carlo Tree Search (MCTS) to incorporate external domain knowledge into thoughts, thereby enhancing Large Language Models' (LLMs) capabilities and enabling them to generalize to unseen problems efficiently. This approach is designed to address the limitations of existing thought paradigms, particularly the "Penrose triangle" issue which suggests that a thought can at most exhibit two attributes out of performance, efficiency, and flexibility.
 
