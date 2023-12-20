@@ -1,6 +1,6 @@
 
 
-# Everything of Thoughts (XoT)<img src="/assets/triangle.png" alt="triangle" title="triangle" width="36" height="36" style="margin-bottom: 0px;">: Defying the Law of Penrose Triangle for Thought Generation
+# Everything of Thoughts (XoT)<img src="/assets/triangle.png" alt="triangle" title="triangle" width="36" height="36" style="margin-bottom: -10px;">: Defying the Law of Penrose Triangle for Thought Generation
 
 
 
