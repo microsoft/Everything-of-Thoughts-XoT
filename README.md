@@ -141,6 +141,7 @@ We evaluated XoT on both single-solution and multi-solution problem-solving task
 
 ## Citations
 Your support would be greatly appreciated if you find XoT interesting or useful. Please acknowledge our work by citing the paper and giving this repository a star. For any inquiries, don't hesitate to contact us at rmding@gatech.edu or simply open an issue. Thank you!
+Paper link: https://arxiv.org/abs/2311.04254
 
 ```
 @article{ding2023thoughts,
