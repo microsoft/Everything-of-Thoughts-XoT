@@ -38,11 +38,11 @@ class XoT_Solver:
         self.game = game
         self.prompter = prompter
         self.parser = parser
-        self.nmcts, self.c = self.inital_xot(args)
+        self.nmcts, self.c = self.initial_xot(args)
 
         self.to_print = to_print
     
-    def inital_xot(self, args):
+    def initial_xot(self, args):
         """
         Initializes the Neural Network and MCTS based on the game environment specified in the arguments.
         """

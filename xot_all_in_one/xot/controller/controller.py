@@ -32,7 +32,7 @@ class Controller:
         self.parser = parser
 
 
-    def inital_logs(self, config):
+    def initial_logs(self, config):
         if config.method == 'io' or config.method == 'cot':
             file = f'logs/{config.env}/{config.gpt.backend}_{config.gpt.temperature}_{config.method}_sample{config.param.n_generate_sample}_multi{config.multi_solution}_start{config.task.task_start_index}_end{config.task.task_end_index}.json'
         elif config.method == 'tot':
@@ -46,7 +46,7 @@ class Controller:
         os.makedirs(os.path.dirname(file), exist_ok=True)
         return file
 
-    def inital_solver(self, config):
+    def initial_solver(self, config):
         if config.method == 'io':
             return IO_Solver(config, self.gpt, self.game, self.prompter, self.parser)
         elif config.method == 'cot':
@@ -63,8 +63,8 @@ class Controller:
     def run(self):
         config = self.config
         logs = []
-        file = self.inital_logs(config)
-        solver = self.inital_solver(config)
+        file = self.initial_logs(config)
+        solver = self.initial_solver(config)
 
         for idx in range(config.task.task_start_index, config.task.task_end_index):
             x = self.game.getOneTestBoard(idx)
